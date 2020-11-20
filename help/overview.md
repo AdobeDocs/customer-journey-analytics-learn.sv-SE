@@ -8,7 +8,7 @@ activity: use
 doc-type: overview
 team: Technical Marketing
 translation-type: tm+mt
-source-git-commit: fb299e69c1a95322711a8fdd10bb8f96bc466d29
+source-git-commit: 4ff16ece05eabc3b0d012d0638ddd36d3e08764d
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 3%
@@ -31,17 +31,14 @@ Med Customer Journey Analytics kan ni styra hur ni kopplar samman online- och of
 
 * **[Flytta Adobe Analytics-segment till Customer Journey Analytics (video)](/help/moving-adobe-analytics-segments-to-customer-journey-analytics.md)**
 
-   <br>
    *Tips om hur du återskapar Adobe Analytics-segment i Customer Journey Analytics*
 
 * **[Flytta dina beräknade värden från Adobe Analytics till Customer Journey Analytics (video)](/help/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)**
 
-   <br>
    *Tips om hur du återskapar dina Adobe Analytics Calculated Metrics i Customer Journey Analytics*
 
 * **[Skapa flerkanalsfilter (video)](/help/creating-cross-channel-filters-in-customer-journey-analytics.md)**
 
-   <br>
    *Skapa filter i Customer Journey Analytics som använder mer än en datakälla och mer än en kanal*
 
 ## Personalval
