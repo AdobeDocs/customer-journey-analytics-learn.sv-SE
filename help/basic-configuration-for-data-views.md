@@ -1,17 +1,18 @@
 ---
 title: Grundkonfiguration för datavyer i Customer Journey Analytics
-description: När du har skapat en anslutning i Customer Journey Analytics till datauppsättningar i Adobe Experience Platform måste du skapa en datavy för den anslutningen, så att du kan använda data i Analysis Workspace on Platform. I den här videon får du hjälp med den grundläggande konfigurationen av en datavy.
+description: När du har skapat en anslutning i Adobe Customer Journey Analytics till datauppsättningar i Adobe Experience Platform måste du skapa en datavy för den anslutningen, så att du kan använda data i Analysis Workspace on Platform. I den här videon får du hjälp med den grundläggande konfigurationen av en datavy.
 feature: customer journey analytics
 topics: null
 audience: administrator
 activity: setup
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 30186.jpg
 kt: 3958
 translation-type: tm+mt
-source-git-commit: 36de96aa477ee29613cc4db2619c1d8bd1d811d0
+source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '135'
 ht-degree: 1%
 
 ---
