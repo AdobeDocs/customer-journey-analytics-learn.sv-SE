@@ -1,17 +1,18 @@
 ---
 title: Arkitektur och integrering av Customer Journey Analytics
-description: I den här videon hittar du en genomgång av Customer Journey Analytics arkitektur, inklusive hur den kopplas samman med och integreras med Adobe Experience Platform.
+description: I den här videon hittar du en genomgång av arkitekturen i Adobe Customer Journey Analytics, inklusive hur den kopplas samman med och integreras med Adobe Experience Platform.
 feature: customer journey analytics
 topics: null
 audience: developer, architect
 activity: understand
 doc-type: technical video
 team: Technical Marketing
+thumbnail: 32483.jpg
 kt: 4449
 translation-type: tm+mt
-source-git-commit: 36de96aa477ee29613cc4db2619c1d8bd1d811d0
+source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '83'
 ht-degree: 9%
 
 ---
