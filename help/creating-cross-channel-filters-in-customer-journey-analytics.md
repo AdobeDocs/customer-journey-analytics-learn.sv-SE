@@ -1,17 +1,18 @@
 ---
 title: Skapa flerkanalsfilter i Customer Journey Analytics
-description: I den här videon diskuterar vi hur du skapar filter i Customer Journey Analytics som använder mer än en datakälla och mer än en kanal. Du kommer också att se hur dessa filter kan kombineras i visualiseringar.
+description: I den här videon diskuterar vi hur du skapar filter i Adobe Customer Journey Analytics som använder mer än en datakälla och mer än en kanal. Du kommer också att se hur dessa filter kan kombineras i visualiseringar.
 feature: customer journey analytics
 topics: null
 audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 31983.jpg
 kt: 3962
 translation-type: tm+mt
-source-git-commit: 36de96aa477ee29613cc4db2619c1d8bd1d811d0
+source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '103'
 ht-degree: 7%
 
 ---
