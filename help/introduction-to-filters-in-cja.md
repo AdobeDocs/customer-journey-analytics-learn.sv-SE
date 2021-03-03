@@ -1,24 +1,25 @@
 ---
 title: Introduktion till filter i Customer Journey Analytics
 description: I den här videon kommer du att få se filter och Filter Builder i Adobe Customer Journey Analytics.
-feature: customer journey analytics
+feature: Filter
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 32114.jpg
 kt: 4447
+role: Yrkesverksamma inom affärsverksamhet
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
+source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 13%
+source-wordcount: '63'
+ht-degree: 12%
 
 ---
 
 
-# Introduktion till [!UICONTROL Filters] Customer Journey Analytics
+# Introduktion till [!UICONTROL Filters] i Customer Journey Analytics
 
 I den här videon kommer du till [!UICONTROL filters] och [!UICONTROL Filter Builder] i Customer Journey Analytics.
 
