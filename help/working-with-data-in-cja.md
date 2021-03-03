@@ -1,19 +1,20 @@
 ---
 title: Arbeta med data i Customer Journey Analytics
 description: I den här videon får du lära dig hur datauppsättningsscheman översätts till variabler i Adobe Customer Journey Analytics (CJA) samt hur CJA hanterar mycket hög kardinalitet.
-feature: kundreseanalys
+feature: Anslutningar
 topics: null
-audience: administrator, analyst, marketer, architect
 activity: understand
 doc-type: technical video
 team: Technical Marketing
 thumbnail: 32112.jpg
 kt: 3964
+role: '"Datatekniker, dataarkitekt"'
+level: Mellanliggande
 translation-type: tm+mt
-source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
+source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 9%
+source-wordcount: '91'
+ht-degree: 8%
 
 ---
 
