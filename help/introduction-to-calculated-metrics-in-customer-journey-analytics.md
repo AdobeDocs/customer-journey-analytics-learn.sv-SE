@@ -1,24 +1,25 @@
 ---
 title: Introduktion till beräknade värden i Customer Journey Analytics
 description: I den här videon går vi igenom grunderna för att skapa beräknade värden i Adobe Customer Journey Analytics.
-feature: customer journey analytics - calculated metrics
+feature: Mätvärden
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31787.jpg
 kt: 4448
+role: Yrkesverksamma inom affärsverksamhet
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
+source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 12%
+source-wordcount: '67'
+ht-degree: 13%
 
 ---
 
 
-# Introduktion till [!UICONTROL Calculated Metrics] Customer Journey Analytics
+# Introduktion till [!UICONTROL Calculated Metrics] i Customer Journey Analytics
 
 I den här videon går vi igenom grunderna för att skapa [!UICONTROL Calculated Metrics] i Customer Journey Analytics.
 
