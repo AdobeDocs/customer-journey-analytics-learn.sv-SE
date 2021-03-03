@@ -1,17 +1,17 @@
 ---
 title: Customer Journey Analytics Videor och Tutorials
 description: En samling videor och självstudiekurser för Adobe Customer Journey Analytics.
-feature: overview
 topics: null
-audience: all
 activity: use
 doc-type: overview
 team: Technical Marketing
+role: '"Affärsledare, utvecklare, datatekniker, arkitekt, dataarkitekt, administratör, ledare"'
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: 4ff16ece05eabc3b0d012d0638ddd36d3e08764d
+source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 3%
+source-wordcount: '308'
+ht-degree: 2%
 
 ---
 
@@ -21,9 +21,9 @@ ht-degree: 3%
 Välkommen till webbplatsen [!DNL Customer Journey Analytics] Tutorials.  Genom att använda dessa självstudiekurser tillsammans med [dokumentationen](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html) får du en bättre förståelse för hur du använder Adobe Analytics för att få kundinsikter i flera kanaler snabbare än någonsin.  För att komma igång,
 
 * Se avsnittet **&quot;Nyheter&quot;** nedan för de senaste funktionerna
-* **Personalval** visar en del av vårt favoritinnehåll
-* Utforska innehållet efter ämne och underämne i den **vänstra navigeringen**
-* Använd **sökfältet** längst upp på sidan om du vet vad du söker efter
+* **Personalväljaren** lyfter fram en del av vårt favoritinnehåll
+* Utforska innehållet efter ämne och underämne i **vänster navigering**
+* Använd fältet **sök** längst upp på sidan om du vet vad du söker efter
 
 Med Customer Journey Analytics kan ni styra hur ni kopplar samman online- och offlinedata i Analysis Workspace med vilket kundID som helst, vilket slutligen gör att ni kan skapa attribuering, segmentering, flöde, utfall osv. i hela er kunddatauppsättning.
 
@@ -55,7 +55,7 @@ Med Customer Journey Analytics kan ni styra hur ni kopplar samman online- och of
     </a>
     </div>
     <p>
-    <em>En praktisk bild av hur identiteten påverkar er analys i Customer Journey Analytics</em>
+    <em>En praktisk titt på hur identiteten påverkar er analys i Customer Journey Analytics</em>
     <p>
   </td>
    <td>
