@@ -3,10 +3,10 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Självstudiekurs
 translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+source-git-commit: 83f374ef8303144f358221b656fd0480b009559d
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 5%
+source-wordcount: '128'
+ht-degree: 3%
 
 ---
 
@@ -30,3 +30,7 @@ ht-degree: 5%
 + [Introduktion till filter](/help/introduction-to-filters-in-cja.md)
 + [Skapa flerkanalsfilter](/help/creating-cross-channel-filters-in-customer-journey-analytics.md)
 + [Flytta Adobe Analytics-segment till Customer Journey Analytics](/help/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
++ Fotavtryck {#blueprints}
+   + [Customer Journey Analytics Blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
+   + [Scenario för digital beteendedatakonsolidering](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/digital-behavioral-data-consolidation.html)
+   + [Anropa scenariot Resursanalys](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/call-deflect.html?lang=en#customer-journey-analytics)
