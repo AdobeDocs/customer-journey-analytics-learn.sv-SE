@@ -1,15 +1,15 @@
 ---
 title: Flerkanalsattribuering i Customer Journey Analytics
 description: I den här videon visar vi hur du kan använda visualiseringar för att visa attribuering (ge kredit) i olika kanaler i Adobe Customer Journey Analytics.
-feature: Attribuering
+feature: Attribution
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31772.jpg
 kt: 3963
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

@@ -1,16 +1,16 @@
 ---
 title: Flytta dina beräknade värden från Adobe Analytics till Customer Journey Analytics
 description: I den här videon hittar du tips på hur du återskapar dina Adobe Analytics Calculated Metrics i Customer Journey Analytics.
-feature: Mätvärden
+feature: Metrics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31788.jpg
 kt: 3966
-topic: Migrering
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+topic: Migration
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

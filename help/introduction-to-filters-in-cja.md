@@ -1,15 +1,15 @@
 ---
 title: Introduktion till filter i Customer Journey Analytics
 description: I den här videon kommer du att få se filter och Filter Builder i Adobe Customer Journey Analytics.
-feature: Filter
+feature: Filters
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 32114.jpg
 kt: 4447
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
