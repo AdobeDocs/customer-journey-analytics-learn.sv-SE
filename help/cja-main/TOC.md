@@ -3,10 +3,10 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 83f374ef8303144f358221b656fd0480b009559d
+source-git-commit: dfd17aab3faf67f9d1b1739ed8e1da6809734941
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 3%
+source-wordcount: '138'
+ht-degree: 2%
 
 ---
 
@@ -20,6 +20,8 @@ ht-degree: 3%
 + [Arbeta med data](/help/working-with-data-in-cja.md)
 + [Anslut till datakällor i plattformen](/help/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
 + [Grundkonfiguration för datavyer](/help/basic-configuration-for-data-views.md)
++ [Konfigurera komponentinställningar i datavyer](/help/configuring-component-settings-in-data-views.md)
++ [Formatera mätvärden i datavyer](/help/formatting-metrics-in-data-views.md)
 + [Attributinställningar i datavyer](/help/attribution-settings-in-data-views.md)
 + [Förstå hur CJA använder identitet](/help/understanding-how-customer-journey-analytics-uses-identity.md)
 + [Lägg till tidigare data till en befintlig anslutning](/help/add-past-data-to-an-existing-connection-in-cja.md)
