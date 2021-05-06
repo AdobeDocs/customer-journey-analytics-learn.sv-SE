@@ -1,31 +1,24 @@
 ---
-title: Attributinställningar i datavyer i Customer Journey Analytics
-description: När du konfigurerar datavyer i Adobe Customer Journey Analytics kan du välja attribueringsinställningar för att styra hur mått och mätvärden fungerar tillsammans. I den här videon får du hjälp med standardinställningar, alternativ och hur mått- och dimensionsattribueringsinställningarna samverkar.
-feature: Data Views
-topics: null
-activity: setup
-doc-type: feature video
-team: Technical Marketing
-thumbnail: 30185.jpg
-kt: 3959
+title: Attributinställningar i datavyer
+description: Varje dimension ska ha en allokeringsinställning (som avgör vilket värde som får kredit för konvertering) och en förfalloinställning (hur länge värdet kvarstår), så att systemet vet hur värdet ska tilldelas dimensionsvärdena. På samma sätt bör mätvärden, och när de fungerar tillsammans, ha en attributmodell och ett uppslagsfönster inställt. I den här videon får du hjälp med att ange de här helt viktiga inställningarna.
+feature: Datavyer
+topic: Administrering
 role: Administrator
 level: Beginner
+doc-type: feature video
+thumbnail: 30185.jpg
+kt: 3959
+exl-id: 9a1663ec-3fd1-4899-971f-11e42cea94fc
 translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+source-git-commit: a05322bcba636d41f07b909f9673b68c09d499aa
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 1%
+source-wordcount: '134'
+ht-degree: 0%
 
 ---
 
+# [!UICONTROL Attribution] Inställningar i  [!UICONTROL Data Views]
 
-# [!UICONTROL Attribution] Inställningar i  [!UICONTROL Data Views] Customer Journey Analytics
-
-När du konfigurerar [!UICONTROL Data Views] i Customer Journey Analytics kan du välja [!UICONTROL attribution]-inställningar för att styra hur [!UICONTROL dimensions] och [!UICONTROL metrics] ska fungera tillsammans. I den här videon visas standardinställningarna, alternativen och hur inställningarna för [!UICONTROL metric] och [!UICONTROL dimension] [!UICONTROL attribution] fungerar.
+Varje dimension ska ha en allokeringsinställning (som avgör vilket värde som får kredit för konvertering) och en förfalloinställning (hur länge värdet kvarstår), så att systemet vet hur värdet ska tilldelas dimensionsvärdena. På samma sätt bör mätvärden, och när de fungerar tillsammans, ha en attributmodell och ett uppslagsfönster inställt. I den här videon får du hjälp med att ange de här helt viktiga inställningarna.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30185/?quality=12&enable10seconds=on&speedcontrol=on)
-
-## Ytterligare material
-
-* [Grundkonfiguration för datavyer](basic-configuration-for-data-views.md)
-* [Customer Journey Analytics - Konfigurationsdokumentation](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-dataviews/configure-dataviews.html) för datavyer.
