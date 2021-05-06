@@ -3,9 +3,9 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: c40fc8536dd8b8d81946f8e527cbbf2740e6b970
+source-git-commit: a05322bcba636d41f07b909f9673b68c09d499aa
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '175'
 ht-degree: 2%
 
 ---
@@ -21,9 +21,12 @@ ht-degree: 2%
 + [Anslut till datakällor i plattformen](/help/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
 + [Grundkonfiguration för datavyer](/help/basic-configuration-for-data-views.md)
 + [Konfigurera komponentinställningar i datavyer](/help/configuring-component-settings-in-data-views.md)
++ [Inställningar för komponenttyp i datavyer](/help/component-type-settings-in-data-views.md)
 + [Formatera mätvärden i datavyer](/help/formatting-metrics-in-data-views.md)
++ [Inkludera eller exkludera mätvärden i datavyer](/help/include-or-exclude-metric-values-in-data-views.md)
 + [Skapa värdeintervall i datavyer för analys](/help/creating-value-buckets-in-data-views-for-analysis.md)
 + [Inkludera eller exkludera dimensionsvärden i datavyer](/help/include-or-exclude-dimension-values-in-data-views.md)
++ [Konfigurera alternativ utan värde i datavyer](/help/configure-no-value-options-in-data-views.md)
 + [Attributinställningar i datavyer](/help/attribution-settings-in-data-views.md)
 + [Förstå hur CJA använder identitet](/help/understanding-how-customer-journey-analytics-uses-identity.md)
 + [Lägg till tidigare data till en befintlig anslutning](/help/add-past-data-to-an-existing-connection-in-cja.md)
