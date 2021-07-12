@@ -1,24 +1,23 @@
 ---
 title: Flytta Adobe Analytics-segment till Customer Journey Analytics
 description: I den här videon får du tips på hur du återskapar dina Adobe Analytics-segment som"filter" i Customer Journey Analytics.
-feature: Filters
+feature: Filter
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31982.jpg
 kt: 3967
-topic: Migration
-role: Business Practitioner
+topic: Migrering
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+exl-id: b359a509-f920-40d2-978f-983f1b555e86
+source-git-commit: dcce691a53200504967926e176b85dbeea667195
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 10%
+source-wordcount: '71'
+ht-degree: 11%
 
 ---
-
 
 # Flytta Adobe Analytics [!UICONTROL Segments] till Customer Journey Analytics
 
