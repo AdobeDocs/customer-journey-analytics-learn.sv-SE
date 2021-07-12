@@ -1,23 +1,22 @@
 ---
 title: Anslut Customer Journey Analytics till datakällor på plattformen
 description: Adobe Customer Journey Analytics (CJA) ger er Analysis Workspace ovanpå datauppsättningar från Adobe Experience Platform, för att kunna utföra flerkanalsanalyser av era data. I den här videon visas hur du skapar anslutningen mellan CJA och plattformsdatauppsättningarna, inklusive hur du ställer in anslutningen för att strömma pågående data till CJA från plattformen.
-feature: Connections
+feature: Anslutningar
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 30140.jpg
 kt: 3954
-role: "Data Engineer, Data Architect"
+role: Data Engineer, Data Architect
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+exl-id: d25dab66-52c7-45aa-b102-e3e41fa7d017
+source-git-commit: dcce691a53200504967926e176b85dbeea667195
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '158'
 ht-degree: 6%
 
 ---
-
 
 # Anslut Customer Journey Analytics till data [!UICONTROL Sources] i plattformen
 
