@@ -3,19 +3,18 @@ title: Inkludera eller exkludera dimensionsvärden i datavyer
 description: Med den här konfigurationsfunktionen för datavy kan du filtrera värden i dimensioner för att göra analytikernas liv enklare när de skapar projekt i Customer Journey Analytics. Du kommer att tacka mig senare (efter att dina analytiker tackar dig).
 feature: Datavyer
 topic: Administrering
-role: Administrator
+role: Admin
 level: Beginner
 doc-type: feature video
 thumbnail: 332906.jpg
 kt: 7588
-translation-type: tm+mt
-source-git-commit: c40fc8536dd8b8d81946f8e527cbbf2740e6b970
+exl-id: 4bc0479a-7dc7-4e52-a6f7-0b5e45441f4e
+source-git-commit: dcce691a53200504967926e176b85dbeea667195
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 2%
 
 ---
-
 
 # Inkludera eller exkludera dimensionsvärden i datavyer
 
