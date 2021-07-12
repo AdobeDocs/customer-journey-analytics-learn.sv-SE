@@ -5,11 +5,10 @@ feature: Datavyer
 doc-type: feature video
 thumbnail: 30186.jpg
 kt: 3958
-role: Administrator
+role: Admin
 level: Beginner
 exl-id: 132e8131-1574-4728-9108-8e5cdff3145e
-translation-type: tm+mt
-source-git-commit: c40fc8536dd8b8d81946f8e527cbbf2740e6b970
+source-git-commit: dcce691a53200504967926e176b85dbeea667195
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 1%
