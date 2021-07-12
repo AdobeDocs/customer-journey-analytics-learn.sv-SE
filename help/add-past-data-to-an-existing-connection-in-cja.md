@@ -1,23 +1,22 @@
 ---
 title: Lägg till tidigare data till en befintlig anslutning i Customer Journey Analytics
 description: I den här videon får du lära dig hur du lägger till tidigare data (data som har en tidigare tidsstämpel kopplad till) i din befintliga Adobe Customer Journey Analytics-analys via anslutningar och datavyer.
-feature: Connections
+feature: Anslutningar
 topics: null
 activity: understand
 doc-type: technical video
 team: Technical Marketing
 thumbnail: 32549.jpg
 kt: 3965
-role: "Data Engineer, Data Architect"
+role: Data Engineer, Data Architect
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+exl-id: c8f0b90d-d31f-4702-a838-70ab78b690c0
+source-git-commit: dcce691a53200504967926e176b85dbeea667195
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 7%
+source-wordcount: '96'
+ht-degree: 8%
 
 ---
-
 
 # Lägg till tidigare data i en befintlig [!UICONTROL Connection] i Customer Journey Analytics
 
