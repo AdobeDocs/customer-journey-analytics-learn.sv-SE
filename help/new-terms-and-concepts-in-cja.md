@@ -1,23 +1,22 @@
 ---
 title: Nya villkor och begrepp i Customer Journey Analytics
 description: I den här videon ska vi diskutera viktiga termer och koncept i Adobe Customer Journey Analytics, hur de kopplas till termer och begrepp i Adobe Analytics och även var de kan ses i Customer Journey Analytics.
-feature: CJA Workspace Basics
+feature: Grundläggande om arbetsytan i CJA
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 32113.jpg
 kt: 3960
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+exl-id: aa063ebb-c171-47a8-b1c5-12f24e1a59b8
+source-git-commit: dcce691a53200504967926e176b85dbeea667195
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 6%
+source-wordcount: '112'
+ht-degree: 7%
 
 ---
-
 
 # Nya villkor och begrepp i Customer Journey Analytics
 
