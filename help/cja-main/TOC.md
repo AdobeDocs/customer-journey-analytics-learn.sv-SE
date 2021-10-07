@@ -2,11 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-translation-type: tm+mt
-source-git-commit: a05322bcba636d41f07b909f9673b68c09d499aa
+source-git-commit: 022ef9cecbff62fa102fcefdadb34c720eaf581b
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -37,6 +36,7 @@ ht-degree: 2%
 + [Introduktion till filter](/help/introduction-to-filters-in-cja.md)
 + [Skapa flerkanalsfilter](/help/creating-cross-channel-filters-in-customer-journey-analytics.md)
 + [Flytta Adobe Analytics-segment till Customer Journey Analytics](/help/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
++ [Report Builder för Customer Journey Analytics](/help/report-builder-for-customer-journey-analytics.md)
 + Fotavtryck {#blueprints}
    + [Customer Journey Analytics Blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
    + [Scenario för digital beteendedatakonsolidering](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/digital-behavioral-data-consolidation.html)
