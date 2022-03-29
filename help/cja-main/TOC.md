@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 022ef9cecbff62fa102fcefdadb34c720eaf581b
+source-git-commit: c5cec9481dac39aec768ce0edd3cb9e6970eeb25
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '188'
+ht-degree: 2%
 
 ---
 
@@ -18,6 +18,7 @@ ht-degree: 0%
 + [Arkitektur och integrering](/help/architecture-and-integrations-of-cja.md)
 + [Arbeta med data](/help/working-with-data-in-cja.md)
 + [Anslut till datakällor i plattformen](/help/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
++ [Översikt över konfiguration av datavyer för CJA](/help/overview-of-configuring-data-views-for-cja.md)
 + [Grundkonfiguration för datavyer](/help/basic-configuration-for-data-views.md)
 + [Konfigurera komponentinställningar i datavyer](/help/configuring-component-settings-in-data-views.md)
 + [Inställningar för komponenttyp i datavyer](/help/component-type-settings-in-data-views.md)
@@ -37,7 +38,7 @@ ht-degree: 0%
 + [Skapa flerkanalsfilter](/help/creating-cross-channel-filters-in-customer-journey-analytics.md)
 + [Flytta Adobe Analytics-segment till Customer Journey Analytics](/help/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
 + [Report Builder för Customer Journey Analytics](/help/report-builder-for-customer-journey-analytics.md)
-+ Fotavtryck {#blueprints}
++ Blueprints {#blueprints}
    + [Customer Journey Analytics Blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
    + [Scenario för digital beteendedatakonsolidering](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/digital-behavioral-data-consolidation.html)
    + [Anropa scenariot Resursanalys](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/call-deflect.html?lang=en#customer-journey-analytics)
