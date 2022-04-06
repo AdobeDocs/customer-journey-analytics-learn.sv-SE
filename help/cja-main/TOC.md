@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: c5cec9481dac39aec768ce0edd3cb9e6970eeb25
+source-git-commit: d95dbede2c578221c94b2234d7b219a0ea3d985f
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '193'
 ht-degree: 2%
 
 ---
@@ -18,6 +18,7 @@ ht-degree: 2%
 + [Arkitektur och integrering](/help/architecture-and-integrations-of-cja.md)
 + [Arbeta med data](/help/working-with-data-in-cja.md)
 + [Anslut till datakällor i plattformen](/help/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
++ [Upplevelse av anslutningsinformation i CJA](/help/connections-details-experience-in-cja.md)
 + [Översikt över konfiguration av datavyer för CJA](/help/overview-of-configuring-data-views-for-cja.md)
 + [Grundkonfiguration för datavyer](/help/basic-configuration-for-data-views.md)
 + [Konfigurera komponentinställningar i datavyer](/help/configuring-component-settings-in-data-views.md)
