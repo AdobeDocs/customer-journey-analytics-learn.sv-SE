@@ -8,16 +8,16 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3eb8a80c-955a-4a5d-a00e-daeabd69655b
-source-git-commit: a5355b403cb353272dd5580adac31d4f4b1f1769
+source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 3%
+source-wordcount: '298'
+ht-degree: 0%
 
 ---
 
-# Översikt
+# Självstudiekurser för Customer Journey Analytics
 
-Välkommen till [!DNL Customer Journey Analytics] Tutorials webbplats.  Använd dessa självstudiekurser tillsammans med [dokumentation](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html) ger er en bättre förståelse för hur ni kan använda Adobe Analytics för att få kundinsikter i flera kanaler snabbare än någonsin.  För att komma igång,
+Välkommen till [!DNL Customer Journey Analytics] självstudiekurser - webbplats.  Använd dessa självstudiekurser tillsammans med [dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html) ger er en bättre förståelse för hur ni kan använda Adobe Analytics för att få kundinsikter i flera kanaler snabbare än någonsin.  För att komma igång,
 
 * Se **&quot;What&#39;s New&quot;** för de senaste funktionerna
 * **Personalval** markerar en del av vårt favoritinnehåll
