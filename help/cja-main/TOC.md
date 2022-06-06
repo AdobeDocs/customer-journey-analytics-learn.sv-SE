@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 81b0cd1dd46f9b5dd10fbe468e9067a6d866be38
+source-git-commit: 24decec83de218dc3564a98b6f9a8e4c1239dae0
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '257'
 ht-degree: 4%
 
 ---
@@ -35,6 +35,7 @@ ht-degree: 4%
    + [Konfigurera komponentinställningar i datavyer](data-views/configuring-component-settings-in-data-views.md)
    + [Komponenttypsinställningar i datavyer](data-views/component-type-settings-in-data-views.md)
    + [Formatera mätvärden i datavyer](data-views/formatting-metrics-in-data-views.md)
+   + [Konfigurera inställningar för delsträngskomponenter](data-views/configure-substring-component-settings.md)
    + [Inkludera eller exkludera mätvärden i datavyer](data-views/include-or-exclude-metric-values-in-data-views.md)
    + [Skapa värdegrupper i datavyer för analys](data-views/creating-value-buckets-in-data-views-for-analysis.md)
    + [Inkludera eller exkludera dimensionsvärden i datavyer](data-views/include-or-exclude-dimension-values-in-data-views.md)
