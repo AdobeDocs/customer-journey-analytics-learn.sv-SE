@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 217f742a945455eaa80e539a72bcd0f09dcc8c99
+source-git-commit: ba1d644978617364017d655159e9f09d413f9f64
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '273'
 ht-degree: 4%
 
 ---
@@ -51,8 +51,10 @@ ht-degree: 4%
       + [Skapa ett snabbfilter](components/filters/create-a-quick-filter.md)
       + [Skapa flerkanalsfilter](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
       + [Flytta Adobe Analytics-segment till Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
-   + Anteckningar {#annotations}
-      + [Skapa en anteckning](components/create-an-annotation.md)
++ Paneler {#panels}
+   + [Konfigurera nästa och föregående objektpanel](panels/configure-next-previous-item-panel.md)
++ Anteckningar {#annotations}
+   + [Skapa en anteckning](components/create-an-annotation.md)
 + Instrumentpaneler (styrkort) {#dashboards}
    + [Skapa ett mobilstyrkort](dashboards/create-a-mobile-scorecard.md)
    + [Hjälper chefer att komma åt mobilstyrkort](dashboards/assist-executives-to-access-mobile-scorecards.md)
