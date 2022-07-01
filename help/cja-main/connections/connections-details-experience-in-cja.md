@@ -1,6 +1,6 @@
 ---
 title: Upplevelse av anslutningsinformation i CJA
-description: Välkommen till upplevelsen med anslutningsinformation, som gör att du kan kontrollera status för dina anslutningsdata samt själva importen.
+description: Välkommen till upplevelsen med anslutningsinformation, som gör att du kan kontrollera status för dina anslutningsdata samt importen.
 feature: Connections
 topic: Administration
 role: Admin
@@ -8,7 +8,7 @@ level: Beginner
 kt: 10221
 thumbnail: 342097.jpg
 exl-id: 49a902be-bb17-4bcb-b86e-0c7a93b1d580
-source-git-commit: 2b5a19397f7c2b2e775fbd5d724205922ad76f15
+source-git-commit: 846dd86b60d456469618d6f6ea9c26a726215687
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
