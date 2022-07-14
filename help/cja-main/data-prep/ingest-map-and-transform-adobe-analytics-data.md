@@ -9,9 +9,9 @@ doc-type: feature video
 thumbnail: 29687.jpg
 kt: 10421
 exl-id: 74998f1c-c2d2-425f-b662-58781c825bee
-source-git-commit: f54c2c2095d0230c6e48f6664a795358eae3ce6a
+source-git-commit: a12cb54b55644bfaffb50eb5ca7313050b5db402
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
@@ -22,4 +22,4 @@ I den här videon visar vi hur du använder funktioner för dataförberedelser f
 
 >[!VIDEO](https://video.tv.adobe.com/v/29687?quality=12&learn=on)
 
-Mer information finns i [Adobe Analytics källanslutningsdokumentation](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html?lang=en) och [Dokumentation för förinställningsfunktioner för data](https://experienceleague.adobe.com/docs/experience-platform/data-prep/functions.html%3Flang%3Dsv).
+Mer information finns i [Adobe Analytics källanslutningsdokumentation](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html) och [Dokumentation för förinställningsfunktioner för data](https://experienceleague.adobe.com/docs/experience-platform/data-prep/functions.html).
