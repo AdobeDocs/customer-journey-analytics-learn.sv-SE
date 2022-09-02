@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: ba1d644978617364017d655159e9f09d413f9f64
+source-git-commit: 70696bb3348513222627128a1597d08e127a8a36
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '276'
 ht-degree: 4%
 
 ---
@@ -51,6 +51,11 @@ ht-degree: 4%
       + [Skapa ett snabbfilter](components/filters/create-a-quick-filter.md)
       + [Skapa flerkanalsfilter](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
       + [Flytta Adobe Analytics-segment till Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
+   + Beräknade värden {#calc-metrics}
+      + [Introduktion till beräknade värden i Customer Journey Analytics](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
+      + [Flytta dina beräknade mätvärden från Adobe Analytics till Customer Journey Analytics](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
+   + Målgrupper {#audiences}
+      + [Målgruppspublicering](components/audiences/audience-publishing-for-cja.md)
 + Paneler {#panels}
    + [Konfigurera nästa och föregående objektpanel](panels/configure-next-previous-item-panel.md)
 + Anteckningar {#annotations}
@@ -58,9 +63,6 @@ ht-degree: 4%
 + Instrumentpaneler (styrkort) {#dashboards}
    + [Skapa ett mobilstyrkort](dashboards/create-a-mobile-scorecard.md)
    + [Hjälper chefer att komma åt mobilstyrkort](dashboards/assist-executives-to-access-mobile-scorecards.md)
-+ Beräknade värden {#calc-metrics}
-   + [Introduktion till beräknade värden i Customer Journey Analytics](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
-   + [Flytta dina beräknade mätvärden från Adobe Analytics till Customer Journey Analytics](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
 + Exporterar {#exporting}
    + Report Builder {#report-builder}
       + [Report Builder för Customer Journey Analytics](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
