@@ -8,7 +8,7 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3eb8a80c-955a-4a5d-a00e-daeabd69655b
-source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
+source-git-commit: 96611ef3dc511a36b465fabac00723755ab195e4
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 0%
@@ -26,6 +26,8 @@ Välkommen till [!DNL Customer Journey Analytics] självstudiekurser - webbplats
 
 Med Customer Journey Analytics kan ni styra hur ni kopplar samman online- och offlinedata i Analysis Workspace med vilket kundID som helst, vilket slutligen gör att ni kan skapa attribuering, segmentering, flöde, utfall osv. i hela er kunddatauppsättning.
 
+<div id="whats-new-section">
+
 ## Nyheter
 
 * **[Flytta Adobe Analytics-segment till Customer Journey Analytics (video)](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)**
@@ -39,6 +41,10 @@ Med Customer Journey Analytics kan ni styra hur ni kopplar samman online- och of
 * **[Skapa flerkanalsfilter (video)](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)**
 
    *Skapa filter i Customer Journey Analytics som använder mer än en datakälla och mer än en kanal*
+
+</div>
+
+<div id="staff-picks-section">
 
 ## Personalval
 
@@ -85,3 +91,4 @@ Med Customer Journey Analytics kan ni styra hur ni kopplar samman online- och of
   </td>
 </tr>
 </table>
+</div>
