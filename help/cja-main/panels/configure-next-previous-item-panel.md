@@ -7,13 +7,14 @@ level: Beginner
 doc-type: feature video
 thumbnail: 344430.jpg
 kt: 10656
-source-git-commit: c3fae9f7b6336aa313f06ad9143e79f691e68d5d
+last-substantial-update: 2022-06-28T00:00:00Z
+exl-id: 51a86808-75b2-4bd7-80dd-d7c8ef3c8368
+source-git-commit: ce572d13eff204071f6fc558ca83a0f41f41d330
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%
 
 ---
-
 
 # Konfigurera nästa och föregående objektpanel
 
