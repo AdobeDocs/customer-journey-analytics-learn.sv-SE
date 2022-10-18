@@ -1,6 +1,6 @@
 ---
 title: Publikationer för Customer Journey Analytics
-description: Med Customer Journey Analytics kan ni publicera målgrupper som ni hittar från er analys till Adobe Experience Platform kundprofil i realtid för segmentaktivering med Adobe Real-time Customer Data Platform, eller för mer personaliserad kundsamordning med Adobe Journey Optimizer. (Ska vara mellan 60 och 160 tecken, men är 297 tecken)
+description: Lär dig hur du publicerar målgrupper från Customer Journey Analytics till Adobe Experience Platform kundprofil i realtid för segmentaktivering eller för mer personaliserad resesamordning.
 feature: Components
 topic: Integrations
 role: User
@@ -8,9 +8,9 @@ level: Beginner
 kt: 11024
 thumbnail: 346759.jpeg
 last-substantial-update: 2022-08-29T00:00:00Z
-source-git-commit: ce572d13eff204071f6fc558ca83a0f41f41d330
+source-git-commit: 263c50d8cda5c0b836bb50ec5eb5acbc99d8e989
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Audience Publishing för Customer Journey Analytics
 
-Med Customer Journey Analytics kan ni publicera målgrupper som ni hittar från er analys till Adobe Experience Platform kundprofil i realtid för segmentaktivering med Adobe Real-time Customer Data Platform, eller för mer personaliserad kundsamordning med Adobe Journey Optimizer.
+Lär dig hur du publicerar målgrupper från Customer Journey Analytics till Adobe Experience Platform kundprofil i realtid för segmentaktivering eller för mer personaliserad resesamordning.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346759/?quality=12&learn=on)
 
