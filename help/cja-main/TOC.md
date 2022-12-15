@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 143f2dfb69c303e5dbe83a37efc88622ea1ddb21
+source-git-commit: 06eb1fea41a95769f2f4499ef2c11e834e211faa
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '295'
 ht-degree: 4%
 
 ---
@@ -67,6 +67,10 @@ ht-degree: 4%
 + Exporterar {#exporting}
    + Report Builder {#report-builder}
       + [Report Builder för Customer Journey Analytics](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
++ Användningsexempel {#use-cases}
+   + Datavyer använder exempel {#data-views-use-cases}
+      + [Första gången och återkommande sessioner rapporteras](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
+      + [Stöd för datumfält](use-cases/data-views-use-cases/leverage-date-field-support.md)
 + Blueprints {#blueprints}
    + [Customer Journey Analytics-ritning](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
    + [Scenario för digital beteendedatakonsolidering](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/digital-behavioral-data-consolidation.html)
