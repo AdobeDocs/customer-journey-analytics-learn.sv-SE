@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 06eb1fea41a95769f2f4499ef2c11e834e211faa
+source-git-commit: 35958b61b24b54d5e963b621df980cebf52fcfe1
 workflow-type: tm+mt
-source-wordcount: '295'
-ht-degree: 4%
+source-wordcount: '303'
+ht-degree: 3%
 
 ---
 
@@ -67,6 +67,7 @@ ht-degree: 4%
 + Exporterar {#exporting}
    + Report Builder {#report-builder}
       + [Report Builder för Customer Journey Analytics](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
+      + [Schemalägg Customer Journey Analytics-arbetsböcker med Report Builder](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
 + Användningsexempel {#use-cases}
    + Datavyer använder exempel {#data-views-use-cases}
       + [Första gången och återkommande sessioner rapporteras](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
