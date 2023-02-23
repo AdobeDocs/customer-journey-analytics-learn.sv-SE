@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 35958b61b24b54d5e963b621df980cebf52fcfe1
+source-git-commit: ea4f1ebf6ccff886dc6b2f5cac29cb890620739e
 workflow-type: tm+mt
-source-wordcount: '303'
-ht-degree: 3%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,9 +23,8 @@ ht-degree: 3%
    + [Arbeta med data](data-prep/working-with-data-in-cja.md)
    + [Importera, mappa och omvandla Adobe Analytics-data](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
 + Anslutningar {#connections}
-   + [Ansluta till datakällor i plattformen](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
-   + [Upplevelsen av anslutningsinformation i CJA](connections/connections-details-experience-in-cja.md)
-   + [Skapa och redigera anslutningar](connections/cja-connections-creation-and-edit-experience.md)
+   + [Ansluta till datakällor i Experience Platform](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
+   + [Visa, felsöka och ändra anslutningsinställningar](connections/connections-details-experience-in-cja.md)
    + [Lägg till tidigare data i en befintlig anslutning](connections/add-past-data-to-an-existing-connection-in-cja.md)
 + Besökaridentifiering {#visitor-id}
    + [Förstå hur CJA använder identitet](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
@@ -72,7 +71,7 @@ ht-degree: 3%
    + Datavyer använder exempel {#data-views-use-cases}
       + [Första gången och återkommande sessioner rapporteras](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
       + [Stöd för datumfält](use-cases/data-views-use-cases/leverage-date-field-support.md)
-+ Blueprints {#blueprints}
++ Utkast {#blueprints}
    + [Customer Journey Analytics-ritning](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
    + [Scenario för digital beteendedatakonsolidering](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/digital-behavioral-data-consolidation.html)
    + [Analysscenario för avböjningsresa](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/call-deflect.html?lang=en#customer-journey-analytics)

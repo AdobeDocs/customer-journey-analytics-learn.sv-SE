@@ -1,26 +1,23 @@
 ---
-title: Upplevelse av anslutningsinformation i CJA
-description: Välkommen till upplevelsen med anslutningsinformation, som gör att du kan kontrollera status för dina anslutningsdata samt importen.
+title: Visa, felsöka och ändra anslutningsinställningar
+description: Med Anslutningshanteraren kan du kontrollera status för anslutningsens datauppsättningar. Det här gränssnittet informerar dig också när det finns data tillgängliga för att starta analysen i Workspace.
 feature: Connections
 topic: Administration
+doc-type: feature video
 role: Admin
 level: Beginner
-kt: 10221
 thumbnail: 342097.jpg
+kt: 10221
 exl-id: 49a902be-bb17-4bcb-b86e-0c7a93b1d580
-source-git-commit: 846dd86b60d456469618d6f6ea9c26a726215687
+source-git-commit: ea4f1ebf6ccff886dc6b2f5cac29cb890620739e
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Upplevelse av anslutningsinformation i CJA
+# Visa, felsöka och ändra anslutningsinställningar
 
-Välkommen till upplevelsen med anslutningsinformation som gör att du kan kontrollera status för dina anslutningsdata och för överföringsprocessen.
+Med Anslutningshanteraren kan du kontrollera status för anslutningsens datauppsättningar. Det här gränssnittet informerar dig också när det finns data tillgängliga för att starta analysen i Workspace. Lär dig hur du identifierar diskrepanser på grund av felaktig konfiguration, hanterar datum för dataimport och tar bort datauppsättningar från anslutningar.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342097/?quality=12&learn=on)
-
-Med den här statuskontrollen får du veta när dina data är tillgängliga så att du kan gå till Analysis Workspace och börja analysera. Dessutom kan du identifiera eventuella datameddelanden som beror på felkonfigurering. Finns det några överhoppade rader eller borttagna rader? Om ja, hur många av dem hoppades över eller togs bort och när? Har du felkonfigurerat anslutningar och orsakat överhoppade data i CJA?
-
-Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/manage-connections.html).
