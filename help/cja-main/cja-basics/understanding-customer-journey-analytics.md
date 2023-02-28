@@ -1,6 +1,6 @@
 ---
 title: Förstå Customer Journey Analytics
-description: Adobe Customer Journey Analytics (CJA) är en programtjänst som byggs ovanpå Adobe Experience Platform. Här ingår det omfattande analysverktyget Analysis Workspace i plattformen så att ni kan göra flerkanalsanalyser på alla era plattformsdatauppsättningar.
+description: Adobes Customer Journey Analytics (CJA) är en programtjänst som byggs ovanpå Adobe Experience Platform. Här ingår det omfattande analysverktyget Analysis Workspace till Platform så att du kan göra flerkanalsanalyser på alla dina datauppsättningar i Platform.
 landing-page-description: Lär dig hur du gör flerkanalsanalyser på alla datauppsättningar i Experience Platform.
 feature: CJA Workspace Basics
 topics: null
@@ -14,14 +14,14 @@ level: Beginner
 exl-id: 8b9644dd-1992-499c-88f0-acd3ef182956
 source-git-commit: 96a415f476ebeea37b536aaa83dd9d3a62021be6
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Förstå Customer Journey Analytics
 
-Adobe Customer Journey Analytics (CJA) är en programtjänst som byggs ovanpå Adobe Experience Platform. Här ingår det omfattande analysverktyget Analysis Workspace i plattformen så att ni kan göra flerkanalsanalyser på alla era plattformsdatauppsättningar.
+Adobe Customer Journey Analytics (CJA) är en programtjänst som byggs ovanpå Adobe Experience Platform. Här ingår det omfattande analysverktyget Analysis Workspace till Platform så att du kan göra flerkanalsanalyser på alla dina datauppsättningar i Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30090/?quality=12&enable10seconds=on&speedcontrol=on)
 
