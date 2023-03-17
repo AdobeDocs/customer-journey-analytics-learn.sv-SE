@@ -11,9 +11,9 @@ thumbnail: 32549.jpg
 kt: 3965
 last-substantial-update: 2023-03-17T00:00:00Z
 exl-id: c8f0b90d-d31f-4702-a838-70ab78b690c0
-source-git-commit: 07226100be0f4164bdf0cfacfa4196415626cbda
+source-git-commit: efed2704898d311c1de059721eeb076c7aa941e2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -24,9 +24,4 @@ Få ut mer av analysen genom att lägga till nya data från andra kanaler i en C
 
 >[!VIDEO](https://video.tv.adobe.com/v/32549/?learn=on&quality=12)
 
-## Relaterade videor och dokumentation:
-
-[Koppla Customer Journey Analytics till datakällor](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/connections/connecting-customer-journey-analytics-to-data-sources-in-platform.html)
-[Översikt över hur du konfigurerar datavyer](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/overview-of-configuring-data-views-for-cja.html)
-[Förstå hur Customer Journey Analytics använder identitet](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/visitor-id/understanding-how-customer-journey-analytics-uses-identity.html)
-[Flerkanalsanalys](https://experienceleague.adobe.com/docs/analytics-platform/using/cca/overview.html)
+Mer information om flerkanalsanalys finns i [dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cca/overview.html).
