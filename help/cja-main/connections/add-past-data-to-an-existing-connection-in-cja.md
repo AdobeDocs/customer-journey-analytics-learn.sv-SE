@@ -1,27 +1,32 @@
 ---
-title: Lägg till tidigare data till en befintlig anslutning i Customer Journey Analytics
-description: I den här videon får du lära dig att lägga till tidigare data (data som har en tidigare tidsstämpel kopplad till) i din befintliga Adobe Customer Journey Analytics-analys via anslutningar och datavyer.
+title: Lägga till nya data i en anslutning i Customer Journey Analytics
+description: Lär dig hur du lägger till nya data i en anslutning till Customer Journey Analytics för att få ut mer av din analys.
 feature: Connections
-topics: null
-activity: understand
+activity: setup
 doc-type: technical video
+role: Admin, Data Engineer, Data Architect
+level: Beginner
 team: Technical Marketing
 thumbnail: 32549.jpg
 kt: 3965
-role: Data Engineer, Data Architect
-level: Beginner
+last-substantial-update: 2023-03-17T00:00:00Z
 exl-id: c8f0b90d-d31f-4702-a838-70ab78b690c0
-source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
+source-git-commit: 07226100be0f4164bdf0cfacfa4196415626cbda
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Lägg till tidigare data i en befintlig [!UICONTROL Connection] i Customer Journey Analytics
+# Lägga till nya data i en anslutning [!UICONTROL Connection] i Customer Journey Analytics
 
-I den här videon får du lära dig att lägga till tidigare data (data som har en tidigare tidsstämpel kopplad till) i din befintliga Customer Journey Analytics-analys via [!UICONTROL connections] och [!UICONTROL data views].
+Få ut mer av analysen genom att lägga till nya data från andra kanaler i en Customer Journey Analytics-anslutning. Dessutom måste du förstå kraven för att sammanfoga dessa nya data och effekterna på analyser och rapporter som behandlas med konfigurationsinställningar.
 
->[!VIDEO](https://video.tv.adobe.com/v/32549/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32549/?learn=on&quality=12)
 
-Mer information om Customer Journey Analytics finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html).
+## Relaterade videor och dokumentation:
+
+[Koppla Customer Journey Analytics till datakällor](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/connections/connecting-customer-journey-analytics-to-data-sources-in-platform.html)
+[Översikt över hur du konfigurerar datavyer](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/overview-of-configuring-data-views-for-cja.html)
+[Förstå hur Customer Journey Analytics använder identitet](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/visitor-id/understanding-how-customer-journey-analytics-uses-identity.html)
+[Flerkanalsanalys](https://experienceleague.adobe.com/docs/analytics-platform/using/cca/overview.html)
