@@ -11,7 +11,7 @@ thumbnail: 32549.jpg
 kt: 3965
 last-substantial-update: 2023-03-17T00:00:00Z
 exl-id: c8f0b90d-d31f-4702-a838-70ab78b690c0
-source-git-commit: 308ad876b73b0d8d8e3efc5fafe068630e0a6a1d
+source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 Få ut mer av analysen genom att lägga till nya data från andra kanaler i en Customer Journey Analytics-anslutning. Dessutom måste du förstå kraven för att sammanfoga dessa nya data och effekterna på analyser och rapporter som behandlas med konfigurationsinställningar.
 
->[!VIDEO](https://video.tv.adobe.com/v/32549/?learn=on&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32549/?learn=on&quality=12&learn=on)
 
 Mer information om flerkanalsanalys finns i [dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cca/overview.html).

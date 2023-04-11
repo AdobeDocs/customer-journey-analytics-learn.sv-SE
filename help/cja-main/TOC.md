@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 87e4a545a36eb09dc35168bf8784d66b6a56e326
+source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
 workflow-type: tm+mt
-source-wordcount: '303'
-ht-degree: 5%
+source-wordcount: '310'
+ht-degree: 7%
 
 ---
 
@@ -42,6 +42,9 @@ ht-degree: 5%
    + [Bindning av Dimensioner i datavyer](data-views/binding-dimensions-in-data-views.md)
    + [Konfigurera inga värdealternativ i datavyer](data-views/configure-no-value-options-in-data-views.md)
    + [Attributinställningar i datavyer](data-views/attribution-settings-in-data-views.md)
++ Analysis Workspace {#analysis-workspace}
+   + Arbetsyteprojekt {#workspace-projects}
+      + [Översikt över Analysis Workspace](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
 + Visualiseringar {#visualizations}
    + [Skapa visualiseringar över flera kanaler](visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
    + [Flerkanalsattribuering](visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
@@ -76,3 +79,4 @@ ht-degree: 5%
    + [Customer Journey Analytics-ritning](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
    + [Scenario för digital beteendedatakonsolidering](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/digital-behavioral-data-consolidation.html)
    + [Analysscenario för avböjningsresa](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/call-deflect.html?lang=en#customer-journey-analytics)
+

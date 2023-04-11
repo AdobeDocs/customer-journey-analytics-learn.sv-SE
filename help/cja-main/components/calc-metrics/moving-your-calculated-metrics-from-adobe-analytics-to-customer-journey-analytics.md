@@ -12,7 +12,7 @@ topic: Migration
 role: User
 level: Beginner
 exl-id: 52ff7388-6463-47fa-aec9-ab9531cd105f
-source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
+source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 0%
@@ -23,6 +23,6 @@ ht-degree: 0%
 
 I den här videon hittar du tips på hur du återskapar din Adobe Analytics [!UICONTROL Calculated Metrics] i Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/31788/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31788/?quality=12&learn=on)
 
 Mer information om Customer Journey Analytics finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html).
