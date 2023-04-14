@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
+source-git-commit: 0a7d2eb934bfde453916a8211f1dc7b717bb5fe5
 workflow-type: tm+mt
-source-wordcount: '310'
-ht-degree: 7%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -45,6 +45,7 @@ ht-degree: 7%
 + Analysis Workspace {#analysis-workspace}
    + Arbetsyteprojekt {#workspace-projects}
       + [Översikt över Analysis Workspace](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
+      + [Skapa ett nytt projekt](analysis-workspace/workspace-projects/build-a-new-project.md)
 + Visualiseringar {#visualizations}
    + [Skapa visualiseringar över flera kanaler](visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
    + [Flerkanalsattribuering](visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
@@ -80,3 +81,6 @@ ht-degree: 7%
    + [Scenario för digital beteendedatakonsolidering](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/digital-behavioral-data-consolidation.html)
    + [Analysscenario för avböjningsresa](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/call-deflect.html?lang=en#customer-journey-analytics)
 
+
+
+[def]: analysis-workspace/workspace-projects/build-a-new-project.md
