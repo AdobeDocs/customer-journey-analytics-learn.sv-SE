@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 5b7ce13569961cc78be0e2946e3e9607f5ed9a6b
+source-git-commit: 7b4c5bfd8f3fef5a8b52597958efbfeec98c3b45
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '327'
 ht-degree: 5%
 
 ---
@@ -62,6 +62,8 @@ ht-degree: 5%
       + [Flytta dina beräknade mätvärden från Adobe Analytics till Customer Journey Analytics](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
    + Målgrupper {#audiences}
       + [Målgruppspublicering](components/audiences/audience-publishing-for-cja.md)
+   + Dataordlista {#data-dictionary}
+      + [Använd dataordlista](components/data-dictionary/use-data-dictionary.md)
 + Paneler {#panels}
    + [Konfigurera nästa och föregående objektpanel](panels/configure-next-previous-item-panel.md)
    + [Använda panelen Experimentera](panels/use-the-experimentation-panel.md)
@@ -77,12 +79,9 @@ ht-degree: 5%
 + Användningsexempel {#use-cases}
    + Datavyer använder exempel {#data-views-use-cases}
       + [Första gången och återkommande sessioner rapporteras](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
-      + [Stöd för datumfält](use-cases/data-views-use-cases/leverage-date-field-support.md)
+      + [Använd datumfältstöd](use-cases/data-views-use-cases/leverage-date-field-support.md)
 + Utkast {#blueprints}
    + [Customer Journey Analytics-ritning](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
-   + [Scenario för digital beteendedatakonsolidering](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/digital-behavioral-data-consolidation.html)
-   + [Analysscenario för avböjningsresa](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/call-deflect.html?lang=en#customer-journey-analytics)
+   + [Scenario för digital beteendedatakonsolidering](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel.html)
+   + [Analysscenario för avböjningsresa](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/call-center.html?lang=en)
 
-
-
-[def]: analysis-workspace/workspace-projects/build-a-new-project.md
