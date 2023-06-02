@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 7b4c5bfd8f3fef5a8b52597958efbfeec98c3b45
+source-git-commit: aac1b820fda0e1ea8c21938ae23f0e5b0034d7ab
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '329'
 ht-degree: 5%
 
 ---
@@ -50,6 +50,7 @@ ht-degree: 5%
 + Visualiseringar {#visualizations}
    + [Skapa visualiseringar över flera kanaler](visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
    + [Flerkanalsattribuering](visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
+   + [Intelligenta bildtexter](visualizations/intelligent-captions.md)
 + Komponenter {#components}
    + Filter (segmentering) {#filters}
       + [Översikt över filter](components/filters/introduction-to-filters-in-cja.md)
