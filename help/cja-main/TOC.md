@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: a7c99a0fefe5996978da6d9bc2564fe9341f2617
+source-git-commit: 3de00071ff6c8efa5c500ab9bb8692a375779825
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 5%
+source-wordcount: '381'
+ht-degree: 4%
 
 ---
 
@@ -53,7 +53,18 @@ ht-degree: 5%
 + Visualiseringar {#visualizations}
    + [Skapa visualiseringar över flera kanaler](visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
    + [Flerkanalsattribuering](visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
-   + [Intelligenta bildtexter](visualizations/intelligent-captions.md)
+   + [Skapa intelligenta bildtexter](visualizations/intelligent-captions.md)
+   + [Lägg till områdesvisualiseringar](visualizations/add-area-visualizations.md)
+   + [Lägg till fältvisualiseringar](visualizations/add-bar-visualizations.md)
+   + [Lägga till punktgrafivisualiseringar](visualizations/add-bullet-graph-visualizations.md)
+   + [Lägg till animeringar på munnen](visualizations/add-donut-visualizations.md)
+   + [Lägg till radinvisualiseringar](visualizations/add-line-visualizations.md)
+   + [Använda kartvisualisering](visualizations/use-map-visualization.md)
+   + [Använd sammanfattningsvisualiseringar](visualizations/use-summary-visualizations.md)
+   + [Lägg till textvisualiseringar](visualizations/add-text-visualizations.md)
+   + [Använda punktvisualisering](visualizations/use-scatterplot-visualizations.md)
+   + [Lägg till trädmappningsvisualisering](visualizations/add-treemap-visualizations.md)
+   + [Skapa helt staplade visualiseringar](visualizations/create-stacked-visualizations.md)
 + Komponenter {#components}
    + Filter (segmentering) {#filters}
       + [Översikt över filter](components/filters/introduction-to-filters-in-cja.md)
@@ -75,7 +86,7 @@ ht-degree: 5%
    + [Skapa en anteckning](components/create-an-annotation.md)
 + Instrumentpaneler (styrkort) {#dashboards}
    + [Skapa ett mobilstyrkort](dashboards/create-a-mobile-scorecard.md)
-   + [Hjälper chefer att komma åt mobilstyrkort](dashboards/assist-executives-to-access-mobile-scorecards.md)
+   + [Hjälper chefer med åtkomst till mobilstyrkort](dashboards/assist-executives-to-access-mobile-scorecards.md)
 + Exporterar {#exporting}
    + Report Builder {#report-builder}
       + [Report Builder för Customer Journey Analytics](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
@@ -86,6 +97,6 @@ ht-degree: 5%
       + [Använd datumfältstöd](use-cases/data-views-use-cases/leverage-date-field-support.md)
 + Utkast {#blueprints}
    + [Customer Journey Analytics-ritning](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
-   + [Scenario för digital beteendedatakonsolidering](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel.html)
-   + [Analysscenario för avböjningsresa](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/call-center.html?lang=en)
+   + [Scenario för digital beteendedatakonsolidering](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html)
+   + [Analysscenario för avböjningsresa](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html)
 
