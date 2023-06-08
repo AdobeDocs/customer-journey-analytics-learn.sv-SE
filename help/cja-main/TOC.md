@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 3de00071ff6c8efa5c500ab9bb8692a375779825
+source-git-commit: 69c2686d7f3e66058046a4348f13cb6d61009389
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '388'
 ht-degree: 4%
 
 ---
@@ -48,23 +48,30 @@ ht-degree: 4%
    + Arbetsyteprojekt {#workspace-projects}
       + [Översikt över Analysis Workspace](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [Skapa ett nytt projekt](analysis-workspace/workspace-projects/build-a-new-project.md)
+   + Paneler {#panels}
+      + [Konfigurera nästa och föregående objektpanel](analysis-workspace/panels/configure-next-previous-item-panel.md)
+      + [Använda panelen Experimentera](analysis-workspace/panels/use-the-experimentation-panel.md)
+   + Visualiseringar {#visualizations}
+      + [Skapa visualiseringar över flera kanaler](analysis-workspace/visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
+      + [Flerkanalsattribuering](analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
+      + [Skapa intelligenta bildtexter](analysis-workspace/visualizations/intelligent-captions.md)
+      + [Lägg till områdesvisualiseringar](analysis-workspace/visualizations/add-area-visualizations.md)
+      + [Lägg till fältvisualiseringar](analysis-workspace/visualizations/add-bar-visualizations.md)
+      + [Lägga till punktgrafivisualiseringar](analysis-workspace/visualizations/add-bullet-graph-visualizations.md)
+      + [Lägg till animeringar på munnen](analysis-workspace/visualizations/add-donut-visualizations.md)
+      + [Lägg till radinvisualiseringar](analysis-workspace/visualizations/add-line-visualizations.md)
+      + [Använda kartvisualisering](analysis-workspace/visualizations/use-map-visualization.md)
+      + [Använd sammanfattningsvisualiseringar](analysis-workspace/visualizations/use-summary-visualizations.md)
+      + [Lägg till textvisualiseringar](analysis-workspace/visualizations/add-text-visualizations.md)
+      + [Använda punktvisualisering](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
+      + [Lägg till trädmappningsvisualisering](analysis-workspace/visualizations/add-treemap-visualizations.md)
+      + [Skapa helt staplade visualiseringar](analysis-workspace/visualizations/create-stacked-visualizations.md)
+   + Anteckningar {#annotations}
+      + [Skapa en anteckning](analysis-workspace/annotations/create-an-annotation.md)
    + Kuratera och dela {#curate-and-share}
       + [Dela med vem som helst i Analysis Workspace](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
-+ Visualiseringar {#visualizations}
-   + [Skapa visualiseringar över flera kanaler](visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
-   + [Flerkanalsattribuering](visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
-   + [Skapa intelligenta bildtexter](visualizations/intelligent-captions.md)
-   + [Lägg till områdesvisualiseringar](visualizations/add-area-visualizations.md)
-   + [Lägg till fältvisualiseringar](visualizations/add-bar-visualizations.md)
-   + [Lägga till punktgrafivisualiseringar](visualizations/add-bullet-graph-visualizations.md)
-   + [Lägg till animeringar på munnen](visualizations/add-donut-visualizations.md)
-   + [Lägg till radinvisualiseringar](visualizations/add-line-visualizations.md)
-   + [Använda kartvisualisering](visualizations/use-map-visualization.md)
-   + [Använd sammanfattningsvisualiseringar](visualizations/use-summary-visualizations.md)
-   + [Lägg till textvisualiseringar](visualizations/add-text-visualizations.md)
-   + [Använda punktvisualisering](visualizations/use-scatterplot-visualizations.md)
-   + [Lägg till trädmappningsvisualisering](visualizations/add-treemap-visualizations.md)
-   + [Skapa helt staplade visualiseringar](visualizations/create-stacked-visualizations.md)
+   + Tips och tricks {#tips-and-tricks}
+      + [Skapa dynamiska nedrullningsbara filter](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
 + Komponenter {#components}
    + Filter (segmentering) {#filters}
       + [Översikt över filter](components/filters/introduction-to-filters-in-cja.md)
@@ -79,11 +86,6 @@ ht-degree: 4%
       + [Målgruppspublicering](components/audiences/audience-publishing-for-cja.md)
    + Dataordlista {#data-dictionary}
       + [Använd dataordlista](components/data-dictionary/use-data-dictionary.md)
-+ Paneler {#panels}
-   + [Konfigurera nästa och föregående objektpanel](panels/configure-next-previous-item-panel.md)
-   + [Använda panelen Experimentera](panels/use-the-experimentation-panel.md)
-+ Anteckningar {#annotations}
-   + [Skapa en anteckning](components/create-an-annotation.md)
 + Instrumentpaneler (styrkort) {#dashboards}
    + [Skapa ett mobilstyrkort](dashboards/create-a-mobile-scorecard.md)
    + [Hjälper chefer med åtkomst till mobilstyrkort](dashboards/assist-executives-to-access-mobile-scorecards.md)
