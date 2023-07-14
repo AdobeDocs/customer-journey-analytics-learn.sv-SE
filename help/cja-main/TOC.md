@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 1150ec26cf52df892c432959ebe5a8bf730a8b34
+source-git-commit: 4a08586cb92a27a768b7879a148232e90a272254
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '401'
 ht-degree: 4%
 
 ---
@@ -73,6 +73,8 @@ ht-degree: 4%
       + [Dela med vem som helst i Analysis Workspace](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
    + Tips och tricks {#tips-and-tricks}
       + [Skapa dynamiska nedrullningsbara filter](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
++ Guidad analys {#guided-analysis}
+   + [Adobe Product Analytics - översikt](guided-analysis/adobe-product-analytics-overview.md)
 + Komponenter {#components}
    + Filter (segmentering) {#filters}
       + [Översikt över filter](components/filters/introduction-to-filters-in-cja.md)
