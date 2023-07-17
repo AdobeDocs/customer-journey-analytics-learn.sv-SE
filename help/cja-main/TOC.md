@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: a2f0e706ddfa3e83bb24de8f783803c48d4760ac
+source-git-commit: a056619f99779e7baa92b5e4e57ed81e08844486
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '434'
 ht-degree: 4%
 
 ---
@@ -75,6 +75,18 @@ ht-degree: 4%
       + [Skapa dynamiska nedrullningsbara filter](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Adobe Product Analytics - översikt](adobe-product-analytics/adobe-product-analytics-overview.md)
++ Guidad analys {#guided-analysis}
+   + Effekt {#impact}
+      + [Analys av släpppåverkan](guided-analysis/impact/release-impact-analysis.md)
+      + [Konsekvensanalys för första användning](guided-analysis/impact/first-use-impact-analysis.md)
+   + Tratt {#funnel}
+      + [Trattfriktionsanalys](guided-analysis/funnel/funnel-friction-analysis.md)
+      + [Trendanalys av trender för trattkonvertering](guided-analysis/funnel/funnel-conversion-trends-analysis.md)
+   + Användartillväxt {#user-growth}
+      + [Analys av aktiv användartillväxt](guided-analysis/user-growth/active-user-growth-analysis.md)
+      + [Nettoanalys av användartillväxt](guided-analysis/user-growth/net-user-growth-analysis.md)
+   + Trender {#trends}
+      + [Analys av användningsmönster](guided-analysis/trends/usage-trends-analysis.md)
 + Komponenter {#components}
    + Filter (segmentering) {#filters}
       + [Översikt över filter](components/filters/introduction-to-filters-in-cja.md)
