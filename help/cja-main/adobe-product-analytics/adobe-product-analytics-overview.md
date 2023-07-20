@@ -8,7 +8,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-07-14T00:00:00Z
 jira: KT-13650
 thumbnail: 3421621.jpeg
-source-git-commit: a2f0e706ddfa3e83bb24de8f783803c48d4760ac
+source-git-commit: b784a9e5c1adf41d0011140b22c15551cc86813f
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -24,10 +24,10 @@ Adobe Product Analytics gör det möjligt för produktteamen att självbetjäna 
 
 Med Adobe Product Analytics kan teamen
 
-* Förstå mönster i användarengagemanget över tid
-* Spåra tillväxt och bibehållande av produktens användarbas
-* Identifiera friktionsområden i produkten
-* Mät effekten av &#x200B; och första användningen av nya funktioner
+* [Förstå mönster i användarengagemanget över tid](../guided-analysis/trends/usage-trends-analysis.md)
+* [Spåra tillväxt och bibehållande av produktens användarbas](../guided-analysis/user-growth/active-user-growth-analysis.md)
+* [Identifiera friktionsområden i produkten](../guided-analysis/funnel/funnel-friction-analysis.md)
+* [Mät effekten av funktionsreleaser och första användning](../guided-analysis/impact/release-impact-analysis.md)
 * Identifiera meningsfulla användarsegment för att engagera och vårda användare under hela deras livslånga resa med produkten
 * Anslut till Analysis Workspace för djupare analyser och samarbete med analytiker
 
