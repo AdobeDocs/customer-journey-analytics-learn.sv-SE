@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: a056619f99779e7baa92b5e4e57ed81e08844486
+source-git-commit: 30445426a634f0a25672da9e8a2a977df35dc014
 workflow-type: tm+mt
-source-wordcount: '434'
+source-wordcount: '440'
 ht-degree: 4%
 
 ---
@@ -35,7 +35,7 @@ ht-degree: 4%
    + [Översikt över konfiguration av datavyer för CJA](data-views/overview-of-configuring-data-views-for-cja.md)
    + [Grundkonfiguration för datavyer](data-views/basic-configuration-for-data-views.md)
    + [Konfigurera komponentinställningar i datavyer](data-views/configuring-component-settings-in-data-views.md)
-   + [Komponenttypsinställningar i datavyer](data-views/component-type-settings-in-data-views.md)
+   + [Inställningar för komponenttyp i datavyer](data-views/component-type-settings-in-data-views.md)
    + [Skapa härledda fält](data-views/derived-fields-in-cja.md)
    + [Formatera mätvärden i datavyer](data-views/formatting-metrics-in-data-views.md)
    + [Konfigurera inställningar för delsträngskomponenter](data-views/configure-substring-component-settings.md)
@@ -60,10 +60,10 @@ ht-degree: 4%
       + [Lägg till fältvisualiseringar](analysis-workspace/visualizations/add-bar-visualizations.md)
       + [Lägga till punktgrafivisualiseringar](analysis-workspace/visualizations/add-bullet-graph-visualizations.md)
       + [Lägg till animeringar på munnen](analysis-workspace/visualizations/add-donut-visualizations.md)
-      + [Lägg till radinvisualiseringar](analysis-workspace/visualizations/add-line-visualizations.md)
+      + [Lägg till radvisualiseringar](analysis-workspace/visualizations/add-line-visualizations.md)
       + [Använda kartvisualisering](analysis-workspace/visualizations/use-map-visualization.md)
       + [Använd sammanfattningsvisualiseringar](analysis-workspace/visualizations/use-summary-visualizations.md)
-      + [Lägg till textvisualiseringar](analysis-workspace/visualizations/add-text-visualizations.md)
+      + [Lägga till textvisualiseringar](analysis-workspace/visualizations/add-text-visualizations.md)
       + [Använda punktvisualisering](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
       + [Lägg till trädmappningsvisualisering](analysis-workspace/visualizations/add-treemap-visualizations.md)
       + [Skapa helt staplade visualiseringar](analysis-workspace/visualizations/create-stacked-visualizations.md)
@@ -71,7 +71,7 @@ ht-degree: 4%
       + [Skapa en anteckning](analysis-workspace/annotations/create-an-annotation.md)
    + Kuratera och dela {#curate-and-share}
       + [Dela med vem som helst i Analysis Workspace](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
-   + Tips och tricks {#tips-and-tricks}
+   + Tips och råd {#tips-and-tricks}
       + [Skapa dynamiska nedrullningsbara filter](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Adobe Product Analytics - översikt](adobe-product-analytics/adobe-product-analytics-overview.md)
@@ -112,6 +112,8 @@ ht-degree: 4%
    + Datavyer använder exempel {#data-views-use-cases}
       + [Första gången och återkommande sessioner rapporteras](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
       + [Använd datumfältstöd](use-cases/data-views-use-cases/leverage-date-field-support.md)
+   + Komplexa data {#complex-data}
+      + [Använda arrayer med objekt](use-cases/complex-data/object-arrays-in-cja.md)
 + Utkast {#blueprints}
    + [Customer Journey Analytics-ritning](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
    + [Scenario för digital beteendedatakonsolidering](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html)
