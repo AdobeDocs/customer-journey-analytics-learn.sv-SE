@@ -13,7 +13,8 @@ tutorials-url: /content/help/en/customer-journey-analytics-learn/tutorials/overv
 git-repo: https://github.com/AdobeDocs/customer-journey-analytics-learn.sv-SE
 index: true
 mini-toc-levels: 2
-source-git-commit: 83183e084aa4998cde4cbbbd13458c18a0c171fe
+auto-video-transcripts: true
+source-git-commit: 449f3502c249765cdac718df173ca080e66426bc
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -33,4 +34,4 @@ Filen metadata.md innehåller metadata på postnivå som skickas till TOC.md-fil
 | getting-started-url | Länk till hjälpsidan Komma igång |
 | tutorials-url | Länka till videosjälvstudiekurser - antingen hjälpstudiekurser eller självstudiekurser på engelska |
 | mini-toc-nivåer | Anger antalet rubriknivåer som visas i den högra listen. standard är 2 |
-| git-repo | Anger platsen för den överordnad rapporten för intern användning |
+| git-repo | Anger platsen för huvudrapporten för intern användning |
