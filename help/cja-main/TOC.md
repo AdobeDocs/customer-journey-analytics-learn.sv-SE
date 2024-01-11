@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 19e2106259bb4d9b13eaebebdb5ae076406b29cf
+source-git-commit: 9cd00588e7ced90f0840840dbbc87c8912715543
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '435'
 ht-degree: 2%
 
 ---
@@ -32,6 +32,7 @@ ht-degree: 2%
 + Besökaridentifiering {#visitor-id}
    + [Förstå hur CJA använder identitet](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
    + [Konfigurera ett person-ID som saknas](visitor-id/configure-missing-person-id.md)
+   + [Översikt över häftning](visitor-id/overview-of-stitching.md)
 + Datavyer {#data-views}
    + [Översikt över konfiguration av datavyer för CJA](data-views/overview-of-configuring-data-views-for-cja.md)
    + [Grundkonfiguration för datavyer](data-views/basic-configuration-for-data-views.md)
