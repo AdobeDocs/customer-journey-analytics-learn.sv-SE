@@ -1,6 +1,6 @@
 ---
 title: CJA-sökningar efter sök- och profildata
-description: Med CJA-sökningar på sök- och profildata kan användarna använda djupare relationer mellan dataelement, som person-till-konto i B2B-användningsfall.  I den här videon beskriver vi hur du lägger till sökdata i uppslags- och profildatauppsättningar och hur du planerar och mappar nyckelfält.  Observera, att om det finns en till många relationer mellan nyckeln och sökvärdet används det senaste värdet.
+description: Lär dig hur du lägger till sökdata i uppslags- och profildatauppsättningar och planerar och mappar nyckelfält.
 feature: Ingestion
 role: User
 level: Intermediate
@@ -9,9 +9,9 @@ duration: 360
 last-substantial-update: 2023-12-18T00:00:00Z
 jira: KT-14719
 thumbnail: 3426424.jpeg
-source-git-commit: 19e2106259bb4d9b13eaebebdb5ae076406b29cf
+source-git-commit: e253ef465c58225cd1e7cb3db67442adbc57ed05
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
