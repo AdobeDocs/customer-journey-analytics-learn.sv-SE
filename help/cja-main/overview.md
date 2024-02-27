@@ -8,9 +8,9 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3eb8a80c-955a-4a5d-a00e-daeabd69655b
-source-git-commit: afc741e79f6aee13094ab3c3493885ce91c38284
+source-git-commit: c26bc63942e9d140eefbb530c441de9eb45d5743
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -19,27 +19,13 @@ ht-degree: 0%
 
 Välkommen till [!DNL Customer Journey Analytics] självstudiekurser - webbplats.  Använd dessa självstudiekurser tillsammans med [dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html) ger er en bättre förståelse för hur ni kan använda Adobe Analytics för att få kundinsikter i flera kanaler snabbare än någonsin.  För att komma igång,
 
-* Se **&quot;What&#39;s New&quot;** för de senaste funktionerna
+* Se **&quot;What&#39;s New&quot;** nedan för de senaste funktionerna
 * **Personalval** markerar en del av vårt favoritinnehåll
 * Utforska innehållet efter ämne och ämne i **vänster navigering**
 * Använd **sök** fältet längst upp på sidan om du vet vad du letar efter
 
 Med Customer Journey Analytics kan ni styra hur ni kopplar samman online- och offlinedata i Analysis Workspace med vilket kundID som helst, vilket slutligen gör att ni kan skapa attribuering, segmentering, flöde, utfall osv. i hela er kunddatauppsättning.
 
-<div id="whats-new-section">
-
-## Nyheter
-
-* **[Flytta Adobe Analytics-segment till Customer Journey Analytics (video)](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)**
-  *Tips om hur du återskapar Adobe Analytics-segment i Customer Journey Analytics*
-
-* **[Flytta dina beräknade värden från Adobe Analytics till Customer Journey Analytics (video)](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)**
-  *Tips om hur du återskapar dina Adobe Analytics Calculated Metrics i Customer Journey Analytics*
-
-* **[Skapa flerkanalsfilter (video)](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)**
-  *Skapa filter i Customer Journey Analytics som använder mer än en datakälla och mer än en kanal*
-
-</div>
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>

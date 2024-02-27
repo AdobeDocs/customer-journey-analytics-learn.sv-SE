@@ -9,13 +9,13 @@ duration: 360
 last-substantial-update: 2023-12-18T00:00:00Z
 jira: KT-14719
 thumbnail: 3426424.jpeg
-source-git-commit: e253ef465c58225cd1e7cb3db67442adbc57ed05
+exl-id: 5db80f7c-c54e-43e2-b629-e1b05b1c0aa9
+source-git-commit: 35e9e2baa41bbcd172342ba2f9a485a281c0daef
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
 
 ---
-
 
 # CJA-sökningar efter sök- och profildata
 
