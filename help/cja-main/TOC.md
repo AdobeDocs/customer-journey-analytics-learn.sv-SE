@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 7304fe6e7961a788c01386366c7e2fa738703f86
+source-git-commit: c1654261e5974c4ec07f126bf35c256c9c64e804
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: '446'
 ht-degree: 2%
 
 ---
@@ -70,6 +70,7 @@ ht-degree: 2%
       + [Använda punktvisualisering](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
       + [Lägg till trädmappningsvisualisering](analysis-workspace/visualizations/add-treemap-visualizations.md)
       + [Skapa helt staplade visualiseringar](analysis-workspace/visualizations/create-stacked-visualizations.md)
+      + [Lägg till prognoser till din visualisering](analysis-workspace/visualizations/forecasting.md)
    + Anteckningar {#annotations}
       + [Skapa en anteckning](analysis-workspace/annotations/create-an-annotation.md)
    + Kuratera och dela {#curate-and-share}
