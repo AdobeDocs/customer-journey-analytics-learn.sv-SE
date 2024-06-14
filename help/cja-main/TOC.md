@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 6fbbe2c319803fb380d884f9fd367fbdf0089a50
+source-git-commit: 3e1d99084a2fe20dae9fad365995d232960429e8
 workflow-type: tm+mt
-source-wordcount: '452'
+source-wordcount: '457'
 ht-degree: 2%
 
 ---
@@ -81,6 +81,8 @@ ht-degree: 2%
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Adobe Product Analytics - översikt](adobe-product-analytics/adobe-product-analytics-overview.md)
 + Guidad analys {#guided-analysis}
+   + Funktionsmatris {#feature-matrix}
+      + [Funktionsengagemangsanalys](guided-analysis/feature-matrix/feature-engagement.md)
    + Tratt {#funnel}
       + [Trattfriktionsanalys](guided-analysis/funnel/funnel-friction-analysis.md)
       + [Trendanalys av trender för trattkonvertering](guided-analysis/funnel/funnel-conversion-trends-analysis.md)
