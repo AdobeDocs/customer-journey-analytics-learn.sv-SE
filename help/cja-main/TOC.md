@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: ddf807b7f0408990bac8420d35d2243b5a4a15bc
+source-git-commit: e3943a9ac0d9797f18882fadaa43ffbbc01727ab
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '470'
 ht-degree: 2%
 
 ---
@@ -89,6 +89,8 @@ ht-degree: 2%
    + Effekt {#impact}
       + [Analys av släpppåverkan](guided-analysis/impact/release-impact-analysis.md)
       + [Konsekvensanalys för första användning](guided-analysis/impact/first-use-impact-analysis.md)
+   + Kvarhållning {#retention}
+      + [Analys av kvarhållningsfrekvenser](guided-analysis/retention/retention-rates-analysis.md)
    + Trender {#trends}
       + [Analys av frekvenstrender](guided-analysis/trends/frequency-trends-analysis.md)
       + [Analys av användningsmönster](guided-analysis/trends/usage-trends-analysis.md)
