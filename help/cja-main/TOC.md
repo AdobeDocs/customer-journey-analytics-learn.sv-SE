@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: e3943a9ac0d9797f18882fadaa43ffbbc01727ab
+source-git-commit: 5e5e972d7313b9ee64ffcfa411d4b7a34f1f9682
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '486'
 ht-degree: 2%
 
 ---
@@ -40,6 +40,8 @@ ht-degree: 2%
    + [Konfigurera komponentinställningar i datavyer](data-views/configuring-component-settings-in-data-views.md)
    + [Inställningar för komponenttyp i datavyer](data-views/component-type-settings-in-data-views.md)
    + [Skapa härledda fält](data-views/derived-fields-in-cja.md)
+   + [Använd matematisk funktion i härledda fält](data-views/use-the-math-function-in-derived-fields.md)
+   + [Använd funktionen Nästa eller Föregående i härledda fält](data-views/use-the-next-previous-function-in-derived-fields.md)
    + [Formatera mätvärden i datavyer](data-views/formatting-metrics-in-data-views.md)
    + [Konfigurera inställningar för delsträngskomponenter](data-views/configure-substring-component-settings.md)
    + [Inkludera eller exkludera mätvärden i datavyer](data-views/include-or-exclude-metric-values-in-data-views.md)
@@ -50,7 +52,7 @@ ht-degree: 2%
    + [Attributinställningar i datavyer](data-views/attribution-settings-in-data-views.md)
    + [Valutakonvertering](data-views/currency-conversion.md)
 + Analysis Workspace {#analysis-workspace}
-   + Arbetsyteprojekt {#workspace-projects}
+   + Workspace-projekt {#workspace-projects}
       + [Analysis Workspace - översikt](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [Skapa ett nytt projekt](analysis-workspace/workspace-projects/build-a-new-project.md)
    + Paneler {#panels}
@@ -130,6 +132,6 @@ ht-degree: 2%
    + Komplexa data {#complex-data}
       + [Använda arrayer med objekt](use-cases/complex-data/object-arrays-in-cja.md)
 + Blueprints {#blueprints}
-   + [Customer Journey Analytics-ritning](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html){target=_blank}
+   + [Customer Journey Analytics-ritning](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [Scenario för digital beteendedatakonsolidering](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html){target=_blank}
    + [Analysscenario för avböjningsresa](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html){target=_blank}
