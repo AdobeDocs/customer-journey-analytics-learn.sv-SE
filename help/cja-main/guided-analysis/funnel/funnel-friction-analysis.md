@@ -5,21 +5,25 @@ feature: Guided Analysis
 role: User
 level: Beginner
 doc-type: Feature Video
-last-substantial-update: 2023-07-17T00:00:00Z
+last-substantial-update: 2024-07-12T00:00:00Z
 jira: KT-13673
 thumbnail: 3421663.jpeg
-source-git-commit: 05e538e23ab828f66e99a6b67fc0731d7baaa1d2
+exl-id: 52211513-1cda-4173-aebd-4af752c87604
+source-git-commit: ada35ca9c8ef98d685d28f8e02d6cb7297b0d6f0
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
-
 # Trattfriktionsanalys
 
-Lär dig använda **vy för trattfriktion** in [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md), som ger en visuell representation av en viktig användarresa i din produkt och hjälper dig att avgöra var den är friktionsfri.
+Lär dig hur du använder **kanalens friktionsvy** i [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md), som ger en visuell representation av en viktig användarresa i din produkt och hjälper dig att avgöra var den är friktionsfri.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421663/?learn=on)
 
-Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/funnel/friction.html).
+I den här vyn kan du även jämföra flera händelser i ett enda trattsteg, vilket skapar en&quot;forked trnel&quot;. Med den här &quot;förgrenade tratten&quot; kan du jämföra friktionen för två resor sida vid sida, vilket kan vara användbart när det finns stegalternativ eller när ett A/B-experiment körs i tratten.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3431113/?learn=on)
+
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/funnel/friction).
