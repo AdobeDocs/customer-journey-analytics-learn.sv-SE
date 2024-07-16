@@ -1,23 +1,24 @@
 ---
 title: Tidsanalys för användarström
-description: Läs mer om hur användarströmmen visas i [!DNL Adobe Product Analytics] hjälper er att hitta upplevelsemönster, berätta bättre användarberättelser och validera implementeringen.
+description: Läs om hur användarströmmen i Customer Journey Analytics hjälper dig att hitta upplevelsemönster, berätta bättre användarberättelser och validera implementeringen.
 feature: Guided Analysis
 role: User
 level: Beginner
 doc-type: Feature Video
 last-substantial-update: 2024-03-15T00:00:00Z
 jira: KT-15092
-source-git-commit: 7304fe6e7961a788c01386366c7e2fa738703f86
+exl-id: 1eda14aa-6e1e-4a98-b0aa-f6dfc78d14c6
+source-git-commit: d8605d31c7f547c3e55aa2b7dfa8905db973219a
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
 # Tidsanalys för användarström
 
-Läs om hur **användarströmvy** in [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md) hjälper er att hitta upplevelsemönster, berätta bättre användarberättelser och validera implementeringen.
+Lär dig mer om hur **användarströmsvyn** i Customer Journey Analytics hjälper dig att hitta upplevelsemönster, berätta bättre användarhistorier och validera implementeringen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427810/?learn=on)
 
-Mer information finns på [dokumentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/streams/timeline).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/streams/timeline).

@@ -1,6 +1,6 @@
 ---
 title: Trattfriktionsanalys
-description: Lär dig hur du använder funktionen för att frigöra Adobe Product Analytics, som ger en visuell representation av en viktig användarresa i din produkt och hjälper dig att avgöra var det finns friktion i den.
+description: Lär dig hur du använder funktionen för att frigöra Customer Journey Analytics, som ger en visuell representation av en viktig användarresa i din produkt och hjälper dig att avgöra var det finns friktion i den.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -9,7 +9,7 @@ last-substantial-update: 2024-07-12T00:00:00Z
 jira: KT-13673
 thumbnail: 3421663.jpeg
 exl-id: 52211513-1cda-4173-aebd-4af752c87604
-source-git-commit: ada35ca9c8ef98d685d28f8e02d6cb7297b0d6f0
+source-git-commit: 1da4a8eabe968138d600337a7b570c8fb72001c7
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Trattfriktionsanalys
 
-Lär dig hur du använder **kanalens friktionsvy** i [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md), som ger en visuell representation av en viktig användarresa i din produkt och hjälper dig att avgöra var den är friktionsfri.
+Lär dig hur du använder **kanalens friktionsvy** i Customer Journey Analytics, som ger en visuell representation av en viktig användarresa i din produkt och hjälper dig att avgöra var den är friktionsfri.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421663/?learn=on)
 
