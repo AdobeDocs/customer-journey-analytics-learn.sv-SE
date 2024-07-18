@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# Formatera mätvärden i [!UICONTROL Data Views]
+# Formaterar mått i [!UICONTROL Data Views]
 
-I den här videon får du lära dig mer om alternativen för att formatera mätvärden i [!UICONTROL component] skärm [!UICONTROL Data View] konfiguration. Vi kommer också att diskutera några tips som kan hjälpa dig att få ut mer av dina [!UICONTROL components].
+I den här videon får du lära dig mer om alternativen för att formatera mätvärden på skärmen [!UICONTROL component] i konfigurationen [!UICONTROL Data View]. Vi kommer också att diskutera några tips som kan hjälpa dig att få ut mer av din [!UICONTROL components].
 
 >[!VIDEO](https://video.tv.adobe.com/v/332806/?quality=12&learn=on)

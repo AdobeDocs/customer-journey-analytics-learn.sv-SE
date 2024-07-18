@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# Skapa värdeintervall i [!UICONTROL Data Views] för analys
+# Skapar värdeintervall i [!UICONTROL Data Views] för analys
 
-När en [!UICONTROL Data View] i Customer Journey Analytics kan du ange att en numerisk dimension ska samlas i definierade intervall, så att du kan begränsa antalet tillgängliga objekt för tabellen till nummerintervall (mycket coola). Den här videon visar hur du konfigurerar den här funktionen.
+När du konfigurerar [!UICONTROL Data View] i Customer Journey Analytics kan du ange en numerisk dimension som ska samlas i definierade intervall, så att du kan begränsa antalet tillgängliga objekt för tabellen till nummerintervall (mycket coola). Den här videon visar hur du konfigurerar den här funktionen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332864/?quality=12&learn=on)

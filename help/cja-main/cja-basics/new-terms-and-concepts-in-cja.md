@@ -13,7 +13,7 @@ level: Beginner
 exl-id: aa063ebb-c171-47a8-b1c5-12f24e1a59b8
 source-git-commit: c9830412d18f63dc14020748ff43df7f7fcf408c
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -24,4 +24,4 @@ I den här videon ska vi diskutera viktiga termer och begrepp i Customer Journey
 
 >[!VIDEO](https://video.tv.adobe.com/v/32113/?quality=12&learn=on)
 
-Mer information om Customer Journey Analytics finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html).
+Mer information om Customer Journey Analytics finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html).

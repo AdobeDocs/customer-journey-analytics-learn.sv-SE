@@ -10,7 +10,7 @@ kt: 10422
 exl-id: 4c05f97d-566b-41c8-a822-56482136b04d
 source-git-commit: c9830412d18f63dc14020748ff43df7f7fcf408c
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,4 @@ På landningssidan för Customer Journey Analytics finns en standardvy över din
 
 >[!VIDEO](https://video.tv.adobe.com/v/343041/?quality=12&learn=on)
 
-Mer information finns i [dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-overview/landing.html?lang=en).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-overview/landing.html?lang=en).

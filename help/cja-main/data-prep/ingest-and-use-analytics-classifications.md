@@ -1,6 +1,6 @@
 ---
 title: Importera och använda klassificeringsuppgifter från Adobe Analytics
-description: Lär dig hur du importerar och använder [!DNL Adobe Analytics] klassificeringsdata i [!DNL Customer Journey Analytics].
+description: Lär dig hur du importerar och använder  [!DNL Adobe Analytics] klassificeringsdata i [!DNL Customer Journey Analytics].
 feature: Adobe Analytics Integration
 topic: Integrations
 doc-type: technical video
@@ -10,19 +10,20 @@ kt: 13484
 role: Admin, User
 level: Beginner
 last-substantial-update: 2023-06-19T00:00:00Z
-source-git-commit: 1150ec26cf52df892c432959ebe5a8bf730a8b34
+exl-id: 70ebc514-5a2e-4947-ad2c-b90c35665b42
+source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
 
-# Importera och använda [!DNL Adobe Analytics] klassificeringsdata i [!DNL Analysis Workspace] in [!DNL Customer Journey Analytics]
+# Infoga och använd [!DNL Adobe Analytics] klassificeringsdata i [!DNL Analysis Workspace] i [!DNL Customer Journey Analytics]
 
-Lär dig hur du importerar och använder [!DNL Analytics] klassificeringsdata i [!DNL Customer Journey Analytics]. När klassificeringsuppgifterna är tillgängliga i [!DNL Experience Platform], uppdatera [!UICONTROL connections] och [!UICONTROL data views] att inkludera nya klassificeringsfält som ska användas i [!DNL Analysis Workspace]. 
+Lär dig hur du importerar och använder [!DNL Analytics] klassificeringsdata i [!DNL Customer Journey Analytics]. När klassificeringsdata är tillgängliga i [!DNL Experience Platform] uppdaterar du [!UICONTROL connections] och [!UICONTROL data views] så att de innehåller de nya klassificeringsfälten som ska användas i [!DNL Analysis Workspace]. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420556/?quality=12&learn=on)
 
-Mer information om [!DNL Adobe Analytics] källanslutning för [!UICONTROL classifications] data, gå till [dokumentation](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/classifications.html).
+Mer information om [!DNL Adobe Analytics]-källkopplingen för [!UICONTROL classifications]-data finns i [dokumentationen](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/classifications.html).
 
-I den här videon hänvisas till funktionen för härledda fält i Customer Journey Analytics. Om du vill veta mer om den här funktionen kan du titta på [video](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/derived-fields-in-cja.html) eller går till [dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/derived-fields.html).
+I den här videon hänvisas till funktionen för härledda fält i Customer Journey Analytics. Titta på [videon](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/derived-fields-in-cja.html) eller gå till [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/derived-fields.html) om du vill veta mer om den här funktionen.

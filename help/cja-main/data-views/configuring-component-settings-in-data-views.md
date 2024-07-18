@@ -10,14 +10,14 @@ kt: 7582
 exl-id: e0c2cf9f-5c5e-45e2-a738-cc7afc0a440f
 source-git-commit: 2b5a19397f7c2b2e775fbd5d724205922ad76f15
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '94'
 ht-degree: 2%
 
 ---
 
 # Konfigurera komponentinställningar i datavyer
 
-I den här videon går vi igenom några av de grundläggande komponentinställningarna som du vill konfigurera för var och en av [!UICONTROL components] (mått och mått) när du skapar en [!UICONTROL Data View] i Customer Journey Analytics.
+I den här videon går vi igenom några av de grundläggande komponentinställningarna som du vill konfigurera för var och en av [!UICONTROL components] (mått och mått) när du konfigurerar en [!UICONTROL Data View] i Customer Journey Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332788/?quality=12&learn=on)
 

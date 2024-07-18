@@ -1,6 +1,6 @@
 ---
 title: Dela med vem som helst i Analysis Workspace
-description: Lär dig mer om hur du delar med andra i Workspace. Du kan använda den här funktionen för att ge skrivskyddad åtkomst till arbetsyteprojekt till personer som inte har tillgång till Adobe Analytics eller CJA, inklusive mottagare utanför organisationen.
+description: Läs om hur du delar med andra i Workspace. Du kan använda den här funktionen för att ge skrivskyddad åtkomst till Workspace-projekt till personer som inte har tillgång till Adobe Analytics eller CJA, inklusive mottagare utanför organisationen.
 feature: Curate and Share
 role: User
 level: Beginner
@@ -8,18 +8,18 @@ doc-type: Feature Video
 last-substantial-update: 2023-06-06T00:00:00Z
 jira: KT-13435
 thumbnail: 3420093.jpeg
-source-git-commit: 0c47553f32c814ff0425545787995afbcb8f89a4
+exl-id: 1ee94404-f4b0-4185-82df-341d091963db
+source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
 
-
 # Dela med vem som helst i Analysis Workspace
 
-Lär dig mer om funktionen&quot;dela med vem som helst&quot; i Workspace. Du kan använda den här funktionen för att ge skrivskyddad åtkomst till arbetsyteprojekt till personer som inte har tillgång till Adobe Analytics eller Customer Journey Analytics, inklusive mottagare utanför organisationen.
+Läs mer om funktionen&quot;dela med vem som helst&quot; i Workspace. Du kan använda den här funktionen för att ge skrivskyddad åtkomst till Workspace-projekt till personer som inte har tillgång till Adobe Analytics eller Customer Journey Analytics, inklusive mottagare utanför organisationen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420093/?learn=on)
 
-Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html?lang=en#share-public-link).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html?lang=en#share-public-link).

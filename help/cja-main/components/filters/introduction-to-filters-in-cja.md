@@ -11,7 +11,7 @@ level: Beginner
 exl-id: 22076ef3-8d97-4483-bc05-5f37b15c868f
 source-git-commit: 5b7ce13569961cc78be0e2946e3e9607f5ed9a6b
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
@@ -22,4 +22,4 @@ Filter identifierar undergrupper av besökare eller kunder baserat på attribut 
 
 >[!VIDEO](https://video.tv.adobe.com/v/32114/?quality=12&learn=on)
 
-Mer information om Customer Journey Analytics finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/filters-overview.html).
+Mer information om Customer Journey Analytics finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/filters-overview.html).

@@ -13,15 +13,15 @@ level: Beginner
 exl-id: 077bed60-9aa2-47f9-af66-2f99453d64fb
 source-git-commit: a2a920c7762bdb93b54fbff1dc5f36bcc10e9400
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
-# Skapa flera kanaler [!UICONTROL Visualizations] i Customer Journey Analytics
+# Skapa [!UICONTROL Visualizations] i Customer Journey Analytics
 
-I den här videon ser du hur Customer Journey Analytics kan skapa [!UICONTROL visualizations] som innehåller data från flera [!UICONTROL datasets] över flera kanaler, inklusive att slå samman data per [!UICONTROL visitor].
+I den här videon kan du se hur Customer Journey Analytics tillåter dig att skapa [!UICONTROL visualizations] som innehåller data från flera [!UICONTROL datasets] över flera kanaler, inklusive att sammanfoga data per [!UICONTROL visitor].
 
 >[!VIDEO](https://video.tv.adobe.com/v/31771/?quality=12&learn=on)
 
-Mer information om Customer Journey Analytics finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html).
+Mer information om Customer Journey Analytics finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html).

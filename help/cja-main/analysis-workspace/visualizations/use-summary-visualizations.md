@@ -1,6 +1,6 @@
 ---
 title: Använd [!UICONTROL summary] visualiseringar i [!DNL Analysis Workspace] projekt
-description: Lär dig använda [!UICONTROL summary] visualiseringar i [!DNL Analysis Workspace] projekt i [!DNL Customer Journey Analytics].
+description: Lär dig hur du använder [!UICONTROL summary]-visualiseringar i [!DNL Analysis Workspace] projekt i [!DNL Customer Journey Analytics].
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -9,21 +9,22 @@ kt: 13425
 role: User
 level: Beginner
 last-substantial-update: 2023-06-07T00:00:00Z
-source-git-commit: a2a920c7762bdb93b54fbff1dc5f36bcc10e9400
+exl-id: 05d3f6c3-55a0-4135-a85d-87ff2695b734
+source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
 
-# Använd [!UICONTROL summary] visualiseringar i [!DNL Analysis Workspace] projekt i [!DNL Customer Journey Analytics]
+# Använd [!UICONTROL summary] visualiseringar i [!DNL Analysis Workspace]-projekt i [!DNL Customer Journey Analytics]
 
-Lär dig använda [!UICONTROL summary] visualiseringar i [!DNL Analysis Workspace] projekt i [!DNL Customer Journey Analytics]. Dessa visualiseringar är perfekta att använda när du vill markera ett stort antal som är viktiga i ett projekt.
+Lär dig hur du använder [!UICONTROL summary]-visualiseringar i [!DNL Analysis Workspace]-projekt i [!DNL Customer Journey Analytics]. Dessa visualiseringar är perfekta att använda när du vill markera ett stort antal som är viktiga i ett projekt.
 
 >[!NOTE]
 >
->The [!DNL Analysis Workspace] användargränssnittet och funktionerna är desamma i [!DNL Adobe Analytics] och [!DNL Customer Journey Analytics].
+>Användargränssnittet och funktionerna i [!DNL Analysis Workspace] liknar dem i [!DNL Adobe Analytics] och [!DNL Customer Journey Analytics].
 
 >[!VIDEO](https://video.tv.adobe.com/v/335564/?quality=12&learn=on)
 
-Mer information om [!UICONTROL summary] visualiseringar, gå till [dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/summary-number-change.html).
+Mer information om [!UICONTROL summary]-visualiseringar finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/summary-number-change.html).

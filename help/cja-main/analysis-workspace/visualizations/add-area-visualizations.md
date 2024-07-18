@@ -9,21 +9,22 @@ kt: 13491
 role: User
 level: Beginner
 last-substantial-update: 2023-06-07T00:00:00Z
-source-git-commit: a2a920c7762bdb93b54fbff1dc5f36bcc10e9400
+exl-id: b9bdf5d0-e5e6-4b55-8958-c38f9ce444f5
+source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '75'
 ht-degree: 0%
 
 ---
 
-# Lägg till [!UICONTROL area visualizations] till [!DNL Analysis Workspace] projekt i [!DNL Customer Journey Analytics]
+# Lägg till [!UICONTROL area visualizations] i [!DNL Analysis Workspace] projekt i [!DNL Customer Journey Analytics]
 
-Lär dig hur du lägger till [!UICONTROL area] och [!UICONTROL area stacked] visualiseringar till [!DNL Analysis Workspace] projekt i [!DNL Customer Journey Analytics]. Dessa visualiseringar är idealiska att använda när det finns flera mätvärden för vilka du vill visualisera området baserat på skärningspunkten för två eller flera mätvärden.
+Lär dig hur du lägger till [!UICONTROL area] och [!UICONTROL area stacked] visualiseringar i [!DNL Analysis Workspace]-projekt i [!DNL Customer Journey Analytics]. Dessa visualiseringar är idealiska att använda när det finns flera mätvärden för vilka du vill visualisera området baserat på skärningspunkten för två eller flera mätvärden.
 
 >[!NOTE]
 >
->The [!DNL Analysis Workspace] användargränssnittet och funktionerna är desamma i [!DNL Adobe Analytics] och [!DNL Customer Journey Analytics].
+>Användargränssnittet och funktionerna i [!DNL Analysis Workspace] liknar dem i [!DNL Adobe Analytics] och [!DNL Customer Journey Analytics].
 
 >[!VIDEO](https://video.tv.adobe.com/v/334261/?quality=12&learn=on)
 
-Mer information om [!UICONTROL area] visualiseringar, gå till [dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/area.html).
+Mer information om [!UICONTROL area]-visualiseringar finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/area.html).

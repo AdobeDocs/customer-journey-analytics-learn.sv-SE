@@ -11,15 +11,15 @@ kt: 10446
 exl-id: 7e4e7030-b82d-4bf3-b3b0-9af24e684988
 source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
 
 # Hjälper chefer att komma åt mobilstyrkort
 
-Hjälper chefer att komma åt mobilstyrkort som skapats i [!DNL Customer Journey Analytics] med [!DNL Analytics] mobilprogram på kontrollpanelen.  Mobil styrkort ger alltid tillgång till viktiga prestandamått och detaljerade vyer, eller uppdelningar.
+Hjälper chefer att komma åt mobilstyrkort som skapats i [!DNL Customer Journey Analytics] med mobilappen [!DNL Analytics].  Mobil styrkort ger alltid tillgång till viktiga prestandamått och detaljerade vyer, eller uppdelningar.
 
 >[!VIDEO](https://video.tv.adobe.com/v/343460/?quality=12&learn=on)
 
-Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/set-up-execs.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/set-up-execs.html).

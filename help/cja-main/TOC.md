@@ -29,7 +29,7 @@ ht-degree: 2%
    + [Visa, felsöka och ändra anslutningsinställningar](connections/connections-details-experience-in-cja.md)
    + [Lägga till nya data i en anslutning](connections/add-past-data-to-an-existing-connection-in-cja.md)
    + [CJA-sökningar efter sök- och profildata](connections/cja-lookup-data.md)
-+ Besökaridentifiering {#visitor-id}
++ Identifiering av besökare {#visitor-id}
    + [Förstå hur CJA använder identitet](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
    + [Konfigurera ett person-ID som saknas](visitor-id/configure-missing-person-id.md)
    + [Översikt över häftning](visitor-id/overview-of-stitching.md)
@@ -78,7 +78,7 @@ ht-degree: 2%
       + [Skapa en anteckning](analysis-workspace/annotations/create-an-annotation.md)
    + Kuratera och dela {#curate-and-share}
       + [Dela med vem som helst i Analysis Workspace](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
-   + Tips och råd {#tips-and-tricks}
+   + Tips och tricks {#tips-and-tricks}
       + [Skapa dynamiska nedrullningsbara filter](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Adobe Product Analytics - översikt](adobe-product-analytics/adobe-product-analytics-overview.md)
@@ -88,7 +88,7 @@ ht-degree: 2%
    + Tratt {#funnel}
       + [Trattfriktionsanalys](guided-analysis/funnel/funnel-friction-analysis.md)
       + [Trendanalys av trender för trattkonvertering](guided-analysis/funnel/funnel-conversion-trends-analysis.md)
-   + Effekt {#impact}
+   + Påverkan {#impact}
       + [Analys av släpppåverkan](guided-analysis/impact/release-impact-analysis.md)
       + [Konsekvensanalys för första användning](guided-analysis/impact/first-use-impact-analysis.md)
    + Kvarhållning {#retention}
@@ -131,7 +131,7 @@ ht-degree: 2%
       + [Använd datumfältstöd](use-cases/data-views-use-cases/leverage-date-field-support.md)
    + Komplexa data {#complex-data}
       + [Använda arrayer med objekt](use-cases/complex-data/object-arrays-in-cja.md)
-+ Blueprints {#blueprints}
-   + [Customer Journey Analytics-ritning](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
++ Ritytor {#blueprints}
+   + [Customer Journey Analytics-utkast](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [Scenario för digital beteendedatakonsolidering](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html){target=_blank}
-   + [Analysscenario för avböjningsresa](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html){target=_blank}
+   + [Anropa scenariot för analys av deformeringsresa](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html){target=_blank}

@@ -14,8 +14,8 @@ level: Intermediate
 exl-id: 441e632f-b8d0-428a-9db6-c048bf173443
 source-git-commit: c9830412d18f63dc14020748ff43df7f7fcf408c
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 28%
+source-wordcount: '72'
+ht-degree: 30%
 
 ---
 
@@ -25,4 +25,4 @@ I den här videon hittar du en genomgång av Customer Journey Analytics arkitekt
 
 >[!VIDEO](https://video.tv.adobe.com/v/32483/?learn=on&quality=12)
 
-Mer information om Customer Journey Analytics finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html).
+Mer information om Customer Journey Analytics finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html).

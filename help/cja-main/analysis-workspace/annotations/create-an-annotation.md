@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Skapa en anteckning
 
-Lär dig skapa en [!UICONTROL annotation] i [!DNL Customer Journey Analytics] projekt när händelser som kampanjlanseringar, dataproblem och helger inträffar. Den här funktionen informerar dina användare om måttavvikelser för dessa datum och datumintervall.
+Lär dig att skapa en [!UICONTROL annotation] i dina [!DNL Customer Journey Analytics]-projekt när händelser som kampanjlanseringar, dataproblem och helger inträffar. Den här funktionen informerar dina användare om måttavvikelser för dessa datum och datumintervall.
 
 >[!VIDEO](https://video.tv.adobe.com/v/343742/?quality=12&learn=on)

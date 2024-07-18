@@ -14,15 +14,15 @@ level: Beginner
 exl-id: b359a509-f920-40d2-978f-983f1b555e86
 source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
 # Flytta Adobe Analytics [!UICONTROL Segments] till Customer Journey Analytics
 
-I den här videon får du tips på hur du återskapar din Adobe Analytics [!UICONTROL segments] as &quot;[!UICONTROL filters]&quot; i Customer Journey Analytics.
+I den här videon får du tips på hur du återskapar din Adobe Analytics [!UICONTROL segments] som [!UICONTROL filters] i Customer Journey Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31982/?quality=12&learn=on)
 
-Mer information om Customer Journey Analytics finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html).
+Mer information om Customer Journey Analytics finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html).

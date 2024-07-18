@@ -7,13 +7,13 @@ role: Admin
 level: Beginner
 kt: 10439
 thumbnail: 343044.jpeg
-source-git-commit: 11d4cd63b860488380777b911a75394b0e311565
+exl-id: e78d17ec-9d62-4ef5-a1b9-05604869c070
+source-git-commit: 2a39da3c21e39cdffb159aa152f646e00a1327ca
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
-
 
 # Skapa och redigera anslutningar
 
@@ -21,4 +21,4 @@ En ny upplevelse av Anslutningar med nya funktioner som gör att klienter kan ak
 
 >[!VIDEO](https://video.tv.adobe.com/v/343044/?quality=12&learn=on)
 
-Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=en).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=en).

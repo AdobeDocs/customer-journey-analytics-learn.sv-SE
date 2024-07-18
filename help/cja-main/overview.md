@@ -17,12 +17,12 @@ ht-degree: 0%
 
 # Självstudiekurser för Customer Journey Analytics
 
-Välkommen till [!DNL Customer Journey Analytics] självstudiekurser - webbplats.  Använd dessa självstudiekurser tillsammans med [dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html) ger er en bättre förståelse för hur ni kan använda Adobe Analytics för att få kundinsikter i flera kanaler snabbare än någonsin.  För att komma igång,
+Välkommen till webbplatsen för [!DNL Customer Journey Analytics] självstudiekurser.  Genom att använda dessa självstudiekurser tillsammans med [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html) får du en bättre förståelse för hur du använder Adobe Analytics för att få kundinsikter i flera kanaler snabbare än någonsin.  För att komma igång,
 
-* Se **&quot;What&#39;s New&quot;** nedan för de senaste funktionerna
+* Se avsnittet **&quot;Nyheter&quot;** nedan för de senaste funktionerna
 * **Personalval** markerar en del av vårt favoritinnehåll
-* Utforska innehållet efter ämne och ämne i **vänster navigering**
-* Använd **sök** fältet längst upp på sidan om du vet vad du letar efter
+* Utforska innehållet efter ämne och underämne i **vänster navigering**
+* Använd fältet **sök** längst upp på sidan om du vet vad du söker efter
 
 Med Customer Journey Analytics kan ni styra hur ni kopplar samman online- och offlinedata i Analysis Workspace med vilket kundID som helst, vilket slutligen gör att ni kan skapa attribuering, segmentering, flöde, utfall osv. i hela er kunddatauppsättning.
 
@@ -46,11 +46,11 @@ Med Customer Journey Analytics kan ni styra hur ni kopplar samman online- och of
     </a>
     <div>
       <a href="visitor-id/understanding-how-customer-journey-analytics-uses-identity.md">
-    <strong>Förstå hur Customer Journey Analytics använder identitet</strong>
+    <strong> Förstå hur Customer Journey Analytics använder identitet </strong>
     </a>
     </div>
     <p>
-    <em>En praktisk bild av hur identiteten påverkar er analys i Customer Journey Analytics</em>
+    <em>En praktisk översikt över hur identiteten påverkar din analys i Customer Journey Analytics</em>
     <p>
   </td>
    <td>
@@ -59,11 +59,11 @@ Med Customer Journey Analytics kan ni styra hur ni kopplar samman online- och of
     </a>
     <div>
       <a href="architecture/architecture-and-integrations-of-cja.md">
-    <strong>Arkitektur och integrering av Customer Journey Analytics</strong>
+    <strong> Arkitektur och integrering av Customer Journey Analytics </strong>
     </a>
     </div>
     <p>
-    <em>Genomgång av Customer Journey Analytics arkitektur, inklusive integrering med Adobe Experience Platform.</em>
+    <em>Genomgång av arkitekturen i Customer Journey Analytics, inklusive integrering med Adobe Experience Platform.</em>
     <p>
   </td>
   <td>
@@ -72,11 +72,11 @@ Med Customer Journey Analytics kan ni styra hur ni kopplar samman online- och of
     </a>
     <div>
       <a href="analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md">
-    <strong>Flerkanalsattribuering i Customer Journey Analytics</strong>
+    <strong> Cross-Channel Attribution i Customer Journey Analytics </strong>
     </a>
     </div>
     <p>
-    <em>Så här kan du använda visualiseringar för att visa attribuering (ge kredit) över olika kanaler.</em>
+    <em>Så här kan du använda visualiseringar för att visa attribuering (ge kredit) i olika kanaler.</em>
     <p>
   </td>
 </tr>

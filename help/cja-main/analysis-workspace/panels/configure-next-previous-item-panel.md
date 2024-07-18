@@ -1,6 +1,6 @@
 ---
 title: Konfigurera nästa och föregående objektpanel
-description: Lär dig hur du snabbt skapar tabeller och visualiseringar för att identifiera nästa eller föregående objekt för ett visst dimensionsvärde.
+description: Lär dig hur du snabbt genererar tabeller och visualiseringar för att identifiera nästa eller föregående objekt för ett visst dimensionsvärde.
 feature: Panels
 role: User
 level: Beginner
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Konfigurera nästa och föregående objektpanel
 
-Lär dig hur du snabbt skapar tabeller och visualiseringar för att identifiera nästa eller föregående objekt för ett visst dimensionsvärde.
+Lär dig hur du snabbt genererar tabeller och visualiseringar för att identifiera nästa eller föregående objekt för ett visst dimensionsvärde.
 
 >[!VIDEO](https://video.tv.adobe.com/v/344430/?quality=12&learn=on)

@@ -13,15 +13,15 @@ level: Beginner
 exl-id: 0c43da6a-f809-49b1-8488-030ce70cd2d1
 source-git-commit: a2a920c7762bdb93b54fbff1dc5f36bcc10e9400
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
 
-# Flerkanaligt [!UICONTROL Attribution] i Customer Journey Analytics
+# Kanalövergripande [!UICONTROL Attribution] i Customer Journey Analytics
 
-I den här videon visar vi hur du kan använda [!UICONTROL visualizations] att visa [!UICONTROL attribution] (tillgodoräkna) över alla kanaler i Customer Journey Analytics.
+I den här videon visar vi hur du kan använda [!UICONTROL visualizations] för att visa [!UICONTROL attribution] (ge kredit) i alla kanaler i Customer Journey Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31772/?quality=12&learn=on)
 
-Mer information om Customer Journey Analytics finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html).
+Mer information om Customer Journey Analytics finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html).

@@ -13,15 +13,15 @@ level: Intermediate
 exl-id: 5562f818-0c5f-4421-b715-ca083b81a00c
 source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 30%
+source-wordcount: '68'
+ht-degree: 32%
 
 ---
 
 # Arbeta med data i Customer Journey Analytics
 
-I den här videon får du lära dig hur [!UICONTROL dataset] [!UICONTROL schemas] översätts till variabler i Customer Journey Analytics (CJA) och hur CJA hanterar mycket hög kardinalitet.
+I den här videon får du lära dig hur [!UICONTROL dataset] [!UICONTROL schemas] översätts till variabler i Customer Journey Analytics (CJA) samt hur CJA hanterar mycket hög kardinalitet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32112/?quality=12&learn=on)
 
-Mer information om Customer Journey Analytics finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html).
+Mer information om Customer Journey Analytics finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html).

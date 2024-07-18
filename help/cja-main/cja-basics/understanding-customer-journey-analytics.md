@@ -11,8 +11,8 @@ level: Beginner
 exl-id: 8b9644dd-1992-499c-88f0-acd3ef182956
 source-git-commit: c9830412d18f63dc14020748ff43df7f7fcf408c
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 72%
+source-wordcount: '131'
+ht-degree: 74%
 
 ---
 
@@ -22,4 +22,4 @@ Adobe Customer Journey Analytics (CJA) är en programtjänst som byggs ovanpå A
 
 >[!VIDEO](https://video.tv.adobe.com/v/30090/?quality=12&learn=on)
 
-Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html).

@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL Attribution] Inställningar i [!UICONTROL Data Views]
+# Inställningar för [!UICONTROL Attribution] i [!UICONTROL Data Views]
 
 Varje dimension ska ha en allokeringsinställning (som avgör vilket värde som får kredit för konvertering) och en förfalloinställning (hur länge värdet kvarstår), så att systemet vet hur värdet ska tilldelas dimensionsvärdena. På samma sätt bör mätvärden, och när de fungerar tillsammans, ha en attributmodell och ett uppslagsfönster inställt. I den här videon får du hjälp med att ange de här helt viktiga inställningarna.
 
