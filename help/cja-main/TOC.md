@@ -2,7 +2,7 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 5e5e972d7313b9ee64ffcfa411d4b7a34f1f9682
+source-git-commit: 9ba828982bf1862607a3ae958e8cd0399d420d5b
 workflow-type: tm+mt
 source-wordcount: '486'
 ht-degree: 2%
@@ -39,6 +39,7 @@ ht-degree: 2%
    + [Grundkonfiguration för datavyer](data-views/basic-configuration-for-data-views.md)
    + [Konfigurera komponentinställningar i datavyer](data-views/configuring-component-settings-in-data-views.md)
    + [Inställningar för komponenttyp i datavyer](data-views/component-type-settings-in-data-views.md)
+   + [Skapa datakällor på sammanfattningsnivå](data-views/create-summary-level-data-sources.md)
    + [Skapa härledda fält](data-views/derived-fields-in-cja.md)
    + [Använd matematisk funktion i härledda fält](data-views/use-the-math-function-in-derived-fields.md)
    + [Använd funktionen Nästa eller Föregående i härledda fält](data-views/use-the-next-previous-function-in-derived-fields.md)
@@ -67,7 +68,6 @@ ht-degree: 2%
       + [Lägga till punktgrafivisualiseringar](analysis-workspace/visualizations/add-bullet-graph-visualizations.md)
       + [Lägg till animeringar på munnen](analysis-workspace/visualizations/add-donut-visualizations.md)
       + [Lägg till radvisualiseringar](analysis-workspace/visualizations/add-line-visualizations.md)
-      + [Använda kartvisualisering](analysis-workspace/visualizations/use-map-visualization.md)
       + [Använd sammanfattningsvisualiseringar](analysis-workspace/visualizations/use-summary-visualizations.md)
       + [Lägga till textvisualiseringar](analysis-workspace/visualizations/add-text-visualizations.md)
       + [Använda punktvisualisering](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
