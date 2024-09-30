@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 9ba828982bf1862607a3ae958e8cd0399d420d5b
+source-git-commit: c3457bc3197fef37890e32ac8831fb426e3b575d
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '455'
 ht-degree: 2%
 
 ---
@@ -83,24 +83,17 @@ ht-degree: 2%
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Adobe Product Analytics - översikt](adobe-product-analytics/adobe-product-analytics-overview.md)
 + Guidad analys {#guided-analysis}
-   + Funktionsmatris {#feature-matrix}
-      + [Funktionsengagemangsanalys](guided-analysis/feature-matrix/feature-engagement.md)
-   + Tratt {#funnel}
-      + [Trattfriktionsanalys](guided-analysis/funnel/funnel-friction-analysis.md)
-      + [Trendanalys av trender för trattkonvertering](guided-analysis/funnel/funnel-conversion-trends-analysis.md)
-   + Påverkan {#impact}
-      + [Analys av släpppåverkan](guided-analysis/impact/release-impact-analysis.md)
-      + [Konsekvensanalys för första användning](guided-analysis/impact/first-use-impact-analysis.md)
-   + Kvarhållning {#retention}
-      + [Analys av kvarhållningsfrekvenser](guided-analysis/retention/retention-rates-analysis.md)
-   + Trender {#trends}
-      + [Analys av frekvenstrender](guided-analysis/trends/frequency-trends-analysis.md)
-      + [Analys av användningsmönster](guided-analysis/trends/usage-trends-analysis.md)
-   + Användarström {#user-stream}
-      + [Tidsanalys för användarström](guided-analysis/user-stream/user-stream-timeline-analysis.md)
-   + Användartillväxt {#user-growth}
-      + [Analys av aktiv användartillväxt](guided-analysis/user-growth/active-user-growth-analysis.md)
-      + [Nettoanalys av användartillväxt](guided-analysis/user-growth/net-user-growth-analysis.md)
+   + [Aktiv tillväxt](guided-analysis/active-growth.md)
+   + [Konverteringstrender](guided-analysis/conversion-trends.md)
+   + [Engagemang](guided-analysis/engagement.md)
+   + [Effekt för första användningen](guided-analysis/first-use-impact.md)
+   + [Frekvens](guided-analysis/frequency.md)
+   + [Tratt](guided-analysis/funnel.md)
+   + [Nettotillväxt](guided-analysis/net-growth.md)
+   + [Frisläpp påverkan](guided-analysis/release-impact.md)
+   + [Kvarhållning](guided-analysis/retention.md)
+   + [Tidslinje](guided-analysis/timeline.md)
+   + [Trender](guided-analysis/trends.md)
 + Komponenter {#components}
    + Filter (segmentering) {#filters}
       + [Översikt över filter](components/filters/introduction-to-filters-in-cja.md)
