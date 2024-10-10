@@ -1,6 +1,6 @@
 ---
 title: Översikt över diagrambaserad sammanfogning
-description: Med diagrambaserad sammanfogning kan du utnyttja kraften i Identity Graph för att justera identiteter mellan olika AEP-program och göra det möjligt för fler datauppsättningar att sammanfogas i CJA genom att ha en gemensam personidentifierare i dem.
+description: Diagrambaserad sammanfogning utnyttjar kraften i Identity Graph för att justera identiteter mellan olika Experience Platform-program. Med den här funktionen kan fler datauppsättningar kopplas i Customer Journey Analytics med hjälp av en gemensam personidentifierare.
 feature: Stitching
 role: Admin, Developer
 level: Intermediate
@@ -9,21 +9,21 @@ duration: 301
 last-substantial-update: 2024-06-05T00:00:00Z
 jira: KT-15651
 exl-id: b5c16b6b-3a84-49f5-b29b-a753c35e2212
-source-git-commit: 24f3909672b9861611731632e6346f346efc4d24
+source-git-commit: 542a72671643df81cc44391e6c3585e54990a308
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
 
 # Översikt över diagrambaserad sammanfogning
 
-Med diagrambaserad sammanfogning kan du utnyttja kraften i Identity Graph för att justera identiteter mellan olika AEP-program och göra det möjligt för fler datauppsättningar att sammanfogas i CJA genom att ha en gemensam personidentifierare i dem.
+Diagrambaserad sammanfogning utnyttjar kraften i Identity Graph för att justera identiteter mellan olika Experience Platform-program. Med den här funktionen kan fler datauppsättningar kopplas i Customer Journey Analytics med hjälp av en gemensam personidentifierare.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429528/?learn=on)
 
-Med hjälp av diagrambaserade sy ihop använder vi identitetsdiagrammet för att få en bättre bild av kundresan genom:
+Genom att använda grafiskt baserade sy ihop med hjälp av identitetsdiagrammet får du en bättre bild av kundresan genom:
 
-* Sammanfoga datauppsättningar med olika identifierare utan att behöva använda ETL-data för att spegla en enda identifierare
-* Förbättra täckningen av preferens- eller gyllene identitet för en enskild datauppsättning genom att dela identiteter mellan datauppsättningar.
+* Justera om en eller flera datauppsättningar, var och en till en enda identifierare, i stället för att använda en krånglig ETL-process.
+* Förbättra täckningen av en föredragen identitet för en enskild datauppsättning till andra datauppsättningar genom att dela identiteten.
 * Justera profiler som skapats i Adobe Real-Time CDP och Adobe Journey Optimizer med personer i Adobe Customer Journey Analytics.
