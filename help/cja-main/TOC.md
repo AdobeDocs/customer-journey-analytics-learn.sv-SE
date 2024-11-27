@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: c3457bc3197fef37890e32ac8831fb426e3b575d
+source-git-commit: 4d8c7a84ef9a70b0a071a776dc531182bad2462a
 workflow-type: tm+mt
-source-wordcount: '455'
+source-wordcount: '460'
 ht-degree: 2%
 
 ---
@@ -56,6 +56,8 @@ ht-degree: 2%
    + Workspace-projekt {#workspace-projects}
       + [Analysis Workspace - översikt](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [Skapa ett nytt projekt](analysis-workspace/workspace-projects/build-a-new-project.md)
+      + Reseanalys {#journey-analysis}
+         + [Visualisering av arbetsyta på resans yta](analysis-workspace/workspace-projects/journey-analysis/journey-canvas-viz.md)
    + Paneler {#panels}
       + [Konfigurera nästa och föregående objektpanel](analysis-workspace/panels/configure-next-previous-item-panel.md)
       + [Använda panelen Experimentera](analysis-workspace/panels/use-the-experimentation-panel.md)
