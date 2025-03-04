@@ -2,15 +2,15 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 1b3acda2ed8d15b3c7cff5ac0a2848c41fe2b2a8
+source-git-commit: c64a6d08fea9782339f939102e0dc3b6ccf56d1c
 workflow-type: tm+mt
-source-wordcount: '463'
+source-wordcount: '468'
 ht-degree: 2%
 
 ---
 
 
-# Självstudiekurser för Customer Journey Analytics {#tutorials}
+# Customer Journey Analytics självstudiekurser {#tutorials}
 
 + [Customer Journey Analytics - översikt](overview.md)
 + Grundläggande om Customer Journey Analytics {#cja-basics}
@@ -25,7 +25,7 @@ ht-degree: 2%
    + [Importera, mappa och omvandla Adobe Analytics-data](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
    + [Importera och använda klassificeringsuppgifter från Adobe Analytics](data-prep/ingest-and-use-analytics-classifications.md)
 + Anslutningar {#connections}
-   + [Ansluta till datakällor i Experience Platform](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
+   + [Ansluta till Experience Platform datakällor](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
    + [Visa, felsöka och ändra anslutningsinställningar](connections/connections-details-experience-in-cja.md)
    + [Lägga till nya data i en anslutning](connections/add-past-data-to-an-existing-connection-in-cja.md)
    + [CJA-sökningar efter sök- och profildata](connections/cja-lookup-data.md)
@@ -48,7 +48,7 @@ ht-degree: 2%
    + [Inkludera eller exkludera mätvärden i datavyer](data-views/include-or-exclude-metric-values-in-data-views.md)
    + [Skapa värdegrupper i datavyer för analys](data-views/creating-value-buckets-in-data-views-for-analysis.md)
    + [Inkludera eller exkludera dimensionsvärden i datavyer](data-views/include-or-exclude-dimension-values-in-data-views.md)
-   + [Bindning av Dimensioner i datavyer](data-views/binding-dimensions-in-data-views.md)
+   + [Bindningsdimensioner i datavyer](data-views/binding-dimensions-in-data-views.md)
    + [Konfigurera inga värdealternativ i datavyer](data-views/configure-no-value-options-in-data-views.md)
    + [Attributinställningar i datavyer](data-views/attribution-settings-in-data-views.md)
    + [Valutakonvertering](data-views/currency-conversion.md)
@@ -86,6 +86,7 @@ ht-degree: 2%
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Adobe Product Analytics - översikt](adobe-product-analytics/adobe-product-analytics-overview.md)
 + Guidad analys {#guided-analysis}
+   + [Använd guidad analys i Workspace](guided-analysis/guided-analysis-in-workspace.md)
    + [Aktiv tillväxt](guided-analysis/active-growth.md)
    + [Konverteringstrender](guided-analysis/conversion-trends.md)
    + [Engagemang](guided-analysis/engagement.md)
@@ -119,7 +120,7 @@ ht-degree: 2%
    + Report Builder {#report-builder}
       + [Report Builder för Customer Journey Analytics](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
       + [Schemalägg Customer Journey Analytics-arbetsböcker med Report Builder](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
-+ Integrering med Experience Platform {#experience-platform-integration}
++ Experience Platform-integrering {#experience-platform-integration}
    + [Förbättrad rapportering för Adobe Journey Optimizer](experience-platform-integration/enhanced-reporting-for-adobe-journey-optimizer.md)
 + Användningsexempel {#use-cases}
    + Datavyer använder exempel {#data-views-use-cases}
@@ -129,5 +130,5 @@ ht-degree: 2%
       + [Använda arrayer med objekt](use-cases/complex-data/object-arrays-in-cja.md)
 + Ritytor {#blueprints}
    + [Customer Journey Analytics-utkast](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-   + [Scenario för digital beteendedatakonsolidering](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html){target=_blank}
-   + [Anropa scenariot för analys av deformeringsresa](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html){target=_blank}
+   + [Scenario för digital beteendedatakonsolidering](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+   + [Anropa scenariot för analys av deformeringsresa](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
