@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: c64a6d08fea9782339f939102e0dc3b6ccf56d1c
+source-git-commit: ccaa4f1291dff7727373f2508ec37adc6b8d8ad2
 workflow-type: tm+mt
-source-wordcount: '468'
+source-wordcount: '474'
 ht-degree: 2%
 
 ---
@@ -30,12 +30,12 @@ ht-degree: 2%
    + [Lägga till nya data i en anslutning](connections/add-past-data-to-an-existing-connection-in-cja.md)
    + [CJA-sökningar efter sök- och profildata](connections/cja-lookup-data.md)
 + Identifiering av besökare {#visitor-id}
-   + [Förstå hur CJA använder identitet](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
+   + [Så här använder CJA identitet](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
    + [Konfigurera ett person-ID som saknas](visitor-id/configure-missing-person-id.md)
    + [Översikt över häftning](visitor-id/overview-of-stitching.md)
    + [Översikt över diagrambaserad sammanfogning](visitor-id/graph-based-stitching-overview.md)
 + Datavyer {#data-views}
-   + [Översikt över konfiguration av datavyer för CJA](data-views/overview-of-configuring-data-views-for-cja.md)
+   + [Översikt över hur datavyer konfigureras för CJA](data-views/overview-of-configuring-data-views-for-cja.md)
    + [Grundkonfiguration för datavyer](data-views/basic-configuration-for-data-views.md)
    + [Konfigurera komponentinställningar i datavyer](data-views/configuring-component-settings-in-data-views.md)
    + [Inställningar för komponenttyp i datavyer](data-views/component-type-settings-in-data-views.md)
@@ -112,6 +112,9 @@ ht-degree: 2%
       + [Målgruppspublicering](components/audiences/audience-publishing-for-cja.md)
    + Dataordlista {#data-dictionary}
       + [Använd dataordlista](components/data-dictionary/use-data-dictionary.md)
++ Innehållsanalys {#content-analytics}
+   + [Introduktion](content-analytics/introduction-to-content-analytics.md)
+   + [Så här fungerar det](content-analytics/how-it-works.md)
 + Instrumentpaneler (styrkort) {#dashboards}
    + [Skapa ett mobilstyrkort](dashboards/create-a-mobile-scorecard.md)
    + [Hjälper chefer med åtkomst till mobilstyrkort](dashboards/assist-executives-to-access-mobile-scorecards.md)
