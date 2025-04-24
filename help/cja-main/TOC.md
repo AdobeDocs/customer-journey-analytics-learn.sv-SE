@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: ccaa4f1291dff7727373f2508ec37adc6b8d8ad2
+source-git-commit: d726ccc860c8bce96e6ca522a606c096ff43828e
 workflow-type: tm+mt
-source-wordcount: '474'
-ht-degree: 2%
+source-wordcount: '473'
+ht-degree: 3%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 2%
    + [Visa, felsöka och ändra anslutningsinställningar](connections/connections-details-experience-in-cja.md)
    + [Lägga till nya data i en anslutning](connections/add-past-data-to-an-existing-connection-in-cja.md)
    + [CJA-sökningar efter sök- och profildata](connections/cja-lookup-data.md)
-+ Identifiering av besökare {#visitor-id}
++ Besökaridentifiering {#visitor-id}
    + [Så här använder CJA identitet](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
    + [Konfigurera ett person-ID som saknas](visitor-id/configure-missing-person-id.md)
    + [Översikt över häftning](visitor-id/overview-of-stitching.md)
@@ -59,7 +59,7 @@ ht-degree: 2%
       + [Analysis Workspace-mallar](analysis-workspace/workspace-projects/analysis-workspace-templates.md)
       + Reseanalys {#journey-analysis}
          + [Visualisering av arbetsyta på resans yta](analysis-workspace/workspace-projects/journey-analysis/journey-canvas-viz.md)
-   + Paneler {#panels}
+   + Panel {#panels}
       + [Konfigurera nästa och föregående objektpanel](analysis-workspace/panels/configure-next-previous-item-panel.md)
       + [Använda panelen Experimentera](analysis-workspace/panels/use-the-experimentation-panel.md)
    + Visualiseringar {#visualizations}
@@ -81,8 +81,8 @@ ht-degree: 2%
       + [Skapa en anteckning](analysis-workspace/annotations/create-an-annotation.md)
    + Kuratera och dela {#curate-and-share}
       + [Dela med vem som helst i Analysis Workspace](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
-   + Tips och tricks {#tips-and-tricks}
-      + [Skapa dynamiska nedrullningsbara filter](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
+   + Tips och råd {#tips-and-tricks}
+      + [Skapa dynamiska rullgardinsmenyer](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Adobe Product Analytics - översikt](adobe-product-analytics/adobe-product-analytics-overview.md)
 + Guidad analys {#guided-analysis}
@@ -99,11 +99,11 @@ ht-degree: 2%
    + [Tidslinje](guided-analysis/timeline.md)
    + [Trender](guided-analysis/trends.md)
 + Komponenter {#components}
-   + Filter (segmentering) {#filters}
-      + [Översikt över filter](components/filters/introduction-to-filters-in-cja.md)
-      + [Skapa ett snabbfilter](components/filters/create-a-quick-filter.md)
-      + [Skapa flerkanalsfilter](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
-      + [Använd filter som dimensioner](components/filters/use-filters-as-dimensions.md)
+   + Segment {#filters}
+      + [Översikt över segment](components/filters/introduction-to-filters-in-cja.md)
+      + [Skapa ett snabbsegment](components/filters/create-a-quick-filter.md)
+      + [Skapa flerkanalssegment](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
+      + [Använd segment som dimensioner](components/filters/use-filters-as-dimensions.md)
       + [Flytta Adobe Analytics-segment till Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
    + Beräknade mått {#calc-metrics}
       + [Introduktion till beräknade värden i Customer Journey Analytics](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
@@ -112,7 +112,7 @@ ht-degree: 2%
       + [Målgruppspublicering](components/audiences/audience-publishing-for-cja.md)
    + Dataordlista {#data-dictionary}
       + [Använd dataordlista](components/data-dictionary/use-data-dictionary.md)
-+ Innehållsanalys {#content-analytics}
++ Content Analytics {#content-analytics}
    + [Introduktion](content-analytics/introduction-to-content-analytics.md)
    + [Så här fungerar det](content-analytics/how-it-works.md)
 + Instrumentpaneler (styrkort) {#dashboards}
@@ -123,7 +123,7 @@ ht-degree: 2%
    + Report Builder {#report-builder}
       + [Report Builder för Customer Journey Analytics](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
       + [Schemalägg Customer Journey Analytics-arbetsböcker med Report Builder](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
-+ Experience Platform-integrering {#experience-platform-integration}
++ Experience Platform Integration {#experience-platform-integration}
    + [Förbättrad rapportering för Adobe Journey Optimizer](experience-platform-integration/enhanced-reporting-for-adobe-journey-optimizer.md)
 + Användningsexempel {#use-cases}
    + Datavyer använder exempel {#data-views-use-cases}
@@ -131,7 +131,7 @@ ht-degree: 2%
       + [Använd datumfältstöd](use-cases/data-views-use-cases/leverage-date-field-support.md)
    + Komplexa data {#complex-data}
       + [Använda arrayer med objekt](use-cases/complex-data/object-arrays-in-cja.md)
-+ Ritytor {#blueprints}
-   + [Customer Journey Analytics-utkast](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
++ Utkast {#blueprints}
+   + [Customer Journey Analytics-ritning](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [Scenario för digital beteendedatakonsolidering](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
    + [Anropa scenariot för analys av deformeringsresa](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
