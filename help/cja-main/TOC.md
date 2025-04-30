@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: d726ccc860c8bce96e6ca522a606c096ff43828e
+source-git-commit: a2fd948c72f78995ab979e4256bcf461697c2897
 workflow-type: tm+mt
-source-wordcount: '473'
+source-wordcount: '478'
 ht-degree: 3%
 
 ---
@@ -62,6 +62,7 @@ ht-degree: 3%
    + Panel {#panels}
       + [Konfigurera nästa och föregående objektpanel](analysis-workspace/panels/configure-next-previous-item-panel.md)
       + [Använda panelen Experimentera](analysis-workspace/panels/use-the-experimentation-panel.md)
+      + [Använd panelen med snabba insikter](analysis-workspace/panels/use-the-quick-insights-panel.md)
    + Visualiseringar {#visualizations}
       + [Skapa visualiseringar över flera kanaler](analysis-workspace/visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
       + [Flerkanalsattribuering](analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
