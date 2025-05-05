@@ -20,6 +20,6 @@ ht-degree: 3%
 
 Lär dig hur **engagemang** i Customer Journey Analytics ger insikter om hur ofta dina produktfunktioner används jämfört med hur många som använder dem.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429489/&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447471?captions=swe)
 
 Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/guided-analysis/feature-matrix/engagement).

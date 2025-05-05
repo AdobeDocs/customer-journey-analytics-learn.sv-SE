@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Lär dig mer om arbetsytevisualisering, som gör att du kan analysera och få djupgående insikter om de resor som du erbjuder användare och kunder.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440602/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440630/?learn=on&captions=swe)
 
 Användare kan skapa resor med flera starter, sökvägar eller ändpunkter. Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-workspace/visualizations/journey-canvas/journey-canvas){target="_blank"}.

@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Lär dig hur **släppeffekten** i Customer Journey Analytics visar en jämförelse av hur nyckelindikatorer utfördes före och efter ett visst datum.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421665/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432439/?learn=on&captions=swe)
 
 Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/release.html?lang=sv-SE).

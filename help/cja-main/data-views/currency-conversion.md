@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Utför valutakonvertering i kundreseanalyser med en inställning i Datavyer. Använd den här funktionen för att skapa flera mätvärden som ska visas i olika valutor. Mer information finns på [Formatera komponentinställningar](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/format.html?lang=sv-SE#currency).
 
->[!VIDEO](https://video.tv.adobe.com/v/3424816/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447528/?learn=on&captions=swe)

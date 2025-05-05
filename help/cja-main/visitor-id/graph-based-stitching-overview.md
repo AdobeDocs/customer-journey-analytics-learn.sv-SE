@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Diagrambaserad sammanfogning utnyttjar kraften i Identity Graph för att justera identiteter mellan olika Experience Platform-program. Med den här funktionen kan fler datauppsättningar kopplas i Customer Journey Analytics med hjälp av en gemensam personidentifierare.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429528/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448720/?learn=on&captions=swe)
 
 Genom att använda grafiskt baserade sy ihop med hjälp av identitetsdiagrammet får du en bättre bild av kundresan genom:
 

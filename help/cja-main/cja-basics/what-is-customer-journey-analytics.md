@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Med Customer Journey Analytics (CJA) kan ni analysera kundens resa över flera kanaler med hjälp av alla data som är tillgängliga för er i Adobe Experience Platform, och utnyttja kraften i Analysis Workspace för snabba insikter.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418680/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439452/?quality=12&learn=on&captions=swe)

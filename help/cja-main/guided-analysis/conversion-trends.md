@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Lär dig hur **konverteringstrender** i Customer Journey Analytics spårar förändringar i trattkonverteringsgrader över tid.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421662/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432445/?learn=on&captions=swe)
 
 Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/funnel/conversion-trends.html?lang=sv-SE).

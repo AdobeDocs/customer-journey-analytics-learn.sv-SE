@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Eftersom många individer interagerar med ert innehåll via flera kanaler och enheter blir det viktigare än någonsin att koppla dessa oautentiserade händelser till autentiserade händelser. Detta ger en mer holistisk strategi för rapportering och i slutändan aktivering. Den här videon ger en snabb översikt över hur du sammanfogar bilder.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426814/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452551/?learn=on&captions=swe)

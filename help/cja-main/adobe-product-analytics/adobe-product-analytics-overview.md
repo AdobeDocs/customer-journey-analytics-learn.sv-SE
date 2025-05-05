@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Adobe Product Analytics gör det möjligt för produktteamen att självbetjäna data och insikter om sina produktupplevelser via guidade analysarbetsflöden som bygger på samma kanalövergripande data från Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421621/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432451/?learn=on&captions=swe)
 
 Med Adobe Product Analytics kan teamen
 

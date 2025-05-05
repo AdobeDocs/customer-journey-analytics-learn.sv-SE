@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Använd **Guidad analys** i Analysis Workspace för att självbetjäna högkvalitativa datainsikter via guidade arbetsflöden. Den här funktionen gör det enkelt att komma åt, skapa, spara och återanvända analyser, vilket effektiviserar uppgifter som spårning av kundlojalitet och trattanalys.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449320/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449501/?learn=on&captions=swe)

@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Lär dig hur **nettotillväxt** i Customer Journey Analytics ger insikter om i vilken takt du vinner eller förlorar användare under en viss period.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421664/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432442/?learn=on&captions=swe)
 
 Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/net-growth.html?lang=sv-SE).

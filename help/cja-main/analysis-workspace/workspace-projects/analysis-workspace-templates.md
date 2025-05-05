@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Vill du inte börja från grunden? Lär dig hur du påbörjar en analys i Workspace med en Workspace-mall. Du kan välja från en förvaltad Adobe-mall eller skapa en egen för en anpassad organisationsmall. Bläddra efter rätt mall i en kortvy eller kolumnvy beroende på vad du föredrar. Mer information finns i [Skapa och hantera mallar](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-workspace/templates/create-templates?lang=en){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443169/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443174/?learn=on&enablevpops&captions=swe)

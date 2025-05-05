@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Hjälper chefer att komma åt mobilstyrkort som skapats i [!DNL Customer Journey Analytics] med mobilappen [!DNL Analytics].  Mobil styrkort ger alltid tillgång till viktiga prestandamått och detaljerade vyer, eller uppdelningar.
 
->[!VIDEO](https://video.tv.adobe.com/v/343460/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3444840/?quality=12&learn=on&captions=swe)
 
 Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/set-up-execs.html?lang=sv-SE).

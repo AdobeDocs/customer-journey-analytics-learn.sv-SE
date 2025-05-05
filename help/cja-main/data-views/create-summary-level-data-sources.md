@@ -18,7 +18,7 @@ ht-degree: 1%
 
 Customer Journey Analytics stöder data på sammanfattningsnivå som gör att användare kan samla in och analysera data som inte är ordnade efter enskilda ID:n, till exempel kampanj- eller produktdata. Processen med att integrera denna sammanfattningsinformation i Experience Platform är en omfattande process, som att skapa kopplingar, konfigurera datavyer och kombinera sammanfattningsdata med händelsedata för en omfattande rapportering. Den här funktionen ger djupare insikter i kampanjresultat och ökar rapporteringsflexibiliteten inom CJA.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433305/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449413/?quality=12&learn=on&captions=swe)
 
 ## Ytterligare material
 

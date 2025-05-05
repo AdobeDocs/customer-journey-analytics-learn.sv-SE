@@ -20,4 +20,4 @@ ht-degree: 0%
 Med Report Builder kan du enkelt skapa, redigera och uppdatera anpassade rapporter med Adobe Customer Journey Analytics-data. Customer Journey Analytics är en tjänst som bygger på Adobe Experience Platform och som gör att du kan gå med i flera datakällor för att skapa en helhetsbild av ditt företag. Med Report Builder enkla och flexibla dra-och-släpp-gränssnitt kan du skapa komplexa datafrågor och anpassade rapporter från data från Customer Journey Analytics, allt inifrån Excel.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/337569/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452584/?quality=12&learn=on&captions=swe)

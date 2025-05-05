@@ -22,6 +22,6 @@ Utforska **retention** i Customer Journey Analytics. Lär dig hur du använder s
 
 Lär dig hur du använder start- och returhändelser för att mäta användarengagemanget och kundlojaliteten effektivt. Självstudiekursen handlar också om hur du justerar kvarhållningsinställningar för olika affärsmodeller, oavsett om du kör en resewebbplats, en e-handelsplattform eller ett produktivitetsverktyg. Få praktiska tips om hur ni kan använda lagringsdata för att optimera produktmarknaden och få ett bestående användarengagemang.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430503/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435782/?learn=on&captions=swe)
 
 Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/guided-analysis/retention/retention-rates).

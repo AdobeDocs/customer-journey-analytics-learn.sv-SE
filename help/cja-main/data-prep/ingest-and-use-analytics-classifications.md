@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Lär dig hur du importerar och använder [!DNL Analytics] klassificeringsdata i [!DNL Customer Journey Analytics]. När klassificeringsdata är tillgängliga i [!DNL Experience Platform] uppdaterar du [!UICONTROL connections] och [!UICONTROL data views] så att de innehåller de nya klassificeringsfälten som ska användas i [!DNL Analysis Workspace]. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420556/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432473/?quality=12&learn=on&captions=swe)
 
 Mer information om [!DNL Adobe Analytics]-källkopplingen för [!UICONTROL classifications]-data finns i [dokumentationen](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/classifications.html?lang=sv-SE).
 

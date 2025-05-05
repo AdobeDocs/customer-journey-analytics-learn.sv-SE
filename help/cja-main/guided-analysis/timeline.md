@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Lär dig mer om **tidslinjen** i Customer Journey Analytics, som hjälper dig att hitta upplevelsemönster, berätta bättre användarberättelser och validera implementeringen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427810/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435771/?learn=on&captions=swe)
 
 Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/guided-analysis/streams/timeline).
