@@ -22,4 +22,4 @@ Hjälper chefer att komma åt mobilstyrkort som skapats i [!DNL Customer Journey
 
 >[!VIDEO](https://video.tv.adobe.com/v/343460/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/set-up-execs.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/set-up-execs.html?lang=sv-SE).

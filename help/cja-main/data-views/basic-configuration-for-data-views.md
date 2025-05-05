@@ -23,4 +23,4 @@ När du har skapat en [!UICONTROL Connection] i Customer Journey Analytics till 
 
 ## Ytterligare material
 
-* [Customer Journey Analytics - Dokumentation för datavyer](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html)
+* [Customer Journey Analytics - Dokumentation för datavyer](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=sv-SE)

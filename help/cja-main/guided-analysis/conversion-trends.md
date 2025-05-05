@@ -22,4 +22,4 @@ Lär dig hur **konverteringstrender** i Customer Journey Analytics spårar för�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421662/?learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/funnel/conversion-trends.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/funnel/conversion-trends.html?lang=sv-SE).

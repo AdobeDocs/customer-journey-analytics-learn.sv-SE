@@ -24,4 +24,4 @@ Få ut mer av analysen genom att lägga till nya data från andra kanaler i en C
 
 >[!VIDEO](https://video.tv.adobe.com/v/32549/?learn=on&quality=12&learn=on)
 
-Mer information om kanalövergripande analys finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cca/overview.html).
+Mer information om kanalövergripande analys finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cca/overview.html?lang=sv-SE).

@@ -22,4 +22,4 @@ Lär dig hur **frekvens** i Customer Journey Analytics kan analysera användarin
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428089/?learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/trends/frequency).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/guided-analysis/trends/frequency).

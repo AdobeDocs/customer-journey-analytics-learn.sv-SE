@@ -27,4 +27,4 @@ Lär dig hur du lägger till och konfigurerar [!UICONTROL donut]-visualiseringar
 
 >[!VIDEO](https://video.tv.adobe.com/v/334309/?quality=12&learn=on)
 
-Mer information om [!UICONTROL donut]-visualiseringar finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/donut.html).
+Mer information om [!UICONTROL donut]-visualiseringar finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/donut.html?lang=sv-SE).

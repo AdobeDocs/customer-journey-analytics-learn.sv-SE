@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Lägg till prognoser till din visualisering
 
-Lär dig hur du lägger till prognosnummer i tidsserievisualiseringen i Customer Journey Analytics. Detaljerad dokumentation finns på [Översikt över prognostisering](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/forecasting/forecasting#){target="_blank"}.
+Lär dig hur du lägger till prognosnummer i tidsserievisualiseringen i Customer Journey Analytics. Detaljerad dokumentation finns på [Översikt över prognostisering](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-workspace/forecasting/forecasting#){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428021/?learn=on)

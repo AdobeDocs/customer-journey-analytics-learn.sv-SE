@@ -23,4 +23,4 @@ I den här videon går vi igenom några av de grundläggande komponentinställni
 
 ## Ytterligare material
 
-* [Customer Journey Analytics - Dokumentation för datavyer](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html)
+* [Customer Journey Analytics - Dokumentation för datavyer](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=sv-SE)

@@ -26,4 +26,4 @@ Du kan också jämföra flera händelser i ett enda trattsteg och skapa en&quot;
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431113/?learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/funnel/friction).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/guided-analysis/funnel/friction).

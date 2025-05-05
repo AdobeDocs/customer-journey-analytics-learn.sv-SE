@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Översikt över segment
 
-Segmenten identifierar undergrupper av besökare eller kunder utifrån attribut och händelser, som webbplatsbesökare eller call center-engagemang. Läs mer om huvudkomponenterna i Segment Builder i Customer Journey Analytics. Mer information om Customer Journey Analytics finns i [dokumentationen](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/filters-overview).
+Segmenten identifierar undergrupper av besökare eller kunder utifrån attribut och händelser, som webbplatsbesökare eller call center-engagemang. Läs mer om huvudkomponenterna i Segment Builder i Customer Journey Analytics. Mer information om Customer Journey Analytics finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-components/cja-segments/filters-overview).
 
 >[!NOTE]
 >

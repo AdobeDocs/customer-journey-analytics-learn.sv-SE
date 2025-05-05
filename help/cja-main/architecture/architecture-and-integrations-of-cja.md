@@ -25,4 +25,4 @@ I den här videon hittar du en genomgång av Customer Journey Analytics arkitekt
 
 >[!VIDEO](https://video.tv.adobe.com/v/32483/?learn=on&quality=12)
 
-Mer information om Customer Journey Analytics finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html).
+Mer information om Customer Journey Analytics finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=sv-SE).

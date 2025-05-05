@@ -24,4 +24,4 @@ I den här videon ska vi diskutera viktiga termer och begrepp i Customer Journey
 
 >[!VIDEO](https://video.tv.adobe.com/v/32113/?quality=12&learn=on)
 
-Mer information om Customer Journey Analytics finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html).
+Mer information om Customer Journey Analytics finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=sv-SE).

@@ -21,6 +21,6 @@ ht-degree: 0%
 
 Med CJA-sökningar på sök- och profildata kan användarna använda djupare relationer mellan dataelement, som person-till-konto i B2B-användningsfall.  I den här videon beskriver vi hur du lägger till sökdata i uppslags- och profildatauppsättningar och hur du planerar och mappar nyckelfält.  Observera, att om det finns en till många relationer mellan nyckeln och sökvärdet används det senaste värdet.
 
-Mer detaljerad dokumentation finns på [Datauppsättningstyper](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=en#dataset-types) och [Lägg till data på kontonivå som en uppslagsdatauppsättning](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/b2b/b2b.html?lang=en).
+Mer detaljerad dokumentation finns på [Datauppsättningstyper](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=sv-SE#dataset-types) och [Lägg till data på kontonivå som en uppslagsdatauppsättning](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/b2b/b2b.html?lang=sv-SE).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426424/?learn=on)

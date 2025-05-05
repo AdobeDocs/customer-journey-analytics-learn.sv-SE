@@ -22,4 +22,4 @@ Customer Journey Analytics stöder data på sammanfattningsnivå som gör att an
 
 ## Ytterligare material
 
-* Mer information finns i [dokumentationen](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/summary-data)
+* Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-dataviews/summary-data)

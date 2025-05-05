@@ -22,4 +22,4 @@ Lär dig hur du använder objektarrayer från profildata och uppslagsdatauppsät
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424502/?learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/complex-data/object-arrays.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/complex-data/object-arrays.html?lang=sv-SE).

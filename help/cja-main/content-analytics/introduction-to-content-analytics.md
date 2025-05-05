@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Det kan vara en utmaning att mäta innehållets prestanda, vilket ofta leder till gissningar och ineffektivitet. Content Analytics eliminerar gissningarna genom att ge djupgående insikter om vad som gör innehållet effektivt - oavsett om det är ton, bilder, färg eller budskap. Det besvarar viktiga frågor som vilka skapar engagemang och hur innehåll kan optimeras.
 
-Mer information finns i Content Analytics [dokumentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/content-analytics){target="_blank"}.
+Mer information finns i Content Analytics [dokumentation](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/content-analytics/content-analytics){target="_blank"}.
 
 ## Introduktion
 

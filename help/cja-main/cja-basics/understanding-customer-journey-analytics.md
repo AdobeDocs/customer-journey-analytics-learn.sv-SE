@@ -22,4 +22,4 @@ Adobe Customer Journey Analytics (CJA) är en programtjänst som byggs ovanpå A
 
 >[!VIDEO](https://video.tv.adobe.com/v/30090/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=sv-SE).

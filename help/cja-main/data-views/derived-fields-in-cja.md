@@ -28,4 +28,4 @@ Exempel:
 * Konfigurera ett härlett sidnamnsfält som korrigerar sidnamnsvärden som inte samlats in korrekt.
 * Konfigurera ett härlett fält för marknadsföringskanal som fastställer rätt marknadsföringskanal baserat på ett eller flera villkor, t.ex. URL-parameter, sidadress eller sidnamn.
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/derived-fields.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/derived-fields.html?lang=sv-SE).

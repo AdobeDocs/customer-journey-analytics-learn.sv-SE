@@ -22,4 +22,4 @@ Lär dig hur **aktiv tillväxt** i Customer Journey Analytics ger insikter om hu
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421667/?learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/active.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/active.html?lang=sv-SE).

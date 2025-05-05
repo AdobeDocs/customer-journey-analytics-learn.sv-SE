@@ -22,4 +22,4 @@ Första gången och återkommande sessioner ger möjlighet att skilja mellan fö
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412321/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/data-views/data-views-usecases.html?lang=en#new-repeat).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/data-views/data-views-usecases.html?lang=sv-SE#new-repeat).

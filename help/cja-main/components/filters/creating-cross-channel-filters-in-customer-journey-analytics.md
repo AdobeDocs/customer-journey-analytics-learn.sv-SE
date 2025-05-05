@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Skapa [!UICONTROL segments] i Customer Journey Analytics
 
-Lär dig hur du skapar [!UICONTROL segments] i Adobe Customer Journey Analytics som använder mer än en enda datakälla och kanal. Läs också om hur [!UICONTROL segments] kan kombineras i [!UICONTROL visualizations]. Mer information finns i [dokumentationen](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/filters-overview).
+Lär dig hur du skapar [!UICONTROL segments] i Adobe Customer Journey Analytics som använder mer än en enda datakälla och kanal. Läs också om hur [!UICONTROL segments] kan kombineras i [!UICONTROL visualizations]. Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-components/cja-segments/filters-overview).
 
 >[!NOTE]
 >

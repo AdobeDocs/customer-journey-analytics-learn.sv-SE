@@ -22,4 +22,4 @@ I den här videon visar vi hur du använder funktioner för dataförberedelser f
 
 >[!VIDEO](https://video.tv.adobe.com/v/29687?quality=12&learn=on)
 
-Mer information finns i dokumentationen för [Adobe Analytics-källanslutningen](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html) och [dokumentationen för dataprep-funktioner](https://experienceleague.adobe.com/docs/experience-platform/data-prep/functions.html).
+Mer information finns i dokumentationen för [Adobe Analytics-källanslutningen](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html?lang=sv-SE) och [dokumentationen för dataprep-funktioner](https://experienceleague.adobe.com/docs/experience-platform/data-prep/functions.html?lang=sv-SE).

@@ -22,4 +22,4 @@ Lär dig mer om arbetsytevisualisering, som gör att du kan analysera och få dj
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440602/?learn=on)
 
-Användare kan skapa resor med flera starter, sökvägar eller ändpunkter. Mer information finns i [dokumentationen](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/journey-canvas/journey-canvas){target="_blank"}.
+Användare kan skapa resor med flera starter, sökvägar eller ändpunkter. Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-workspace/visualizations/journey-canvas/journey-canvas){target="_blank"}.

@@ -22,4 +22,4 @@ Lär dig mer om **trender** i Customer Journey Analytics, som ger värdefull inf
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421666/?learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/trends/usage.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/trends/usage.html?lang=sv-SE).

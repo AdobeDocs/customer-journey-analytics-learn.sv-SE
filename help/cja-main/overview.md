@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Självstudiekurser för Customer Journey Analytics
 
-Välkommen till webbplatsen för [!DNL Customer Journey Analytics] självstudiekurser.  Genom att använda dessa självstudiekurser tillsammans med [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html) får du en bättre förståelse för hur du använder Adobe Analytics för att få kundinsikter i flera kanaler snabbare än någonsin.  För att komma igång,
+Välkommen till webbplatsen för [!DNL Customer Journey Analytics] självstudiekurser.  Genom att använda dessa självstudiekurser tillsammans med [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=sv-SE) får du en bättre förståelse för hur du använder Adobe Analytics för att få kundinsikter i flera kanaler snabbare än någonsin.  För att komma igång,
 
 * Se avsnittet **&quot;Nyheter&quot;** nedan för de senaste funktionerna
 * **Personalval** markerar en del av vårt favoritinnehåll

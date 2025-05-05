@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Skapa dynamiska rullgardinsmenyer i Analysis Workspace
 
-Lär dig hur du skapar nedrullningsbara segment baserat på en hel dimension. Dimension-objekt uppdateras dynamiskt baserat på det datumintervall som används i rapportpanelen. Mer information finns i [dokumentationen](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/create-filters).
+Lär dig hur du skapar nedrullningsbara segment baserat på en hel dimension. Dimension-objekt uppdateras dynamiskt baserat på det datumintervall som används i rapportpanelen. Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-components/cja-segments/create-filters).
 
 >[!NOTE]
 >

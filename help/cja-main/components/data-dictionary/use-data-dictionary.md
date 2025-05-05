@@ -22,4 +22,4 @@ Lär dig mer om Data Dictionary i Analysis Workspace för Customer Journey Analy
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418028/?quality=12&learn=on)
 
-Mer information om Data Dictionary i Analysis Workspace för Customer Journey Analytics finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/data-dictionary/data-dictionary-overview.html).
+Mer information om Data Dictionary i Analysis Workspace för Customer Journey Analytics finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/data-dictionary/data-dictionary-overview.html?lang=sv-SE).
