@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Lär dig hur du använder det guidade arbetsflödet [!DNL Content Analytics]. Det förenklar installationsprocessen för marknadsförare och möjliggör effektiv datainsamling, bearbetning och rapportering inom Customer Journey Analytics.
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/configuration/guided){target="_blank"}.
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/content-analytics/configuration/guided){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458438/?learn=on&enablevpops)

@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Redigera effektivt [!DNL Content Analytics]-konfigurationer genom att justera namn, datavyer och inställningar för upplevelsehämtning. Den här åtgärden uppdaterar automatiskt mätvärden och utför finjusteringar via tillägget Content Analytics Tags för optimerade insikter.
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/configuration/guided){target="_blank"}.
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/content-analytics/configuration/guided){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458439/?learn=on&enablevpops)
