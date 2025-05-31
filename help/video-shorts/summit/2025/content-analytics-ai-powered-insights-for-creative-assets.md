@@ -20,4 +20,4 @@ ht-degree: 0%
 Få en smygtitt på Content Analytics, en ny funktion i CJA som använder AI för att analysera kreativa resurser och deras prestanda.
 
 <!-- 62_S103_3442450_115_content-analytics-aipowered-insights-for-creative-assets -->
->[!VIDEO](https://video.tv.adobe.com/v/3458352/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3462961/?learn=on&enablevpops=true&captions=swe)

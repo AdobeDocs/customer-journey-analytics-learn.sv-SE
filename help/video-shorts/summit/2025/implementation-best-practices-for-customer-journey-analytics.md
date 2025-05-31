@@ -20,4 +20,4 @@ ht-degree: 0%
 Lär dig de tre viktigaste områdena att fokusera på för en lyckad implementering av Customer Journey Analytics, inklusive datamodellering, schemadesign och identitetshantering.
 
 <!-- 62_S655_3442541_180_implementation-best-practices-for-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3458337/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460257/?learn=on&enablevpops=true&captions=swe)

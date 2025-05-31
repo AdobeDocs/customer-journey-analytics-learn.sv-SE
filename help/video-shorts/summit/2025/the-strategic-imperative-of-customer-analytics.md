@@ -20,4 +20,4 @@ ht-degree: 0%
 Ta reda på varför övergången från enhetsbaserad analys till kundcentrerad analys är en konkurrensfördel och hur Customer Journey Analytics levererar unikt värde.
 
 <!-- 62_S112_3442459_101_the-strategic-imperative-of-customer-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3458322/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3463005/?learn=on&enablevpops=true&captions=swe)

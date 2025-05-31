@@ -20,4 +20,4 @@ ht-degree: 0%
 Läs om Adobe Agent Orchestrator och hur det möjliggör personaliserade kundupplevelser i realtid med hjälp av intelligenta agenter.
 
 <!-- 62_S653_3442539_67_introducing-adobes-agent-orchestrator-the-next-era-of-genai-innovation -->
->[!VIDEO](https://video.tv.adobe.com/v/3458307/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460048/?learn=on&enablevpops=true&captions=swe)

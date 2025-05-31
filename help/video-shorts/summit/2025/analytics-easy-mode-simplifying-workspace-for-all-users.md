@@ -20,4 +20,4 @@ ht-degree: 0%
 Se hur Analytics Easy Mode avslöjar dolda funktioner i Analysis Workspace, vilket gör det enklare för användare att få tillgång till kraftfulla verktyg och effektivisera sina arbetsflöden.
 
 <!-- 62_S102_3442449_82_analytics-easy-mode-simplifying-workspace-for-all-users -->
->[!VIDEO](https://video.tv.adobe.com/v/3458343/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3459719/?learn=on&enablevpops=true&captions=swe)
