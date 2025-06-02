@@ -20,4 +20,4 @@ ht-degree: 0%
 Upptäck hur diagrambaserade sammanfogningar möjliggör smidig integrering av flera datauppsättningar och skapar en enhetlig kundvy för åtgärdbara insikter.
 
 <!-- 62_S112_3442459_199_graphbased-stitching-for-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3458317/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460218/?learn=on&enablevpops=true&captions=swe)

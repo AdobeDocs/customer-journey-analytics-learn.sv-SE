@@ -20,4 +20,4 @@ ht-degree: 0%
 Upptäck hur du skapar mätvärden för användarövergångar, som att gå från silver till guld, och attribuerar dem till marknadsföringskanaler med hjälp av härledda fält i CJA.
 
 <!-- 85_S103_3442450_125_derived-fields-user-state-change-metrics -->
->[!VIDEO](https://video.tv.adobe.com/v/3458355/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460034/?learn=on&enablevpops=true&captions=swe)

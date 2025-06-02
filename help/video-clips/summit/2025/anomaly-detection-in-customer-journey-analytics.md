@@ -20,4 +20,4 @@ ht-degree: 0%
 Se hur avvikelseidentifiering i CJA hjälper er att identifiera statistiska variationer i era data, spara tid och lyfta fram viktiga insikter.
 
 <!-- 72_S106_3442453_58_anomaly-detection-in-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3458302/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3459730/?learn=on&enablevpops=true&captions=swe)

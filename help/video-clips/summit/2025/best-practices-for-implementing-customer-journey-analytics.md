@@ -20,4 +20,4 @@ ht-degree: 0%
 Upptäck de bästa sätten att implementera Customer Journey Analytics, inklusive konceptbevis, tillfälliga lösningar och fullständiga implementeringsstrategier.
 
 <!-- 62_S113_3442460_211_best-practices-for-implementing-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3458311/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460070/?learn=on&enablevpops=true&captions=swe)

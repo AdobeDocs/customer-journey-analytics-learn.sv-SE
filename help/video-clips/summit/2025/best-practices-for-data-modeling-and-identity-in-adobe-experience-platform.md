@@ -20,4 +20,4 @@ ht-degree: 0%
 Utforska viktiga strategier för datamodellering och identiteter för att säkerställa skalbara och effektiva implementeringar i Adobe Experience Platform.
 
 <!-- 72_S655_3442541_100_best-practices-for-data-modeling-and-identity-in-adobe-experience-platform -->
->[!VIDEO](https://video.tv.adobe.com/v/3458310/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3459828/?learn=on&enablevpops=true&captions=swe)

@@ -20,4 +20,4 @@ ht-degree: 0%
 Utforska Adobe interna strategier för att köra och driva storskaliga implementeringar, inklusive prioritering av användningsfall, övervakning och mätning av avkastning.
 
 <!-- 62_S655_3442541_95_run-and-operate-strategies-for-scaling-adobe-implementations -->
->[!VIDEO](https://video.tv.adobe.com/v/3458338/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3461084/?learn=on&enablevpops=true&captions=swe)

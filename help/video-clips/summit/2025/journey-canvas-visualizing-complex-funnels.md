@@ -20,4 +20,4 @@ ht-degree: 0%
 Utforska arbetsytan på Journey i CJA, ett kraftfullt visualiseringsverktyg för att skapa flerstegskärmsfunktioner och analysera användarnas resor.
 
 <!-- 72_S103_3442450_134_journey-canvas-visualizing-complex-funnels -->
->[!VIDEO](https://video.tv.adobe.com/v/3458364/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460153/?learn=on&enablevpops=true&captions=swe)

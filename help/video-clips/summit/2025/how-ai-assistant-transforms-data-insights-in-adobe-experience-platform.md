@@ -20,4 +20,4 @@ ht-degree: 0%
 Upptäck hur Adobe AI Assistant ger omedelbara datainsikter och omvandlar arbetsflöden med naturliga språkfrågor och praktiskt användbara resultat.
 
 <!-- 72_S653_3442539_81_how-ai-assistant-transforms-data-insights-in-adobe-experience-platform -->
->[!VIDEO](https://video.tv.adobe.com/v/3458305/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3459916/?learn=on&enablevpops=true&captions=swe)

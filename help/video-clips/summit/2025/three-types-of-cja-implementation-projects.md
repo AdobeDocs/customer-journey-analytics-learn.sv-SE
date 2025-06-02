@@ -20,4 +20,4 @@ ht-degree: 0%
 Upptäck tre typer av Customer Journey Analytics implementeringsprojekt: konceptbevis, tillfälliga flerkanalsprojekt och fullständig implementering.
 
 <!-- 62_S113_3442460_77_three-types-of-cja-implementation-projects -->
->[!VIDEO](https://video.tv.adobe.com/v/3458341/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3463024/?learn=on&enablevpops=true&captions=swe)

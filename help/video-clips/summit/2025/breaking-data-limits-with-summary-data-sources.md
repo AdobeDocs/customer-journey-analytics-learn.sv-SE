@@ -20,4 +20,4 @@ ht-degree: 0%
 Lär dig hur du använder Sammanfattning av datakällor i Customer Journey Analytics för att rapportera om marknadsföringskostnader, beräkna avkastningen på annonskostnaderna och spåra företagsmål.
 
 <!-- 72_S103_3442450_161_breaking-data-limits-with-summary-data-sources -->
->[!VIDEO](https://video.tv.adobe.com/v/3458347/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460081/?learn=on&enablevpops=true&captions=swe)

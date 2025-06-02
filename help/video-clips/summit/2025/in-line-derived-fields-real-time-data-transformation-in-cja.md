@@ -20,4 +20,4 @@ ht-degree: 0%
 Se hur ni kan rensa och gruppera data direkt i Customer Journey Analytics med hjälp av In-Line Derived Fields, vilket minskar beroendet av administratörer och sparar tid.
 
 <!-- 62_S102_3442449_192_inline-derived-fields-realtime-data-transformation-in-cja -->
->[!VIDEO](https://video.tv.adobe.com/v/3458362/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460290/?learn=on&enablevpops=true&captions=swe)
