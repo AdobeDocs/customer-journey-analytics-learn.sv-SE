@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Analysera data med hjälp av naturliga språkinställningar, generera frihandstabeller, visualiseringar och datavekvationer, och minska beroendet av dataanalytiker. AI-agenten ger snabba insikter om trender och prestanda, vilket gör det möjligt att dela åtgärdbara insikter med intressenter utan dröjsmål.
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai){target="_blank"}.
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3463897/?learn=on&enablevpops)

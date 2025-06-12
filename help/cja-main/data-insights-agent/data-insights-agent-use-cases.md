@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Effektivisera analysen med naturliga språkfrågor, visualiseringar i realtid och frihandstabeller. Öka effektiviteten i marknadsstrategiutveckling, kampanjhantering och resultatrapportering. Denna AI-baserade lösning ger marknadsförarna omedelbar insikt och frigör analytiker för strategiska uppgifter, förbättrar kundupplevelserna och proaktivt beslutsfattande.
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai){target="_blank"}.
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3463896/?learn=on&enablevpops)
