@@ -21,4 +21,4 @@ Effektivisera analysen med naturliga språkfrågor, visualiseringar i realtid oc
 
 Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463896/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463912/?learn=on&enablevpops&captions=swe)

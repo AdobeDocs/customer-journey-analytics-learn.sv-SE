@@ -24,7 +24,7 @@ Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/
 
 Läs mer om [!DNL Data Insights Agent] i Customer Journey Analytics. Den här AI-baserade lösningen ger marknadsförare och intressenter omedelbar, transparent information och eliminerar förseningar och omfattande utbildning samtidigt som analytiker frigörs för strategiska uppgifter.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463894/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463901/?learn=on&enablevpops&captions=swe)
 
 
 ## Användningsfall för datainsikter-agenten
@@ -40,7 +40,7 @@ Läs mer om [!DNL Data Insights Agent] i Customer Journey Analytics. Den här AI
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="data-insights-agent-use-cases.md" title="Användningsfall för datainsikter-agenten" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463896/?format=jpeg&nocache=1742338375674" alt="Användningsfall för datainsikter-agenten"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463912/?format=jpeg&nocache=1742338375674&captions=swe" alt="Användningsfall för datainsikter-agenten"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -74,7 +74,7 @@ Läs mer om [!DNL Data Insights Agent] i Customer Journey Analytics. Den här AI
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="use-the-data-insights-agent.md" title="Använd Data Insights Agent" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463897/?format=jpeg&nocache=1742338375674" alt="Använd Data Insights Agent"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463923/?format=jpeg&nocache=1742338375674&captions=swe" alt="Använd Data Insights Agent"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
