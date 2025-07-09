@@ -21,4 +21,4 @@ Lär dig hur du använder attribueringspanelen i [!DNL Customer Journey Analytic
 
 Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-workspace/panels/attribution).
 
->[!VIDEO](https://video.tv.adobe.com/v/3464718/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3464726/?learn=on&captions=swe)
