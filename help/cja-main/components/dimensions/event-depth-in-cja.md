@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Händelsedjup i Customer Journey Analytics är en standarddimensionskomponent som möjliggör exakt sekventiell spårning av användarinteraktioner i sessioner, vilket ger värdefulla insikter i kundbeteendemönster på både digitala och offline-plattformar. Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-dataviews/component-reference#standard-dimensions).
 
->[!VIDEO](https://video.tv.adobe.com/v/3464851/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464855/?learn=on&enablevpops&captions=swe)
