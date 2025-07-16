@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 27d553634dad11f8c0a9554ed8079d7d87169f32
+source-git-commit: d4d041a42a28b93bd74bb3d4a79929cd06513dea
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '511'
 ht-degree: 3%
 
 ---
@@ -54,10 +54,10 @@ ht-degree: 3%
    + [Konfigurera inga värdealternativ i datavyer](data-views/configure-no-value-options-in-data-views.md)
    + [Attributinställningar i datavyer](data-views/attribution-settings-in-data-views.md)
    + [Valutakonvertering](data-views/currency-conversion.md)
-+ Agent för datainsikter {#data-insights-agent}
++ Data Insights Agent {#data-insights-agent}
    + [Introduktion](data-insights-agent/introduction-to-the-data-insights-agent.md)
    + [Användningsexempel](data-insights-agent/data-insights-agent-use-cases.md)
-   + [Använd Data Insights Agent](data-insights-agent/use-the-data-insights-agent.md)
+   + [Använda Data Insights Agent](data-insights-agent/use-the-data-insights-agent.md)
 + Analysis Workspace {#analysis-workspace}
    + Workspace-projekt {#workspace-projects}
       + [Analysis Workspace - översikt](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
@@ -114,6 +114,8 @@ ht-degree: 3%
       + [Skapa flerkanalssegment](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
       + [Använd segment som dimensioner](components/filters/use-filters-as-dimensions.md)
       + [Flytta Adobe Analytics-segment till Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
+   + Mått {#dimensions}
++[Händelsedjup](components/dimensions/event-depth-in-cja.md)
    + Beräknade mått {#calc-metrics}
       + [Introduktion till beräknade värden i Customer Journey Analytics](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
       + [Flytta dina beräknade mätvärden från Adobe Analytics till Customer Journey Analytics](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
@@ -143,6 +145,6 @@ ht-degree: 3%
    + Komplexa data {#complex-data}
       + [Använda arrayer med objekt](use-cases/complex-data/object-arrays-in-cja.md)
 + Utkast {#blueprints}
-   + [Customer Journey Analytics-ritning](https://experienceleague.adobe.com/sv/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-   + [Scenario för digital beteendedatakonsolidering](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [Anropa scenariot för analys av deformeringsresa](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [Customer Journey Analytics-ritning](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Scenario för digital beteendedatakonsolidering](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+   + [Anropa scenariot för analys av deformeringsresa](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
