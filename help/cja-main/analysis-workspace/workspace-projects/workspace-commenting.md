@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Workspace Commenting in CJA
 
-Läs om hur du och ditt team kan samarbeta direkt med data med hjälp av Workspace kommentering i Adobe Customer Journey Analytics. Ställ frågor, dela insikter och skapa samförstånd utan att lämna analysen. Mer information finns i [dokumentationen](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/build-workspace-project/comment-projects){target="_blank"}.
+Läs om hur du och ditt team kan samarbeta direkt med data med hjälp av Workspace kommentering i Adobe Customer Journey Analytics. Ställ frågor, dela insikter och skapa samförstånd utan att lämna analysen. Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-workspace/build-workspace-project/comment-projects){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3469446/?learn=on&enablevpops)
