@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Läs om hur du och ditt team kan samarbeta direkt med data med hjälp av Workspace kommentering i Adobe Customer Journey Analytics. Ställ frågor, dela insikter och skapa samförstånd utan att lämna analysen. Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-workspace/build-workspace-project/comment-projects){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469446/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469450/?learn=on&enablevpops&captions=swe)
