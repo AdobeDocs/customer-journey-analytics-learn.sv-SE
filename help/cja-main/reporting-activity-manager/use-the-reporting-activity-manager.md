@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Använd Rapporteringsaktivitetshanteraren i [!DNL Customer Journey Analytics] om du vill övervaka och hantera rapporteringskapaciteten över organisationsanslutningar. Den här videon handlar om hur du får tillgång till viktiga mätvärden, felsökning av prestandaproblem och optimering av systemets effektivitet.
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/en/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470314/?learn=on)
