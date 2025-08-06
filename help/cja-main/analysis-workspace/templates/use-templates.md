@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Lär dig hur du använder mallar i [!DNL Customer Journey Analytics] för att effektivisera analys och rapportering. Mallar är färdiga konfigurationer för vanliga affärsanalyser, som webbplatsbesök, söknyckelord och besökares varaktighet. I den här videon får du hjälp med att välja, förhandsgranska och anpassa mallar i Analysis Workspace för att skapa skräddarsydda projekt.
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/templates/use-templates).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-workspace/templates/use-templates).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470517/?learn=on)
