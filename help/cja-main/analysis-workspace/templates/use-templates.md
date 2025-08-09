@@ -21,4 +21,4 @@ Lär dig hur du använder mallar i [!DNL Customer Journey Analytics] för att ef
 
 Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-workspace/templates/use-templates).
 
->[!VIDEO](https://video.tv.adobe.com/v/3470517/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470533/?learn=on&captions=swe)
