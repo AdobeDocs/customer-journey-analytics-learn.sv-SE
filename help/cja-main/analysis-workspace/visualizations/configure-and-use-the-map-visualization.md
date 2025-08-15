@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Ge liv åt dina platsdata med kartvisualisering! Identifiera geografiska kluster och skapa segment direkt med markeringsverktyget. Bara några enkla konfigurationssteg så är du redo att börja! Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-workspace/visualizations/map){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470819/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470823/?learn=on&enablevpops&captions=swe)
