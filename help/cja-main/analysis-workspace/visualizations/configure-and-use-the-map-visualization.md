@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Konfigurera och använda kartvisualisering
 
-Ge liv åt dina platsdata med kartvisualisering! Identifiera geografiska kluster och skapa segment direkt med markeringsverktyget. Bara några enkla konfigurationssteg så är du redo att börja! Mer information finns i [dokumentationen](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/map){target="_blank"}.
+Ge liv åt dina platsdata med kartvisualisering! Identifiera geografiska kluster och skapa segment direkt med markeringsverktyget. Bara några enkla konfigurationssteg så är du redo att börja! Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-workspace/visualizations/map){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470819/?learn=on&enablevpops)
