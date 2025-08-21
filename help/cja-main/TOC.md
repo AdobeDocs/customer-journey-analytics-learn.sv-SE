@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: b532468bae9fef1793e44d55203d1d52e9356d6e
+source-git-commit: 4170c3a3e09b497fd03e50a5141d0e8e0865e4bb
 workflow-type: tm+mt
-source-wordcount: '533'
+source-wordcount: '542'
 ht-degree: 3%
 
 ---
@@ -42,9 +42,6 @@ ht-degree: 3%
    + [Konfigurera komponentinställningar i datavyer](data-views/configuring-component-settings-in-data-views.md)
    + [Inställningar för komponenttyp i datavyer](data-views/component-type-settings-in-data-views.md)
    + [Skapa datakällor på sammanfattningsnivå](data-views/create-summary-level-data-sources.md)
-   + [Skapa härledda fält](data-views/derived-fields-in-cja.md)
-   + [Använd matematisk funktion i härledda fält](data-views/use-the-math-function-in-derived-fields.md)
-   + [Använd funktionen Nästa eller Föregående i härledda fält](data-views/use-the-next-previous-function-in-derived-fields.md)
    + [Formatera mätvärden i datavyer](data-views/formatting-metrics-in-data-views.md)
    + [Konfigurera inställningar för delsträngskomponenter](data-views/configure-substring-component-settings.md)
    + [Inkludera eller exkludera mätvärden i datavyer](data-views/include-or-exclude-metric-values-in-data-views.md)
@@ -54,6 +51,14 @@ ht-degree: 3%
    + [Konfigurera inga värdealternativ i datavyer](data-views/configure-no-value-options-in-data-views.md)
    + [Attributinställningar i datavyer](data-views/attribution-settings-in-data-views.md)
    + [Valutakonvertering](data-views/currency-conversion.md)
+   + Härledda fält{#derived-fields}
+      + [Skapa härledda fält](data-views/derived-fields/derived-fields-in-cja.md)
+      + [Använda funktionen Math](data-views/derived-fields/use-the-math-function-in-derived-fields.md)
+      + [Använda funktionen Nästa eller Föregående](data-views/derived-fields/use-the-next-previous-function-in-derived-fields.md)
+      + [Anpassa händelsens djup](data-views/derived-fields/customize-event-depth-in-derived-fields.md)
+      + [Använd typsnitt](data-views/derived-fields/use-typecasting-in-derived-fields.md)
+      + [Använd datummatematik för att beräkna tiden mellan händelser](data-views/derived-fields/use-date-math-to-calculate-time-between-events.md)
+
 + Data Insights Agent {#data-insights-agent}
    + [Introduktion](data-insights-agent/introduction-to-the-data-insights-agent.md)
    + [Användningsexempel](data-insights-agent/data-insights-agent-use-cases.md)
@@ -152,6 +157,6 @@ ht-degree: 3%
    + Komplexa data {#complex-data}
       + [Använda arrayer med objekt](use-cases/complex-data/object-arrays-in-cja.md)
 + Utkast {#blueprints}
-   + [Customer Journey Analytics-ritning](https://experienceleague.adobe.com/sv/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-   + [Scenario för digital beteendedatakonsolidering](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [Anropa scenariot för analys av deformeringsresa](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [Customer Journey Analytics-ritning](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Scenario för digital beteendedatakonsolidering](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+   + [Anropa scenariot för analys av deformeringsresa](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
