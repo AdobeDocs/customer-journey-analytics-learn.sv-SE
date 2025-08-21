@@ -22,4 +22,4 @@ Upptäck hur du använder funktionen Nästa eller Föregående i Customer Journe
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430616/?learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/derived-fields).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-dataviews/derived-fields).
