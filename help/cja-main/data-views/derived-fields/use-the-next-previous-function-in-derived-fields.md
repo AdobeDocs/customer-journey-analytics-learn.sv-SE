@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Upptäck hur du använder funktionen Nästa eller Föregående i Customer Journey Analytics för att skapa komplexa härledda fält som förbättrar dataanalysen. Den här självstudiekursen vägleder dig genom processen att skapa en ny dimension som sammanfogar värden för marknadsföringskanaler på användarnivå och ger djupare insikter i marknadsföringsstrategier och generering av intäkter.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430616/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447737/?learn=on&captions=swe)
 
 Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-dataviews/derived-fields).
