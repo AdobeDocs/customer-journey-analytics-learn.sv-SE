@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Upptäck hur AI Assistant i Customer Journey Analytics ger dig möjlighet att lära dig koncept, felsöka problem och optimera arbetsflöden. Utnyttja CJA fulla potential med konversationsbaserad AI som är utbildad i Experience League-dokumentation, perfekt för såväl nybörjare som experter.
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/ai-assistant){target="_blank"}.
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-overview/cja-b2c-overview/ai-assistant){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3471136/?learn=on)
