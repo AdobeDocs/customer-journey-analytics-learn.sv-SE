@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Lär dig hur du skapar och publicerar målgrupper från Customer Journey Analytics till Real-Time Customer Data Platform. I den här videon får du hjälp att bygga segment, definiera frekvenser för målgruppsuppdatering och dra nytta av insikter för kampanjer i Journey Optimizer eller tredjepartsprogram.
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/audiences/publish){target="_blank"}.
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-components/audiences/publish){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3471273/?learn=on)
