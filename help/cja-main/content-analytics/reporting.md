@@ -21,4 +21,4 @@ Upptäck hur [!DNL Content Analytics] automatiserar tillgångsspårning och ger 
 
 Mer information finns i Content Analytics [dokumentation](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/content-analytics/report/report){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3473037/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3473041/?learn=on&enablevpops&captions=swe)
