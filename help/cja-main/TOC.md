@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: bdce32ca64fd14aeb760113b8df6ca96988069ce
+source-git-commit: 889305cbdb9e9301445c511b82aafa51a0ab6069
 workflow-type: tm+mt
-source-wordcount: '549'
+source-wordcount: '550'
 ht-degree: 3%
 
 ---
@@ -139,6 +139,7 @@ ht-degree: 3%
    + [Så här fungerar det](content-analytics/how-it-works.md)
    + [Skapa konfiguration](content-analytics/create-configuration.md)
    + [Redigera konfiguration](content-analytics/edit-configuration.md)
+   + [Rapportering](content-analytics/reporting.md)
 + Instrumentpaneler (styrkort) {#dashboards}
    + [Skapa ett mobilstyrkort](dashboards/create-a-mobile-scorecard.md)
    + [Hjälper chefer med åtkomst till mobilstyrkort](dashboards/assist-executives-to-access-mobile-scorecards.md)
@@ -158,6 +159,6 @@ ht-degree: 3%
    + Komplexa data {#complex-data}
       + [Använda arrayer med objekt](use-cases/complex-data/object-arrays-in-cja.md)
 + Utkast {#blueprints}
-   + [Customer Journey Analytics-ritning](https://experienceleague.adobe.com/sv/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-   + [Scenario för digital beteendedatakonsolidering](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [Anropa scenariot för analys av deformeringsresa](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [Customer Journey Analytics-ritning](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Scenario för digital beteendedatakonsolidering](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+   + [Anropa scenariot för analys av deformeringsresa](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
