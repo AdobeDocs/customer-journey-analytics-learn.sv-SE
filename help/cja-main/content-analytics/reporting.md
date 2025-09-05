@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Upptäck hur [!DNL Content Analytics] automatiserar tillgångsspårning och ger detaljerade rapporter om webbplatsens innehållsprestanda, inklusive visningar, klickningar och konverteringar. Lär dig utnyttja insikter från resurs- och upplevelse-ID:n, metadata som färger och känslor samt mallgenererade visualiseringar för att optimera er innehållsstrategi.
 
-Mer information finns i Content Analytics [dokumentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/report/report){target="_blank"}.
+Mer information finns i Content Analytics [dokumentation](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/content-analytics/report/report){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3473037/?learn=on&enablevpops)
