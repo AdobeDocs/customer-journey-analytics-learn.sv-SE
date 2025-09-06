@@ -21,4 +21,4 @@ Lär dig hur du skapar och publicerar målgrupper från Customer Journey Analyti
 
 Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-components/audiences/publish){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471273/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471277/?learn=on&captions=swe)

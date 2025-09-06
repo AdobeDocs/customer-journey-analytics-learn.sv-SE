@@ -21,4 +21,4 @@ Identifiera typsnitt i Customer Journey Analytics-härledda fält. Typning juste
 
 Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-dataviews/derived-fields).
 
->[!VIDEO](https://video.tv.adobe.com/v/3471042/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471058/?learn=on&captions=swe)
