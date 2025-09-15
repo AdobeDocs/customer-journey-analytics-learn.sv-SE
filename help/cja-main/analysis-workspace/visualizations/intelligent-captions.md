@@ -22,4 +22,4 @@ Lär dig hur du aktiverar intelligenta bildtexter i dina visualiseringar så att
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420131/?learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=en).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=sv-SE).
