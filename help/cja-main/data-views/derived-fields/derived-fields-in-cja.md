@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Lär dig hur du skapar härledda fält för att snabbt skapa komplexa dataändringar med hjälp av en anpassningsbar regelbyggare, och låt sedan logiken tillämpas retroaktivt på deras rapportering. Detta kan spara mycket tid genom att säkerställa att data är i ett användbart format för rapportering, analys och åtgärder.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420258/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450908/?captions=swe&learn=on)
 
 Den här funktionen hjälper dig att förbättra kvaliteten och exaktheten på data i dina projekt på grund av datafel eller luckor.
 Exempel:
