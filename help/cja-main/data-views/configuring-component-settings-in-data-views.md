@@ -1,6 +1,6 @@
 ---
 title: Konfigurera komponentinställningar i datavyer
-description: I den här videon går vi igenom några av de grundläggande komponentinställningarna som du vill konfigurera för varje komponent (mått och mått) när du skapar en datavy i Customer Journey Analytics.
+description: I den här videon går vi igenom några av de grundläggande komponentinställningarna som du vill konfigurera för varje komponent (mått och mått) när du konfigurerar en datavy i Customer Journey Analytics.
 feature: Data Views
 role: Admin
 level: Beginner
@@ -8,7 +8,7 @@ doc-type: feature video
 thumbnail: 332788.jpg
 kt: 7582
 exl-id: e0c2cf9f-5c5e-45e2-a738-cc7afc0a440f
-source-git-commit: 2b5a19397f7c2b2e775fbd5d724205922ad76f15
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 2%
@@ -23,4 +23,4 @@ I den här videon går vi igenom några av de grundläggande komponentinställni
 
 ## Ytterligare material
 
-* [Customer Journey Analytics - Dokumentation för datavyer](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=sv-SE)
+* [Customer Journey Analytics - Dokumentation för datavyer](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html){target="_blank"}

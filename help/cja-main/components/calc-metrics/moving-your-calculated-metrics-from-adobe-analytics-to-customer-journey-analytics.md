@@ -12,7 +12,7 @@ topic: Migration
 role: User
 level: Beginner
 exl-id: 52ff7388-6463-47fa-aec9-ab9531cd105f
-source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
@@ -25,4 +25,4 @@ I den här videon hittar du tips på hur du återskapar din Adobe Analytics [!UI
 
 >[!VIDEO](https://video.tv.adobe.com/v/31788/?quality=12&learn=on)
 
-Mer information om Customer Journey Analytics finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=sv-SE).
+Mer information om Customer Journey Analytics finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html){target="_blank"}.

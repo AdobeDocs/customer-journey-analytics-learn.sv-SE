@@ -8,7 +8,7 @@ doc-type: feature video
 thumbnail: 35110.jpg
 kt: 10016
 exl-id: 8bab86c6-39b3-49e3-ba74-a5d12bf9e05c
-source-git-commit: 2b5a19397f7c2b2e775fbd5d724205922ad76f15
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -23,4 +23,4 @@ I Customer Journey Analytics liknar datavyer virtuella rapportsviter i Adobe Ana
 
 Se ytterligare videor om datavyer för att fokusera på specifika funktioner som kan göra dina data mer användbara.
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=sv-SE).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=en){target="_blank"}.

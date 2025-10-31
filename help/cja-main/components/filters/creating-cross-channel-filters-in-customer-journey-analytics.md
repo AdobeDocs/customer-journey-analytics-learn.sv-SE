@@ -11,7 +11,7 @@ kt: 3962
 role: User
 level: Beginner
 exl-id: 6af79964-b56a-4bc8-9b2f-b2a64ec0edef
-source-git-commit: d726ccc860c8bce96e6ca522a606c096ff43828e
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Skapa [!UICONTROL segments] i Customer Journey Analytics
 
-Lär dig hur du skapar [!UICONTROL segments] i Adobe Customer Journey Analytics som använder mer än en enda datakälla och kanal. Läs också om hur [!UICONTROL segments] kan kombineras i [!UICONTROL visualizations]. Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-components/cja-segments/filters-overview).
+Lär dig hur du skapar [!UICONTROL segments] i Adobe Customer Journey Analytics som använder mer än en enda datakälla och kanal. Läs också om hur [!UICONTROL segments] kan kombineras i [!UICONTROL visualizations]. Mer information finns i [dokumentationen](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/filters-overview){target="_blank"}.
 
 >[!NOTE]
 >

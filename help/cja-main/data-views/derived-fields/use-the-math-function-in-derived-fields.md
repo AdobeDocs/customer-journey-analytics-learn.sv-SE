@@ -9,7 +9,7 @@ last-substantial-update: 2024-06-27T00:00:00Z
 jira: KT-15526
 thumbnail: 3430617.jpeg
 exl-id: 4e9eda19-bf4e-4509-a45b-d7b799a530d2
-source-git-commit: 4170c3a3e09b497fd03e50a5141d0e8e0865e4bb
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Utforska potentialen i att använda matematiska funktioner för att skapa härledda fält i Customer Journey Analytics i den här videosjälvstudien. Lär dig att justera mätvärden genom att ta bort oönskade komponenter som skatt från summor och förstå fördelarna med att använda härledda fält framför beräknade mätvärden, inklusive exklusiva datavyfunktioner som borttagning av dubbletter, fakturering och attribuering. Få flexibiliteten att skapa anpassade mätvärden som är anpassade efter era analysbehov och förbättrar era datadrivna beslutsfunktioner.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447213?captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3430617/&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-dataviews/derived-fields).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/derived-fields){target="_blank"}.

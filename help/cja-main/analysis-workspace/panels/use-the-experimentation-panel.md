@@ -9,7 +9,7 @@ last-substantial-update: 2022-12-14T00:00:00Z
 kt: 11619
 thumbnail: 3412318.jpg
 exl-id: bb3cb506-4137-4081-a46c-b340ab58d177
-source-git-commit: a2a920c7762bdb93b54fbff1dc5f36bcc10e9400
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
@@ -22,4 +22,4 @@ Lär dig hur du konfigurerar och använder experimenteringspanelen, som automati
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412318/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/experimentation.html?lang=sv-SE).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/experimentation.html){target="_blank"}.

@@ -9,7 +9,7 @@ last-substantial-update: 2023-07-17T00:00:00Z
 jira: KT-13671
 thumbnail: 3421661.jpeg
 exl-id: f6a26a13-4968-4c77-9ee2-22e2c0a8319f
-source-git-commit: c3457bc3197fef37890e32ac8831fb426e3b575d
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 # Effekt för första användningen
 
-Lär dig hur **den första effekten** i Customer Journey Analytics visar en jämförelse av hur nyckelindikatorer som har utförts före och efter det att en användare använder en produktfunktion för första gången.
+Lär dig hur **den första användningen** i Customer Journey Analytics visar en jämförelse av hur nyckelindikatorer som har utförts före och efter det att en användare använder en produktfunktion för första gången.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432447/?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3421661/?learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/first-use.html?lang=sv-SE).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/first-use.html){target="_blank"}.

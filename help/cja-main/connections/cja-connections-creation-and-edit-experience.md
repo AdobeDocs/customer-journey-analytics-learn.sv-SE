@@ -8,7 +8,7 @@ level: Beginner
 kt: 10439
 thumbnail: 343044.jpeg
 exl-id: e78d17ec-9d62-4ef5-a1b9-05604869c070
-source-git-commit: 2a39da3c21e39cdffb159aa152f646e00a1327ca
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
@@ -21,4 +21,4 @@ En ny upplevelse av Anslutningar med nya funktioner som gör att klienter kan ak
 
 >[!VIDEO](https://video.tv.adobe.com/v/343044/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=sv-SE).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=en){target="_blank"}.

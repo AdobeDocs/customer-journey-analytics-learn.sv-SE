@@ -8,7 +8,8 @@ doc-type: Feature Video
 last-substantial-update: 2025-08-21T00:00:00Z
 jira: KT-18791
 thumbnail: 3471042.jpeg
-source-git-commit: 4170c3a3e09b497fd03e50a5141d0e8e0865e4bb
+exl-id: d7393a83-01e1-4d4a-a979-0c1e60a25617
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 0%
@@ -19,6 +20,6 @@ ht-degree: 0%
 
 Identifiera typsnitt i Customer Journey Analytics-härledda fält. Typning justerar datatyperna för schemafält, som att konvertera strängar till numeriska strängar eller datetime till strängar för avancerad analys. Konfigurera och kombinera enkelt fält för att få kraftfulla insikter för ert företag.
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-dataviews/derived-fields).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/derived-fields){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471058/?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3471042/?learn=on)

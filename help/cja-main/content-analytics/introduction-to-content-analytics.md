@@ -8,9 +8,9 @@ duration: 650
 last-substantial-update: 2025-05-13T00:00:00Z
 jira: KT-17556
 exl-id: 2e7c0934-69da-4b85-bf3e-eec294ff1ba0
-source-git-commit: 929fc1cc499262a35ad76d3b4109c2ed175debe0
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -19,13 +19,13 @@ ht-degree: 0%
 
 Det kan vara en utmaning att mäta innehållets prestanda, vilket ofta leder till gissningar och ineffektivitet. Content Analytics eliminerar gissningarna genom att ge djupgående insikter om vad som gör innehållet effektivt - oavsett om det är ton, bilder, färg eller budskap. Det besvarar viktiga frågor som vilka skapar engagemang och hur innehåll kan optimeras.
 
-Mer information finns i Content Analytics [dokumentation](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/content-analytics/content-analytics){target="_blank"}.
+Mer information finns i Content Analytics [dokumentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/content-analytics){target="_blank"}.
 
 ## Introduktion
 
 Content Analytics använder AI- och Experience Platform-infrastrukturen för att visa vad som gör innehållet effektivt. Teamen kan optimera engagemanget bättre, driva konverteringar och fatta smartare, databaserade beslut.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457314/?learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3457310/?learn=on&enablevpops)
 
 
 ## Så här fungerar det
@@ -41,7 +41,7 @@ Content Analytics använder AI- och Experience Platform-infrastrukturen för att
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="how-it-works.md" title="Content Analytics - Så fungerar det" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457431/?format=jpeg&nocache=1742338375674&captions=swe" alt="Content Analytics - Så fungerar det"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457423/?format=jpeg&nocache=1742338375674" alt="Content Analytics - Så fungerar det"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -134,7 +134,7 @@ Content Analytics använder AI- och Experience Platform-infrastrukturen för att
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="reporting.md" title="Content Analytics - rapportering" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473041/?format=jpeg&nocache=1742338375674&captions=swe" alt="Content Analytics - rapportering"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473037/?format=jpeg&nocache=1742338375674" alt="Content Analytics - rapportering"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

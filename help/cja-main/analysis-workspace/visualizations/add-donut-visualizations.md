@@ -10,7 +10,7 @@ role: User
 level: Beginner
 last-substantial-update: 2023-06-07T00:00:00Z
 exl-id: 6c4d5e47-37dd-453f-b59a-c21dbc5a30cd
-source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
@@ -27,4 +27,4 @@ Lär dig hur du lägger till och konfigurerar [!UICONTROL donut]-visualiseringar
 
 >[!VIDEO](https://video.tv.adobe.com/v/334309/?quality=12&learn=on)
 
-Mer information om [!UICONTROL donut]-visualiseringar finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/donut.html?lang=sv-SE).
+Mer information om [!UICONTROL donut]-visualiseringar finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/donut.html){target="_blank"}.
