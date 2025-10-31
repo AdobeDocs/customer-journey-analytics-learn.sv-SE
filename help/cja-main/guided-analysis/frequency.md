@@ -20,6 +20,6 @@ ht-degree: 4%
 
 Lär dig hur **frekvens** i Customer Journey Analytics gör att du kan analysera användarinteraktionen med händelser i din produkt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428089/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435806/?captions=swe&learn=on)
 
 Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/guided-analysis/trends/frequency){target="_blank"}.

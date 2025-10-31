@@ -21,4 +21,4 @@ Huvuddatummatematik i Customer Journey Analytics-härledda fält. Date Math ber�
 
 Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-dataviews/derived-fields){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471043/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471069/?captions=swe&learn=on)

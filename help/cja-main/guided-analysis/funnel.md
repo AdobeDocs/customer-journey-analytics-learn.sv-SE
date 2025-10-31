@@ -20,10 +20,10 @@ ht-degree: 0%
 
 Lär dig hur **tratt** i Customer Journey Analytics ger en visuell representation av en viktig användarresa i din produkt och hjälper dig att avgöra var det finns friktion i den.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421663/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432443/?captions=swe&learn=on)
 
 Du kan också jämföra flera händelser i ett enda trattsteg och skapa en&quot;forked trnel&quot;. Med den här &quot;förgrenade tratten&quot; kan du jämföra friktionen för två resor sida vid sida, vilket kan vara användbart när det finns stegalternativ eller när ett A/B-experiment körs i tratten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3431113/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445803/?captions=swe&learn=on)
 
 Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/guided-analysis/funnel/friction){target="_blank"}.

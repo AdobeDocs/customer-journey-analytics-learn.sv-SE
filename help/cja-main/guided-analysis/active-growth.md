@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Lär dig hur **aktiv tillväxt** i Customer Journey Analytics ger insikter om användarnas tillväxt under en viss period, som delas av nya, upprepade, återkommande och vilande användare.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421667/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432436/?captions=swe&learn=on)
 
 Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/active.html?lang=sv-SE){target="_blank"}.

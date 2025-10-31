@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Lär dig hur du kan använda objektarrayer från profildata och uppslagsdatauppsättningar i CJA för att berika B2B- och B2C-analyser, från anslutningar, datavyer och Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424502/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445265/?captions=swe&learn=on)
 
 Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/complex-data/object-arrays.html?lang=sv-SE){target="_blank"}.

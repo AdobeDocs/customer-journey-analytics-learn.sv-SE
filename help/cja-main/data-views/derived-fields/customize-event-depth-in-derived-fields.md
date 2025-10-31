@@ -22,4 +22,4 @@ Lär dig hur du konfigurerar händelsedjup i Customer Journey Analytics-härledd
 
 Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-dataviews/derived-fields){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471041/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471047/?captions=swe&learn=on)

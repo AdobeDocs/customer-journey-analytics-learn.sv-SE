@@ -24,4 +24,4 @@ Lär dig hur du skapar nedrullningsbara segment baserat på en hel dimension. Di
 >
 > [!UICONTROL Filters] har bytt namn till [!UICONTROL segments] i Customer Journey Analytics-gränssnittet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420315/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446820/?captions=swe&learn=on)

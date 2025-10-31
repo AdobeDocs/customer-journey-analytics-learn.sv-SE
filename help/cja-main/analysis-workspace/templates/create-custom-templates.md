@@ -22,4 +22,4 @@ Lär dig hur du skapar en anpassad mall i Customer Journey Analytics. Detta stö
 
 Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-workspace/templates/create-templates){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470921/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470926/?captions=swe&learn=on)

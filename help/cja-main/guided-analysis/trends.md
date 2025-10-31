@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Lär dig mer om **trender** i Customer Journey Analytics, som ger värdefull information om hur produkten eller användarengagemanget fungerar över tid.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421666/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432438/?captions=swe&learn=on)
 
 Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/trends/usage.html?lang=sv-SE){target="_blank"}.

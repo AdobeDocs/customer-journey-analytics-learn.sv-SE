@@ -22,4 +22,4 @@ Använd Rapporteringsaktivitetshanteraren i [!DNL Customer Journey Analytics] om
 
 Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470314/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470318/?captions=swe&learn=on)
