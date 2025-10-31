@@ -21,4 +21,4 @@ På landningssidan för Customer Journey Analytics finns en standardvy över din
 
 >[!VIDEO](https://video.tv.adobe.com/v/343041/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-overview/landing.html?lang=en){target="_blank"}.
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-overview/landing.html?lang=sv-SE){target="_blank"}.

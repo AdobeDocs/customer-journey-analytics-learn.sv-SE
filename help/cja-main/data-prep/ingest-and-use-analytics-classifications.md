@@ -24,6 +24,6 @@ Lär dig hur du importerar och använder [!DNL Analytics] klassificeringsdata i 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420556/?quality=12&learn=on)
 
-Mer information om [!DNL Adobe Analytics]-källkopplingen för [!UICONTROL classifications]-data finns i [dokumentationen](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/classifications.html){target="_blank"}.
+Mer information om [!DNL Adobe Analytics]-källkopplingen för [!UICONTROL classifications]-data finns i [dokumentationen](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/classifications.html?lang=sv-SE){target="_blank"}.
 
-I den här videon hänvisas till funktionen för härledda fält i Customer Journey Analytics. Titta på [videon](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/derived-fields-in-cja.html){target="_blank"} eller gå till [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/derived-fields.html){target="_blank"} om du vill veta mer om den här funktionen.
+I den här videon hänvisas till funktionen för härledda fält i Customer Journey Analytics. Titta på [videon](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/derived-fields-in-cja.html?lang=sv-SE){target="_blank"} eller gå till [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/derived-fields.html?lang=sv-SE){target="_blank"} om du vill veta mer om den här funktionen.

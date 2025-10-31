@@ -24,4 +24,4 @@ Lär dig hur du använder start- och returhändelser för att mäta användareng
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430503/?learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/retention/retention-rates){target="_blank"}.
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/guided-analysis/retention/retention-rates){target="_blank"}.

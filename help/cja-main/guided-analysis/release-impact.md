@@ -22,4 +22,4 @@ Lär dig hur **släppeffekten** i Customer Journey Analytics visar en jämförel
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421665/?learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/release.html){target="_blank"}.
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/release.html?lang=sv-SE){target="_blank"}.

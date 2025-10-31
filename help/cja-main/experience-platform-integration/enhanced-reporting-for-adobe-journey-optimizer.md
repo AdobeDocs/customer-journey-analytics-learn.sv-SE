@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Förbättrad rapportering för Adobe Journey Optimizer
 
-Nya funktioner för rapportering och samordning finns i Adobe Journey Optimizer. Bland dessa förbättringar av Journey Optimizer finns också ökad interoperabilitet och utökat värde med Customer Journey Analytics via ytterligare datakällor, avancerad anpassning, datamanipulering, analys med mera. Mer detaljerad dokumentation finns i [Kom igång med det nya rapporteringsgränssnittet](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channel-report/report-gs-cja){target="_blank"}.
+Nya funktioner för rapportering och samordning finns i Adobe Journey Optimizer. Bland dessa förbättringar av Journey Optimizer finns också ökad interoperabilitet och utökat värde med Customer Journey Analytics via ytterligare datakällor, avancerad anpassning, datamanipulering, analys med mera. Mer detaljerad dokumentation finns i [Kom igång med det nya rapporteringsgränssnittet](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/channel-report/report-gs-cja){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430413/?learn=on)

@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Använd frihandspaneler för att utforska, jämföra och korrelera era kundupplevelsedata via ett flexibelt dra-och-släpp-gränssnitt.
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/panels/freeform-panel){target="_blank"}.
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-workspace/panels/freeform-panel){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458210/?learn=on)

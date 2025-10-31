@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Använd [!DNL segments] som dimensioner i Analysis Workspace-projekt
 
-Lär dig att jämföra och visualisera segment när de används som dimensioner i Analysis Workspace-projekt. Mer information finns i [dokumentationen](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/create-filters){target="_blank"}.
+Lär dig att jämföra och visualisera segment när de används som dimensioner i Analysis Workspace-projekt. Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-components/cja-segments/create-filters){target="_blank"}.
 
 >[!NOTE]
 >

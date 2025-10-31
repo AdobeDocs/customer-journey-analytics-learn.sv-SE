@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Lär dig hur du snabbt och enkelt besvarar affärsfrågor med hjälp av den snabba insiktspanelen i Customer Journey Analytics. Panelen passar för nya användare eller avancerade analytiker och gör det möjligt att intuitivt experimentera med dimensioner, mätvärden, visualiseringar och segment för att skapa den bästa kombinationen av komponenter för din analys.
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/panels/quickinsight){target="_blank"}.
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-workspace/panels/quickinsight){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457905/?learn=on)

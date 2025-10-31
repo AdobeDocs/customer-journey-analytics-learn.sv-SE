@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Lär dig hur du konfigurerar händelsedjup i Customer Journey Analytics-härledda fält för att anpassa analyser för siddjup, internt sökdjup med mera. Den här funktionen gör det möjligt för användare att spåra användarbeteenden med precision och förbättra datadrivna insikter.
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/derived-fields){target="_blank"}.
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-dataviews/derived-fields){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3471041/?learn=on)

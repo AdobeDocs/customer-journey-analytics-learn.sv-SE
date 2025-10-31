@@ -24,4 +24,4 @@ Den här videon är inte en teknisk djupdykning, utan snarare en praktisk titt p
 
 >[!VIDEO](https://video.tv.adobe.com/v/30750/?learn=on&quality=12)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html){target="_blank"}.
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=sv-SE){target="_blank"}.

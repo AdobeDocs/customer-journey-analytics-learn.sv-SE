@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Lär dig hur du använder attribueringspanelen i [!DNL Customer Journey Analytics]. I den här videon visas hur du definierar framgångsmått, väljer ut och jämför attribueringsmodeller och anpassar visualiseringar som stapeldiagram, Venndiagram och kanalflöde för att få insikter i kundreseinteraktioner.
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/panels/attribution){target="_blank"}.
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-workspace/panels/attribution){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464718/?learn=on)

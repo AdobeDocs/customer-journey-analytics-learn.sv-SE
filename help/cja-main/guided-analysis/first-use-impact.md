@@ -22,4 +22,4 @@ Lär dig hur **den första användningen** i Customer Journey Analytics visar en
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421661/?learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/first-use.html){target="_blank"}.
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/first-use.html?lang=sv-SE){target="_blank"}.

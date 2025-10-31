@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Fullständig tabellexport i Customer Journey Analytics
 
-Lär dig grundläggande konfiguration av en tabellleverans från Customer Journey Analytics till både AEP Data Landing Zone och Snowflake. Detaljerad dokumentation finns på [Exportera Customer Journey Analytics-rapporter till molnet](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/export/export-cloud.html){target="_blank"}.
+Lär dig grundläggande konfiguration av en tabellleverans från Customer Journey Analytics till både AEP Data Landing Zone och Snowflake. Detaljerad dokumentation finns på [Exportera Customer Journey Analytics-rapporter till molnet](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/export/export-cloud.html?lang=sv-SE){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425389/?learn=on)
 

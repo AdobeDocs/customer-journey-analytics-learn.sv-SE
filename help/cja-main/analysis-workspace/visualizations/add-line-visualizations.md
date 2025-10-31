@@ -27,4 +27,4 @@ Lär dig hur du lägger till och konfigurerar [!UICONTROL line]-visualiseringar 
 
 >[!VIDEO](https://video.tv.adobe.com/v/40384/?quality=12&learn=on)
 
-Mer information om [!UICONTROL line]-visualiseringar finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/line.html){target="_blank"}.
+Mer information om [!UICONTROL line]-visualiseringar finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/line.html?lang=sv-SE){target="_blank"}.

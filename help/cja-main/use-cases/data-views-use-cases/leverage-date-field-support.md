@@ -22,4 +22,4 @@ Stöd för datumfält ger möjlighet att arbeta med datum- och datum-tid-fält i
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412322/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/data-views/data-views-usecases.html?lang=en#date){target="_blank"}.
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/data-views/data-views-usecases.html?lang=sv-SE#date){target="_blank"}.

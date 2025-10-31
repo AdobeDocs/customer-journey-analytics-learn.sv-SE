@@ -27,4 +27,4 @@ Lär dig hur du lägger till och konfigurerar [!UICONTROL tree map]-visualiserin
 
 >[!VIDEO](https://video.tv.adobe.com/v/334458/?quality=12&learn=on)
 
-Mer information om [!UICONTROL tree map]-visualiseringar finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/treemap.html){target="_blank"}.
+Mer information om [!UICONTROL tree map]-visualiseringar finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/treemap.html?lang=sv-SE){target="_blank"}.

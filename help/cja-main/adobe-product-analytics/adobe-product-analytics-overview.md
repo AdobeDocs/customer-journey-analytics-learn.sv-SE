@@ -31,4 +31,4 @@ Med Adobe Product Analytics kan teamen
 * Identifiera meningsfulla användarsegment för att engagera och vårda användare under hela deras livslånga resa med produkten
 * Anslut till Analysis Workspace för djupare analyser och samarbete med analytiker
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/overview){target="_blank"}.
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/guided-analysis/overview){target="_blank"}.

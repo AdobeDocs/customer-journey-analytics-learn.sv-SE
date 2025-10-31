@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Lär dig hur du skapar en anpassad mall i Customer Journey Analytics. Detta stöder skräddarsydda rapporteringskonfigurationer för specifika affärsmål, som analys av marknadsföringskanalernas prestanda och trender för användarengagemang. I den här videon visas hur du konfigurerar ett projekt med paneler som&quot;Kanalprestandaöversikt&quot; och&quot;Tidsdelningsanalys&quot;, sparar det som en mall och gör det tillgängligt för användning i organisationen i Analysis Workspace.
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/templates/create-templates){target="_blank"}.
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-workspace/templates/create-templates){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470921/?learn=on)

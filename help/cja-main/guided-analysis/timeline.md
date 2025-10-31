@@ -21,4 +21,4 @@ Lär dig mer om **tidslinjen** i Customer Journey Analytics, som hjälper dig at
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427810/?learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/streams/timeline){target="_blank"}.
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/guided-analysis/streams/timeline){target="_blank"}.

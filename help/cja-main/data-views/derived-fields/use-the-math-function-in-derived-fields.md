@@ -22,4 +22,4 @@ Utforska potentialen i att använda matematiska funktioner för att skapa härle
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430617/&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/derived-fields){target="_blank"}.
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-dataviews/derived-fields){target="_blank"}.
