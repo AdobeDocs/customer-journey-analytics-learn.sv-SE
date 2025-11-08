@@ -23,4 +23,4 @@ Med CJA Lookups på sök- och profildata kan man använda djupare relationer mel
 
 Mer detaljerad dokumentation finns på [Datauppsättningstyper](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=sv-SE#dataset-types){target="_blank"} och [Lägg till data på kontonivå som en uppslagsdatauppsättning](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/b2b/b2b.html?lang=sv-SE){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426424/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449874/?captions=swe&learn=on)
