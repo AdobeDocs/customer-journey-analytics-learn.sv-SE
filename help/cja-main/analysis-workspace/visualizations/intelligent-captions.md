@@ -20,6 +20,6 @@ ht-degree: 87%
 
 Lär dig hur du aktiverar intelligenta bildtexter i dina visualiseringar så att du kan få automatisk skapade insikter om dina data på naturligt språk.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420131/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443142/?captions=swe&learn=on)
 
 Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=sv-SE){target="_blank"}.
