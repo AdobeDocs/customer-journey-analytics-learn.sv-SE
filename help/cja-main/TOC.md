@@ -112,7 +112,7 @@ ht-degree: 4%
    + [Engagemang](guided-analysis/engagement.md)
    + [Effekt för första användningen](guided-analysis/first-use-impact.md)
    + [Frekvens](guided-analysis/frequency.md)
-   + [Tratt](guided-analysis/funnel.md)
+   + [Funnel](guided-analysis/funnel.md)
    + [Nettotillväxt](guided-analysis/net-growth.md)
    + [Frisläpp påverkan](guided-analysis/release-impact.md)
    + [Kvarhållning](guided-analysis/retention.md)
@@ -160,6 +160,6 @@ ht-degree: 4%
    + Komplexa data {#complex-data}
       + [Använda arrayer med objekt](use-cases/complex-data/object-arrays-in-cja.md)
 + Utkast {#blueprints}
-   + [Customer Journey Analytics-ritning](https://experienceleague.adobe.com/sv/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-   + [Scenario för digital beteendedatakonsolidering](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [Anropa scenariot för analys av deformeringsresa](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [Customer Journey Analytics-ritning](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Scenario för digital beteendedatakonsolidering](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+   + [Anropa scenariot för analys av deformeringsresa](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
