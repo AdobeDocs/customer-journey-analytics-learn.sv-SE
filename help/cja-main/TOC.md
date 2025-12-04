@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 6deadab90fe3a00798a57fc953d8bd38d4097318
+source-git-commit: afff13a5436d054e664fc8f41d08a2ebbfa6e532
 workflow-type: tm+mt
-source-wordcount: '557'
-ht-degree: 4%
+source-wordcount: '576'
+ht-degree: 3%
 
 ---
 
@@ -16,10 +16,13 @@ ht-degree: 4%
 + Grundläggande om Customer Journey Analytics {#cja-basics}
    + [Vad är Customer Journey Analytics?](cja-basics/what-is-customer-journey-analytics.md)
    + [Introduktion till Customer Journey Analytics](cja-basics/understanding-customer-journey-analytics.md)
-   + [Introduktion till Customer Journey Analytics - B2B edition](cja-basics/cja-b2b-overview.md)
    + [Nya termer och begrepp](cja-basics/new-terms-and-concepts-in-cja.md)
    + [Customer Journey Analytics landningssida](cja-basics/customer-journey-analytics-landing-page.md)
    + [Använd AI-assistenten](cja-basics/use-ai-assistant.md)
++ Customer Journey Analytics B2B edition {#b2b}
+   + [Introduktion till Customer Journey Analytics - B2B edition](b2b/cja-b2b-overview.md)
+   + [CJA B2B edition - Förutom de första frågorna](b2b/cja-b2b-beyond-the-first-questions.md)
+   + [Integrera CJA med Marketo för B2B-insikter](b2b/integrate-cja-with-marketo-for-b2b-insights.md)
 + Arkitektur {#architecture}
    + [Arkitektur och integreringar](architecture/architecture-and-integrations-of-cja.md)
 + Förbereda och planera data {#data-prep}
@@ -160,6 +163,6 @@ ht-degree: 4%
    + Komplexa data {#complex-data}
       + [Använda arrayer med objekt](use-cases/complex-data/object-arrays-in-cja.md)
 + Utkast {#blueprints}
-   + [Customer Journey Analytics-ritning](https://experienceleague.adobe.com/sv/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-   + [Scenario för digital beteendedatakonsolidering](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [Anropa scenariot för analys av deformeringsresa](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [Customer Journey Analytics-ritning](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Scenario för digital beteendedatakonsolidering](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+   + [Anropa scenariot för analys av deformeringsresa](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
