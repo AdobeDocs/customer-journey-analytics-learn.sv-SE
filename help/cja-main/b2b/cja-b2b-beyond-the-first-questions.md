@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig hur ni kan förbättra B2B-analysen genom att formulera avancerade frågor och gå steget längre än grundläggande mätvärden i Adobe Customer Journey Analytics (CJA). Identifiera strategiska möjligheter och användbara insikter.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477514/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3477518/?captions=swe&learn=on)

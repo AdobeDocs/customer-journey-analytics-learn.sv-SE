@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Upptäck hur integrering av Customer Journey Analytics med Marketo förbättrar dataanalysen för B2B. Fokusera på marknadsföringskanalens bidrag, intäktseffekten och kampanjens effektivitet efter befattning. Denna integrering hjälper er att förstå hur marknadsföringssatsningarna skapar möjligheter, särskilt för chefer i C-suite, med hjälp av avancerade attribueringsmodeller och strategier för målgruppsanpassning.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477502/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3477506/?captions=swe&learn=on)
