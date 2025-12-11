@@ -1,30 +1,30 @@
 ---
-title: Customer Journey Analytics Videor och Tutorials
+title: Customer Journey Analytics videor och självstudiekurser
 description: En samling videor och självstudiekurser för Adobe Customer Journey Analytics.
 topics: null
 activity: use
 doc-type: overview
 team: Technical Marketing
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: 3eb8a80c-955a-4a5d-a00e-daeabd69655b
-source-git-commit: c26bc63942e9d140eefbb530c441de9eb45d5743
+source-git-commit: 423e9f4f0ad9c07a584fdb48758676c81b9eb588
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 0%
 
 ---
 
-# Självstudiekurser för Customer Journey Analytics
+# Customer Journey Analytics självstudiekurser
 
-Välkommen till webbplatsen för [!DNL Customer Journey Analytics] självstudiekurser.  Genom att använda dessa självstudiekurser tillsammans med [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=sv-SE) får du en bättre förståelse för hur du använder Adobe Analytics för att få kundinsikter i flera kanaler snabbare än någonsin.  För att komma igång,
+Välkommen till webbplatsen för [!DNL Customer Journey Analytics] självstudiekurser.  Genom att använda dessa självstudiekurser tillsammans med [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html) får du en bättre förståelse för hur du använder Adobe Analytics för att få kundinsikter i flera kanaler snabbare än någonsin.  För att komma igång,
 
 * Se avsnittet **&quot;Nyheter&quot;** nedan för de senaste funktionerna
 * **Personalval** markerar en del av vårt favoritinnehåll
 * Utforska innehållet efter ämne och underämne i **vänster navigering**
 * Använd fältet **sök** längst upp på sidan om du vet vad du söker efter
 
-Med Customer Journey Analytics kan ni styra hur ni kopplar samman online- och offlinedata i Analysis Workspace med vilket kundID som helst, vilket slutligen gör att ni kan skapa attribuering, segmentering, flöde, utfall osv. i hela er kunddatauppsättning.
+Med Customer Journey Analytics kan ni styra hur ni kopplar samman era online- och offlinedata i Analysis Workspace med vilket gemensamt kund-ID som helst, så att ni till sist kan skapa attribuering, segmentering, flöde, utfall osv. i hela er kunddatauppsättning.
 
 
 <div id="recs-overview-body-1"></div>
@@ -42,7 +42,7 @@ Med Customer Journey Analytics kan ni styra hur ni kopplar samman online- och of
 <tr>
   <td>
     <a href="visitor-id/understanding-how-customer-journey-analytics-uses-identity.md">
-      <img alt="Förstå hur CJA använder identitet" src="assets/30750.jpg" />
+      <img alt="Så här använder CJA identitet" src="assets/30750.jpg" />
     </a>
     <div>
       <a href="visitor-id/understanding-how-customer-journey-analytics-uses-identity.md">
@@ -50,7 +50,7 @@ Med Customer Journey Analytics kan ni styra hur ni kopplar samman online- och of
     </a>
     </div>
     <p>
-    <em>En praktisk översikt över hur identiteten påverkar din analys i Customer Journey Analytics</em>
+    <em>En praktisk titt på hur identitet påverkar din analys i Customer Journey Analytics</em>
     <p>
   </td>
    <td>
@@ -63,7 +63,7 @@ Med Customer Journey Analytics kan ni styra hur ni kopplar samman online- och of
     </a>
     </div>
     <p>
-    <em>Genomgång av arkitekturen i Customer Journey Analytics, inklusive integrering med Adobe Experience Platform.</em>
+    <em>Genomgång av Customer Journey Analytics-arkitekturen, inklusive integrering med Adobe Experience Platform.</em>
     <p>
   </td>
   <td>

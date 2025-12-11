@@ -6,10 +6,10 @@ short-description: Lär dig hur du gör flerkanalsanalyser på alla datauppsätt
 feature: Workspace Basics
 thumbnail: 30090.jpg
 kt: 3953
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: 8b9644dd-1992-499c-88f0-acd3ef182956
-source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
+source-git-commit: 423e9f4f0ad9c07a584fdb48758676c81b9eb588
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 74%
@@ -22,4 +22,4 @@ Adobe Customer Journey Analytics (CJA) är en programtjänst som är byggd ovanp
 
 >[!VIDEO](https://video.tv.adobe.com/v/30090/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=sv-SE){target="_blank"}.
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html){target="_blank"}.
