@@ -22,4 +22,4 @@ Lär dig hur [!DNL Content Analytics] fungerar med Customer Journey Analytics oc
 
 Mer information finns i Content Analytics [dokumentation](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/content-analytics/content-analytics){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457423/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457431/?captions=swe&learn=on&enablevpops)
