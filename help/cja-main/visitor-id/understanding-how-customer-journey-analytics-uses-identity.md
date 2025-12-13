@@ -22,6 +22,6 @@ ht-degree: 0%
 
 Den här videon är inte en teknisk djupdykning, utan snarare en praktisk titt på hur [!UICONTROL identity] påverkar din analys i Customer Journey Analytics, inklusive en genomgång av flerkanals-ID:n [!UICONTROL visualizations] som kan sammanfogas med [!UICONTROL visitor] .
 
->[!VIDEO](https://video.tv.adobe.com/v/30750/?learn=on&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3477621/?captions=swe&learn=on&quality=12)
 
 Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=sv-SE){target="_blank"}.
