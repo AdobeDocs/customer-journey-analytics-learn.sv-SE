@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: afff13a5436d054e664fc8f41d08a2ebbfa6e532
+source-git-commit: 8d706b04feb7b869569a41d7c0a682b81c67e199
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: '577'
 ht-degree: 3%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 3%
    + [Så här använder CJA identitet](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
    + [Konfigurera ett person-ID som saknas](visitor-id/configure-missing-person-id.md)
    + [Översikt över häftning](visitor-id/overview-of-stitching.md)
-   + [Översikt över diagrambaserad sammanfogning](visitor-id/graph-based-stitching-overview.md)
+   + [Möjlighet och validering av textning](visitor-id/stitching-enablement-and-validation.md)
 + Datavyer {#data-views}
    + [Översikt över hur datavyer konfigureras för CJA](data-views/overview-of-configuring-data-views-for-cja.md)
    + [Grundkonfiguration för datavyer](data-views/basic-configuration-for-data-views.md)
@@ -163,6 +163,6 @@ ht-degree: 3%
    + Komplexa data {#complex-data}
       + [Använda arrayer med objekt](use-cases/complex-data/object-arrays-in-cja.md)
 + Utkast {#blueprints}
-   + [Customer Journey Analytics-ritning](https://experienceleague.adobe.com/sv/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-   + [Scenario för digital beteendedatakonsolidering](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [Anropa scenariot för analys av deformeringsresa](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [Customer Journey Analytics-ritning](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Scenario för digital beteendedatakonsolidering](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+   + [Anropa scenariot för analys av deformeringsresa](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
