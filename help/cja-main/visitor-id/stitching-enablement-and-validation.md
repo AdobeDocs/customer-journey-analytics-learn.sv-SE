@@ -20,4 +20,4 @@ ht-degree: 0%
 
 I den här videon får du hjälp med att aktivera sammanfogning av händelsedatamängder. När sammanfogning har aktiverats för en datauppsättning kan den dessutom visa olika mått och dimensioner som du kan använda för att validera att den fungerar och vilket värde den ger.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478120/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478124/?captions=swe&learn=on&enablevpops)
