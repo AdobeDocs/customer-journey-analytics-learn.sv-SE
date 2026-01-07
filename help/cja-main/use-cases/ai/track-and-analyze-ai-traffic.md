@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Lär dig att identifiera och filtrera AI-genererad trafik i Adobe Customer Journey Analytics med hjälp av härledda fält, segment och Workspace-projekt för att säkerställa korrekta, användarfokuserade kundinsikter. Den här korta självstudiekursen för administratörer och marknadsförare visar steg-för-steg-inställningar för att identifiera LLM-robotar via användaragenter, referenter med mera, och håller dina data rena och användbara.
 
-Mer information finns i Content Analytics [dokumentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/derived-fields/ai-traffic){target="_blank"}.
+Mer information finns i Content Analytics [dokumentation](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-usecases/derived-fields/ai-traffic){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3478575/?learn=on&enablevpops)
