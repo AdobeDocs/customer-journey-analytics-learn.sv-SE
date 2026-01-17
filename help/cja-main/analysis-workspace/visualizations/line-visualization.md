@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Upptäck hur linjevisualiseringar kan förbättra er förståelse för mätvärden över tid. Anpassa X/Y-axlarna, visa min/max-etiketter och lägg till trendlinjer för att förbättra era datainsikter med Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478979/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478983/?captions=swe&learn=on&enablevpops)
