@@ -22,4 +22,4 @@ Upptäck den kraftfulla [!DNL Data Storytelling]-funktionen i Adobe Customer Jou
 
 Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-workspace/curate-share/generate-slides){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479119/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479123/?captions=swe&learn=on&enablevpops)
