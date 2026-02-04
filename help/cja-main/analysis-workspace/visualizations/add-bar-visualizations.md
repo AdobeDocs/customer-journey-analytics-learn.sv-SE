@@ -23,4 +23,4 @@ Lär dig hur du lägger till och konfigurerar standardvisualiseringar för [!UIC
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479603/?quality=12&learn=on)
 
-Mer information om [!UICONTROL bar]-visualiseringar finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html){target="_blank"}.
+Mer information om [!UICONTROL bar]-visualiseringar finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html?lang=sv-SE){target="_blank"}.
