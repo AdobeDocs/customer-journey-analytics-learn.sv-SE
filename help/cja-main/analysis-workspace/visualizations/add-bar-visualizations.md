@@ -21,6 +21,6 @@ ht-degree: 0%
 
 Lär dig hur du lägger till och konfigurerar standardvisualiseringar för [!UICONTROL bar] och [!UICONTROL stacked bar] i [!DNL Analysis Workspace]-projekt i [!DNL Customer Journey Analytics]. De använder [!UICONTROL bar]-formationer för att representera värden över mätvärden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479603/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479607/?captions=swe&quality=12&learn=on)
 
 Mer information om [!UICONTROL bar]-visualiseringar finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html?lang=sv-SE){target="_blank"}.
