@@ -22,4 +22,4 @@ Lär dig hur du konfigurerar helt staplade visualiseringar med hjälp av procent
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479696/?quality=12&learn=on)
 
-Mer information om [!UICONTROL fully stacked var]-visualiseringar finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html){target="_blank"}.
+Mer information om [!UICONTROL fully stacked var]-visualiseringar finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html?lang=sv-SE){target="_blank"}.

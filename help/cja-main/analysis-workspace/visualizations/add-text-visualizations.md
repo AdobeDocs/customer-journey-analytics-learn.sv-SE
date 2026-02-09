@@ -22,4 +22,4 @@ Lär dig hur du lägger till och konfigurerar textvisualiseringar i Analysis Wor
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479695/?quality=12&learn=on)
 
-Mer information om [!UICONTROL text]-visualiseringar finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html){target="_blank"}.
+Mer information om [!UICONTROL text]-visualiseringar finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html?lang=sv-SE){target="_blank"}.
