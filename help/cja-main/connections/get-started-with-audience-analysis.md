@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Upptäck hur Audience Analysis gör det möjligt för marknadsförare att importera målgruppssegment från Experience Platform och analysera verkliga kundbeteenden i olika kanaler för bättre kampanjoptimering. Lär dig de enkla konfigurationsstegen för att aktivera data för målgruppsmedlemskap, utforska färdiga mallar och identifiera åtgärdbara insikter som driver personalisering, konverteringar och avkastning.
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-connections/audience-analysis/audience-analysis-overview){target="_blank"}.
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-connections/audience-analysis/audience-analysis-overview){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479804/?learn=on&enablevpops)
