@@ -2,7 +2,7 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 33eae9d6426794f3029e2db25e242640dc1fc4c0
+source-git-commit: 0572e7c2b67e3b17617a85d04a339c6970744de0
 workflow-type: tm+mt
 source-wordcount: '609'
 ht-degree: 3%
@@ -97,7 +97,7 @@ ht-degree: 3%
       + [Flera dimensionskolumner i frihandstabeller](analysis-workspace/visualizations/multiple-dimension-columns-in-freeform-tables.md)
       + [Lägg till radvisualiseringar](analysis-workspace/visualizations/line-visualization.md)
       + [Konfigurera och använda kartvisualisering](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
-      + [Använd sammanfattningsvisualiseringar](analysis-workspace/visualizations/use-summary-visualizations.md)
+      + [Lägg till sammanfattningsvisualiseringar](analysis-workspace/visualizations/use-summary-visualizations.md)
       + [Lägga till textvisualiseringar](analysis-workspace/visualizations/add-text-visualizations.md)
       + [Använda punktvisualisering](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
       + [Lägg till trädmappningsvisualisering](analysis-workspace/visualizations/add-treemap-visualizations.md)
@@ -169,6 +169,6 @@ ht-degree: 3%
    + Komplexa data {#complex-data}
       + [Använda arrayer med objekt](use-cases/complex-data/object-arrays-in-cja.md)
 + Utkast {#blueprints}
-   + [Customer Journey Analytics-ritning](https://experienceleague.adobe.com/sv/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-   + [Scenario för digital beteendedatakonsolidering](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [Anropa scenariot för analys av deformeringsresa](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [Customer Journey Analytics-ritning](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Scenario för digital beteendedatakonsolidering](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+   + [Anropa scenariot för analys av deformeringsresa](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
