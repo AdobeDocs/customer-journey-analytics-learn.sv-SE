@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Lär dig hur du konfigurerar helt staplade visualiseringar med hjälp av procentandelar i stället för råvärden i Analysis Workspace-projekt i Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479696/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479701/?captions=swe&quality=12&learn=on)
 
 Mer information om [!UICONTROL fully stacked var]-visualiseringar finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html?lang=sv-SE){target="_blank"}.

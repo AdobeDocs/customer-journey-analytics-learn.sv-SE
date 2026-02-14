@@ -22,4 +22,4 @@ Upptäck hur Audience Analysis gör det möjligt för marknadsförare att import
 
 Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-connections/audience-analysis/audience-analysis-overview){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479804/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479808/?captions=swe&learn=on&enablevpops)
