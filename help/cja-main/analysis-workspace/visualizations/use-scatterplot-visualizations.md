@@ -20,4 +20,4 @@ Lär dig hur du använder [!UICONTROL scatter]-visualiseringen i [!DNL Analysis 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479958/?quality=12&learn=on)
 
-Mer information om [!UICONTROL scatter]-visualiseringar finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html){target="_blank"}.
+Mer information om [!UICONTROL scatter]-visualiseringar finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html?lang=sv-SE){target="_blank"}.
