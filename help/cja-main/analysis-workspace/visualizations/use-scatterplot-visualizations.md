@@ -18,6 +18,6 @@ ht-degree: 0%
 
 Lär dig hur du använder [!UICONTROL scatter]-visualiseringen i [!DNL Analysis Workspace]-projekt i [!DNL Customer Journey Analytics]. Den här visualiseringen visar förhållandet mellan dimensionsobjekt och upp till tre mätvärden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479958/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479973/?captions=swe&quality=12&learn=on)
 
 Mer information om [!UICONTROL scatter]-visualiseringar finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html?lang=sv-SE){target="_blank"}.
