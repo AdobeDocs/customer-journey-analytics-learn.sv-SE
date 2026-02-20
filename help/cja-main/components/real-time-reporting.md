@@ -22,4 +22,4 @@ Läs om hur realtidsrapportering i Adobe Customer Journey Analytics ger viktiga 
 
 Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-components/real-time-reporting/real-time){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479943/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479948/?captions=swe&learn=on&enablevpops)
