@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Lär dig administrera och hantera fullständig tabellexport i Customer Journey Analytics.  Med dessa funktioner kan CJA administratörer effektivisera tillsynen, minska antalet manuella kontroller, förbättra automatiseringen och säkerställa tillförlitlig leverans av data till molndestinationer. Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-workspace/export/export-cloud){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3480080/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3480084/?captions=swe&learn=on)
