@@ -18,6 +18,6 @@ ht-degree: 0%
 
 Lär dig hur du lägger till och konfigurerar [!UICONTROL tree map]-visualiseringen i [!DNL Analysis Workspace]-projekt i [!DNL Customer Journey Analytics]. Den här visualiseringen skapar hierarkiska data som en uppsättning kapslade rektanglar och gör att du enkelt kan se mönster som annars skulle vara svåra att upptäcka.
 
->[!VIDEO](https://video.tv.adobe.com/v/3480243/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3480260/?captions=swe&quality=12&learn=on)
 
 Mer information om [!UICONTROL tree map]-visualiseringar finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/treemap.html?lang=sv-SE){target="_blank"}.
