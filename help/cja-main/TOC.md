@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: ad38d3670dfb90852baea4ce2f0e6813f8fe70c7
+source-git-commit: 67936ea5477091530774f8f203a9424c99c36416
 workflow-type: tm+mt
-source-wordcount: '616'
-ht-degree: 3%
+source-wordcount: '656'
+ht-degree: 0%
 
 ---
 
@@ -96,11 +96,11 @@ ht-degree: 3%
       + [Lägg till animeringar på munnen](analysis-workspace/visualizations/add-donut-visualizations.md)
       + [Flera dimensionskolumner i frihandstabeller](analysis-workspace/visualizations/multiple-dimension-columns-in-freeform-tables.md)
       + [Lägg till radvisualiseringar](analysis-workspace/visualizations/line-visualization.md)
-      + [Konfigurera och använda kartvisualisering](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
+      + [Lägg till och konfigurera kartvisualisering](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
       + [Lägg till sammanfattningsvisualiseringar](analysis-workspace/visualizations/use-summary-visualizations.md)
       + [Lägga till textvisualiseringar](analysis-workspace/visualizations/add-text-visualizations.md)
       + [Lägg till punktvisualiseringar](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
-      + [Lägg till trädmappningsvisualisering](analysis-workspace/visualizations/add-treemap-visualizations.md)
+      + [Lägg till visualiseringar för trädmappning](analysis-workspace/visualizations/add-treemap-visualizations.md)
       + [Skapa 100 % staplade visualiseringar](analysis-workspace/visualizations/create-stacked-visualizations.md)
       + [Lägg till prognoser till din visualisering](analysis-workspace/visualizations/forecasting.md)
    + Anteckningar {#annotations}
@@ -134,7 +134,7 @@ ht-degree: 3%
       + [Skapa målgrupper från segment](components/filters/create-audiences-from-segments.md)
       + [Flytta Adobe Analytics-segment till Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
    + [Realtidsrapportering](components/real-time-reporting.md)
-   + Mått {#dimensions}
+   + Dimensioner {#dimensions}
       + [Händelsedjup](components/dimensions/event-depth-in-cja.md)
    + Beräknade mått {#calc-metrics}
       + [Introduktion till beräknade värden i Customer Journey Analytics](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
@@ -170,7 +170,7 @@ ht-degree: 3%
       + [Använd datumfältstöd](use-cases/data-views-use-cases/leverage-date-field-support.md)
    + Komplexa data {#complex-data}
       + [Använda arrayer med objekt](use-cases/complex-data/object-arrays-in-cja.md)
-+ Utkast {#blueprints}
-   + [Customer Journey Analytics-ritning](https://experienceleague.adobe.com/sv/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-   + [Scenario för digital beteendedatakonsolidering](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [Anropa scenariot för analys av deformeringsresa](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
++ Blueprints {#blueprints}
+   + [Customer Journey Analytics Design](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Scenario för digital beteendedatakonsolidering](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+   + [Analysscenario för avböjningsresa](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
