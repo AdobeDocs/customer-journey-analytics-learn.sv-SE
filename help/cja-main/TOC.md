@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 67936ea5477091530774f8f203a9424c99c36416
+source-git-commit: ecd7a9b9945766f6d98bf8cf84e08da3c5de48e5
 workflow-type: tm+mt
-source-wordcount: '656'
-ht-degree: 0%
+source-wordcount: '661'
+ht-degree: 1%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 0%
    + [Vad är Customer Journey Analytics?](cja-basics/what-is-customer-journey-analytics.md)
    + [Varför CJA? Strategisk granskning av CJA jämfört med Adobe Analytics](cja-basics/why-cja-modernize-customer-analytics.md)
    + [Introduktion till Customer Journey Analytics](cja-basics/understanding-customer-journey-analytics.md)
-   + [Nya termer och begrepp](cja-basics/new-terms-and-concepts-in-cja.md)
+   + [Analyser för CJA: Nya termer och hur de mappas](cja-basics/new-terms-and-concepts-in-cja.md)
    + [Customer Journey Analytics landningssida](cja-basics/customer-journey-analytics-landing-page.md)
    + [Använd AI-assistenten](cja-basics/use-ai-assistant.md)
 + Customer Journey Analytics B2B edition {#b2b}
@@ -67,7 +67,7 @@ ht-degree: 0%
       + [Använd datummatematik för att beräkna tiden mellan händelser](data-views/derived-fields/use-date-math-to-calculate-time-between-events.md)
 + Data Insights Agent {#data-insights-agent}
    + [Introduktion](data-insights-agent/introduction-to-the-data-insights-agent.md)
-   + [Användningsexempel](data-insights-agent/data-insights-agent-use-cases.md)
+   + [Användningsfall](data-insights-agent/data-insights-agent-use-cases.md)
    + [Använda Data Insights Agent](data-insights-agent/use-the-data-insights-agent.md)
 + Analysis Workspace {#analysis-workspace}
    + Workspace-projekt {#workspace-projects}
@@ -162,7 +162,7 @@ ht-degree: 0%
    + [Använda Rapporteringsaktivitetshanteraren](reporting-activity-manager/use-the-reporting-activity-manager.md)
 + Experience Platform Integration {#experience-platform-integration}
    + [Förbättrad rapportering för Adobe Journey Optimizer](experience-platform-integration/enhanced-reporting-for-adobe-journey-optimizer.md)
-+ Användningsexempel {#use-cases}
++ Användningsfall {#use-cases}
    + Artificiell intelligens {#ai}
       + [Spåra och analysera AI-trafik](use-cases/ai/track-and-analyze-ai-traffic.md)
    + Datavyer använder exempel {#data-views-use-cases}
@@ -171,6 +171,6 @@ ht-degree: 0%
    + Komplexa data {#complex-data}
       + [Använda arrayer med objekt](use-cases/complex-data/object-arrays-in-cja.md)
 + Blueprints {#blueprints}
-   + [Customer Journey Analytics Design](https://experienceleague.adobe.com/sv/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-   + [Scenario för digital beteendedatakonsolidering](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [Analysscenario för avböjningsresa](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [Customer Journey Analytics Design](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Scenario för digital beteendedatakonsolidering](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+   + [Analysscenario för avböjningsresa](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}

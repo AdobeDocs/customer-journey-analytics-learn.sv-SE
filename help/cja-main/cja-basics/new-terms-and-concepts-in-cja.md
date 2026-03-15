@@ -1,6 +1,6 @@
 ---
-title: Nya villkor och begrepp i Customer Journey Analytics
-description: I den här videon diskuterar vi nyckeltermer och begrepp i Adobe Customer Journey Analytics, hur de mappas till termer och begrepp i Adobe Analytics och var de kan ses i Customer Journey Analytics gränssnitt.
+title: Analytics to CJA - New Terms and How Deaps
+description: Lär dig hur du översätter dina befintliga Adobe Analytics-kunskaper till Customer Journey Analytics genom att mappa välbekanta begrepp som statistik, rapportsviter, variabler med mera till CJA-motsvarigheter.
 feature: Workspace Basics
 topics: null
 activity: use
@@ -8,20 +8,22 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 32113.jpg
 kt: 3960
-role: User
+role: Admin, User
 level: Beginner
+duration: 410
+last-substantial-update: 2026-03-11T00:00:00Z
 exl-id: aa063ebb-c171-47a8-b1c5-12f24e1a59b8
-source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
+source-git-commit: ecd7a9b9945766f6d98bf8cf84e08da3c5de48e5
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
 
-# Nya villkor och begrepp i Customer Journey Analytics
+# Analyser av CJA - nya termer och hur de mappas
 
-I den här videon diskuterar vi nyckeltermer och begrepp i Customer Journey Analytics, hur de mappas till termer och begrepp i Adobe Analytics och var de kan ses i Customer Journey Analytics gränssnitt.
+Lär dig hur du översätter dina befintliga Adobe Analytics-kunskaper till Customer Journey Analytics genom att mappa välbekanta begrepp som statistik, rapportsviter, variabler med mera till CJA-motsvarigheter. I den här högnivåvideon förklaras CJA relation med Experience Platform och här visas var dessa mappade termer finns i gränssnittet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481340/?captions=swe&quality=12&learn=on)
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/cja-overview){target="_blank"}.
 
-Mer information om Customer Journey Analytics finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=sv-SE){target="_blank"}.
+>[!VIDEO](https://video.tv.adobe.com/v/32113/?quality=12&learn=on)
