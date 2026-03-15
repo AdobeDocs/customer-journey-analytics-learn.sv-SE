@@ -24,6 +24,6 @@ ht-degree: 0%
 
 Lär dig hur du översätter dina befintliga Adobe Analytics-kunskaper till Customer Journey Analytics genom att mappa välbekanta begrepp som statistik, rapportsviter, variabler med mera till CJA-motsvarigheter. I den här högnivåvideon förklaras CJA relation med Experience Platform och här visas var dessa mappade termer finns i gränssnittet.
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/cja-overview){target="_blank"}.
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-overview/cja-b2c-overview/cja-overview){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32113/?quality=12&learn=on)
