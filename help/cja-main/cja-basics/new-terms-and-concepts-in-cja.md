@@ -26,4 +26,4 @@ Lär dig hur du översätter dina befintliga Adobe Analytics-kunskaper till Cust
 
 Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-overview/cja-b2c-overview/cja-overview){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/32113/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481340/?captions=swe&quality=12&learn=on)
