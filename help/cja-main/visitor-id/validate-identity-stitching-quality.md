@@ -21,6 +21,6 @@ Läs mer om funktionen för förhandsgranskning av datauppsättningar i Customer
 
 Utvärdera datauppsättningens lämplighet för tillförlitlig rapportering över olika enheter och kanaler före intag, vilket dramatiskt minskar time to value och minskar riskerna vid beslut om identitetsstrategier med realtidsinsikter.
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/en/docs/analytics-platform/using/stitching/validate){target="_blank"}.
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/stitching/validate){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481892/?learn=on&enablevpops)
