@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: ecd7a9b9945766f6d98bf8cf84e08da3c5de48e5
+source-git-commit: c4adc96faebf26fd3e0e58fe38b2a0a7f3c2d5c4
 workflow-type: tm+mt
-source-wordcount: '661'
+source-wordcount: '668'
 ht-degree: 1%
 
 ---
@@ -40,9 +40,10 @@ ht-degree: 1%
    + [Kom igång med målgruppsanalys](connections/get-started-with-audience-analysis.md)
 + Besökaridentifiering {#visitor-id}
    + [Så här använder CJA identitet](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
-   + [Konfigurera ett person-ID som saknas](visitor-id/configure-missing-person-id.md)
    + [Översikt över häftning](visitor-id/overview-of-stitching.md)
+   + [Validera data och jämn kvalitet med hjälp av förhandsgranskning](visitor-id/validate-identity-stitching-quality.md)
    + [Möjlighet och validering av textning](visitor-id/stitching-enablement-and-validation.md)
+   + [Konfigurera ett person-ID som saknas](visitor-id/configure-missing-person-id.md)
 + Datavyer {#data-views}
    + [Översikt över hur datavyer konfigureras för CJA](data-views/overview-of-configuring-data-views-for-cja.md)
    + [Grundkonfiguration för datavyer](data-views/basic-configuration-for-data-views.md)
@@ -171,6 +172,6 @@ ht-degree: 1%
    + Komplexa data {#complex-data}
       + [Använda arrayer med objekt](use-cases/complex-data/object-arrays-in-cja.md)
 + Blueprints {#blueprints}
-   + [Customer Journey Analytics Design](https://experienceleague.adobe.com/sv/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-   + [Scenario för digital beteendedatakonsolidering](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [Analysscenario för avböjningsresa](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [Customer Journey Analytics Design](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Scenario för digital beteendedatakonsolidering](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+   + [Analysscenario för avböjningsresa](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
