@@ -23,4 +23,4 @@ Utvärdera datauppsättningens lämplighet för tillförlitlig rapportering öve
 
 Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/stitching/validate){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481892/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481896/?captions=swe&learn=on&enablevpops)
